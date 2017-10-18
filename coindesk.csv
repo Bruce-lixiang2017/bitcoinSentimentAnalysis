@@ -1,491 +1,491 @@
 ,Title,Tokenized Title,Date,Authors
-0,just segwit? bitcoin core is already working on a new scaling upgrade,"{u'core': 1, u'already': 1, u'work': 0, u'bitcoin': 1, u'scaling': 1, u'upgrade': 1, u'new': 1, u'segwit': 1}",Oct-12-2017,alyssa hertig
-1,bitcoin-ethereum atomic swap code now open source,"{u'code': 1, u'bitcoin-ethereum': 1, u'source': 1, u'atomic': 1, u'open': 1, u'swap': 1}",Oct-11-2017,alyssa hertig
-2,bitpay is growing? how startup suspicions are fueling bitcoin's fork debate,"{u'fork': 1, u'startup': 1, u'bitcoin': 1, u'bitpay': 1, u'suspicion': 0, u'fuel': 0, u'debate': 1, u'grow': 0}",Oct-09-2017,bailey reutzel
-3,bitcoin meets netflix? laolu is building a lightning-powered app for that,"{u'lightning-powered': 1, u'netflix': 1, u'app': 1, u'bitcoin': 1, u'laolu': 1, u'build': 0, u'meet': 0}",Oct-07-2017,alyssa hertig
-4,calm before the fork? segwit2x goes silent as bitcoin split looms,"{u'fork': 1, u'loom': 0, u'silent': 1, u'bitcoin': 1, u'calm': 1, u'go': 0, u'x': 1, u'segwit': 1, u'split': 1}",Oct-06-2017,alyssa hertig
-5,council staffers fired for bitcoin mining in crimea,"{u'mining': 1, u'fire': 0, u'bitcoin': 1, u'staffer': 0, u'council': 1, u'crimea': 1}",Oct-05-2017,stan higgins
-6,guns & crypto: how bitcoin is helping keep cody wilson's anarchist dream alive,"{u'wilson': 1, u'help': 0, u'bitcoin': 1, u'alive': 1, u'keep': 1, u'gun': 0, u'anarchist': 1, u'cody': 1, u'dream': 1, u'crypto': 1}",Oct-01-2017,michael del castillo
-7,edward snowden: zcash is 'most interesting bitcoin alternative',"{u'snowden': 1, u'interesting': 1, u'bitcoin': 1, u'zcash': 1, u'edward': 1, u'alternative': 1}",Sep-29-2017,rachel rose o'leary
-8,the head of the sec is 'concerned' about ico pump-and-dumps,"{u'ico': 1, u'head': 1, u'sec': 1, u'pump-and-dumps': 1, u'concern': 0}",Sep-28-2017,stan higgins
-9,staking sidechains? new paper proposes twist on bitcoin tech,"{u'propose': 0, u'stake': 0, u'bitcoin': 1, u'twist': 1, u'paper': 1, u'tech': 1, u'new': 1, u'sidechains': 1}",Sep-27-2017,rachel rose o'leary
-10,"first cash, now gold? another bitcoin hard fork is on the way","{u'fork': 1, u'way': 1, u'gold': 1, u'hard': 1, u'bitcoin': 1, u'cash': 1, u'another': 1, u'first': 1}",Sep-27-2017,alyssa hertig
-11,mimblewimble won't ico but will launch cryptocurrency,"{u'cryptocurrency': 1, u'mimblewimble': 1, u'ico': 1, u'launch': 1}",Sep-26-2017,alyssa hertig
-12,untangling bitcoin: why russell yanofsky is taking apart crypto's oldest code,"{u'code': 1, u'old': 0, u'russell': 1, u'bitcoin': 1, u'crypto': 1, u'untangle': 0, u'take': 0, u'yanofsky': 1, u'apart': 1}",Sep-24-2017,alyssa hertig
-13,bitcoin developers reveal roadmap for 'dandelion' privacy project,"{u'reveal': 1, u'dandelion': 1, u'privacy': 1, u'bitcoin': 1, u'roadmap': 1, u'project': 1, u'developer': 0}",Sep-22-2017,rachel rose o'leary
-14,nebraska lawyers accept bitcoin following ethics board approval,"{u'ethic': 0, u'bitcoin': 1, u'accept': 1, u'nebraska': 1, u'board': 1, u'lawyer': 0, u'approval': 1, u'follow': 0}",Sep-21-2017,stan higgins
-15,optimizing segwit: how bitcoin's new software is giving scaling a boost,"{u'scale': 0, u'give': 0, u'bitcoin': 1, u'new': 1, u'segwit': 1, u'boost': 1, u'optimize': 0, u'software': 1}",Sep-20-2017,alyssa hertig
-16,$9 million: bitcoin startup luno completes series b funding,"{u'b': 1, u'funding': 1, u'complete': 0, u'series': 1, u'million': 1, u'startup': 1, u'bitcoin': 1, u'luno': 1}",Sep-19-2017,stan higgins
-17,split on forks? blockchain leaders learn tough lessons from bitcoin scaling,"{u'fork': 0, u'scale': 0, u'tough': 1, u'blockchain': 1, u'bitcoin': 1, u'split': 1, u'learn': 1, u'lesson': 0, u'leader': 0}",Sep-18-2017,bailey reutzel
-18,institutional cryptoeconomics: a new model for a new century,"{u'institutional': 1, u'new': 2, u'model': 1, u'cryptoeconomics': 1, u'century': 1}",Sep-16-2017,"chris berg, sinclair davidson and jason potts"
-19,'revolutionary': finland central bank paper heaps praise on bitcoin,"{u'revolutionary': 1, u'central': 1, u'praise': 1, u'finland': 1, u'bitcoin': 1, u'paper': 1, u'heap': 0, u'bank': 1}",Sep-11-2017,rachel rose o'leary
-20,master plan: better bitcoin smart contracts could go live this year,"{u'could': 1, u'well': 0, u'bitcoin': 1, u'contract': 0, u'live': 1, u'master': 1, u'plan': 1, u'year': 1, u'go': 1, u'smart': 1}",Sep-11-2017,alyssa hertig
-21,scaling lightning? how revive could boost bitcoin's boldest scaling plan,"{u'scale': 0, u'bold': 0, u'could': 1, u'revive': 1, u'bitcoin': 1, u'scaling': 2, u'plan': 1, u'lightning': 1, u'boost': 1}",Sep-10-2017,alyssa hertig
-22,japan's gmo internet reveals cryptocurrency mining plan,"{u'reveals': 1, u'mining': 1, u'gmo': 1, u'cryptocurrency': 1, u'plan': 1, u'internet': 1, u'japan': 1}",Sep-08-2017,stan higgins
-23,lightning's next act: decentralizing bitcoin mining?,"{u'decentralize': 0, u'bitcoin': 1, u'mining': 1, u'lightning': 1, u'act': 1, u'next': 1}",Sep-08-2017,alyssa hertig
-24,'not an investment': internet archive defends decision to hold bitcoin,"{u'defend': 0, u'decision': 1, u'bitcoin': 1, u'investment': 1, u'internet': 1, u'hold': 1, u'archive': 1}",Sep-05-2017,rachel rose o'leary
-25,stuck with fees? new bitcoin tech could end wallet guessing games,"{u'guess': 0, u'fee': 0, u'end': 1, u'could': 1, u'bitcoin': 1, u'wallet': 1, u'game': 0, u'tech': 1, u'stick': 0, u'new': 1}",Sep-03-2017,alyssa hertig
-26,monopoly-resistant mining? paper claims bitcoin centralization fears overblown,"{u'claim': 0, u'mining': 1, u'bitcoin': 1, u'overblown': 1, u'paper': 1, u'fear': 0, u'centralization': 1, u'monopoly-resistant': 1}",Sep-01-2017,alyssa hertig
-27,inevitable bust? gpu makers see crypto mining as short-term sales boost,"{u'mining': 1, u'sale': 0, u'bust': 1, u'crypto': 1, u'see': 1, u'maker': 0, u'gpu': 1, u'boost': 1, u'inevitable': 1, u'short-term': 1}",Sep-01-2017,aaron stanley
-28,f2pool reneges: bitcoin pool pulls segwit2x support over hard fork,"{u'fork': 1, u'pull': 0, u'f': 1, u'support': 1, u'hard': 1, u'bitcoin': 1, u'renege': 0, u'x': 1, u'segwit': 1, u'pool': 2}",Aug-31-2017,alyssa hertig
-29,creator of world's first bitcoin fuel pump plans lightning support,"{u'creator': 1, u'support': 1, u'bitcoin': 1, u'lightning': 1, u'pump': 1, u'plan': 0, u'fuel': 1, u'world': 1, u'first': 1}",Aug-31-2017,rachel rose o'leary
-30,bitcoin meets zcash: developers test tool for trustless trades,"{u'trustless': 1, u'tool': 1, u'bitcoin': 1, u'zcash': 1, u'trade': 0, u'test': 1, u'meet': 0, u'developer': 0}",Aug-29-2017,alyssa hertig
-31,segwit's slow rollout: why bitcoin's capacity hasn't seen a sudden boost,"{u'slow': 1, u'capacity': 1, u'bitcoin': 1, u'see': 0, u'sudden': 1, u'rollout': 1, u'segwit': 1, u'boost': 1}",Aug-29-2017,alyssa hertig
-32,submarine sends: ic3's plan to clamp down on ico cheats,"{u'clamp': 1, u'ico': 1, u'cheat': 0, u'send': 0, u'submarine': 1, u'plan': 1, u'ic': 1}",Aug-28-2017,bailey reutzel
-33,risk or reward: how crypto exchanges cash in on new currency,"{u'risk': 1, u'exchange': 0, u'cash': 1, u'crypto': 1, u'currency': 1, u'new': 1, u'reward': 1}",Aug-26-2017,karen epper hoffman
-34,bitcoin's lightning network moves closer to compatibility,"{u'closer': 1, u'network': 1, u'move': 0, u'bitcoin': 1, u'lightning': 1, u'compatibility': 1}",Aug-25-2017,alyssa hertig
-35,bitcoin cash returns to profitability amid mining adjustments,"{u'mining': 1, u'return': 0, u'amid': 1, u'bitcoin': 1, u'profitability': 1, u'cash': 1, u'adjustment': 0}",Aug-24-2017,jimmy song
-36,drivechain developers hold first meeting on future of sidechains project,"{u'drivechain': 1, u'project': 1, u'future': 1, u'developer': 0, u'sidechains': 1, u'hold': 1, u'meeting': 1, u'first': 1}",Aug-24-2017,alyssa hertig
-37,segwit2x developers label controversial bitcoin code 'production release',"{u'code': 1, u'bitcoin': 1, u'label': 1, u'production': 1, u'controversial': 1, u'release': 1, u'x': 1, u'segwit': 1, u'developer': 0}",Aug-24-2017,alyssa hertig
-38,segwit goes live: why bitcoin's big upgrade is a blockchain game-changer,"{u'upgrade': 1, u'big': 1, u'game-changer': 1, u'blockchain': 1, u'bitcoin': 1, u'live': 1, u'go': 0, u'segwit': 1}",Aug-23-2017,alyssa hertig
-39,chasing profit? bitcoin miners swap networks as difficulty swings,"{u'chasing': 1, u'network': 0, u'profit': 1, u'miner': 0, u'bitcoin': 1, u'difficulty': 1, u'swap': 1, u'swing': 0}",Aug-23-2017,jimmy song
-40,lightning's tadge dryja is working on a bitcoin cash 'splitter',"{u'splitter': 1, u'bitcoin': 1, u'work': 0, u'cash': 1, u'dryja': 1, u'tadge': 1, u'lightning': 1}",Aug-23-2017,alyssa hertig
-41,the newest version of the opendime bitcoin wallet is out,"{u'new': 0, u'version': 1, u'bitcoin': 1, u'opendime': 1, u'wallet': 1}",Aug-22-2017,stan higgins
-42,bitcoin's battle over segwit2x has begun,"{u'battle': 1, u'x': 1, u'begin': 0, u'segwit': 1, u'bitcoin': 1}",Aug-22-2017,alyssa hertig
-43,bitcoin cash wins mining power as price falls back below $600,"{u'back': 1, u'power': 1, u'win': 0, u'price': 1, u'fall': 0, u'mine': 0, u'bitcoin': 1, u'cash': 1}",Aug-21-2017,pete rizzo
-44,making sense of cryptoeconomics,"{u'make': 0, u'cryptoeconomics': 1, u'sense': 1}",Aug-19-2017,josh stark
-45,corporate analyst fisco tests issuance of bitcoin bond in japan,"{u'fisco': 1, u'bitcoin': 1, u'issuance': 1, u'test': 0, u'japan': 1, u'corporate': 1, u'analyst': 1, u'bond': 1}",Aug-18-2017,stan higgins
-46,bitcoin cash is now more profitable to mine than bitcoin,"{u'profitable': 1, u'bitcoin': 2, u'cash': 1, u'mine': 1}",Aug-18-2017,jimmy song
-47,couldn't claim your bitcoin cash? btc.com now has a tool for that,"{u'claim': 1, u'tool': 1, u'btc.com': 1, u'cash': 1, u'bitcoin': 1}",Aug-18-2017,alyssa hertig
-48,what's next for bitcoin cash? making profitless mining profitable,"{u'profitable': 1, u'mining': 1, u'bitcoin': 1, u'next': 1, u'cash': 1, u'making': 1, u'profitless': 1}",Aug-18-2017,alyssa hertig
-49,lightning bank ledgers? bitfury and ripple demo new twist on bitcoin tech,"{u'demo': 1, u'ledger': 0, u'bitcoin': 1, u'lightning': 1, u'twist': 1, u'bitfury': 1, u'tech': 1, u'ripple': 1, u'new': 1, u'bank': 1}",Aug-17-2017,alyssa hertig
-50,coinbase awarded patent for bitcoin security concept,"{u'concept': 1, u'patent': 1, u'bitcoin': 1, u'award': 0, u'coinbase': 1, u'security': 1}",Aug-17-2017,stan higgins
-51,"block 494,784: segwit2x developers set date for bitcoin hard fork","{u'fork': 1, u'set': 1, u'hard': 1, u'bitcoin': 1, u'date': 1, u'x': 1, u'segwit': 1, u'block': 1, u'developer': 0}",Aug-16-2017,pete rizzo
-52,blockstream is using satellites to beam bitcoin down to earth,"{u'use': 0, u'blockstream': 1, u'satellite': 0, u'bitcoin': 1, u'beam': 1, u'earth': 1}",Aug-15-2017,alyssa hertig
-53,segwit in the wild: 4 lessons bitcoin can learn from litecoin,"{u'litecoin': 1, u'bitcoin': 1, u'learn': 1, u'wild': 1, u'lesson': 0, u'segwit': 1}",Aug-10-2017,alyssa hertig
-54,full steam ahead? segwit2x reaffirms bitcoin hard fork plan,"{u'fork': 1, u'full': 1, u'ahead': 1, u'hard': 1, u'reaffirms': 1, u'bitcoin': 1, u'plan': 1, u'x': 1, u'segwit': 1, u'steam': 1}",Aug-09-2017,alyssa hertig
-55,it's official: segregated witness will activate on bitcoin,"{u'official': 1, u'activate': 1, u'segregated': 1, u'witness': 1, u'bitcoin': 1}",Aug-08-2017,alyssa hertig
-56,$100 million: putin advisor targets big raise for bitcoin mining ico,"{u'mining': 1, u'putin': 1, u'ico': 1, u'raise': 1, u'big': 1, u'million': 1, u'bitcoin': 1, u'advisor': 1, u'target': 0}",Aug-08-2017,stan higgins
-57,segwit lock-in: what the tech milestone means for bitcoin,"{u'lock-in': 1, u'bitcoin': 1, u'tech': 1, u'milestone': 1, u'segwit': 1, u'mean': 0}",Aug-08-2017,alyssa hertig
-58,bitcoin cash eases mining difficulty as blockchain adjusts,"{u'adjusts': 1, u'blockchain': 1, u'mine': 0, u'bitcoin': 1, u'difficulty': 1, u'cash': 1, u'eas': 0}",Aug-07-2017,jimmy song
-59,wannacry on the move? bitcoin crime evolves in a multi-blockchain world,"{u'evolve': 0, u'move': 1, u'bitcoin': 1, u'multi-blockchain': 1, u'crime': 1, u'world': 1, u'wannacry': 1}",Aug-07-2017,bailey reutzel
-60,bitcoin fork blues? these new yorkers threw a party,"{u'fork': 1, u'blue': 0, u'yorkers': 1, u'bitcoin': 1, u'party': 1, u'new': 1, u'throw': 0}",Aug-05-2017,wolfie zhao
-61,bitcoin cash block production accelerates as mining difficulty adjusts,"{u'mining': 1, u'adjusts': 1, u'bitcoin': 1, u'cash': 1, u'difficulty': 1, u'production': 1, u'accelerate': 0, u'block': 1}",Aug-04-2017,alyssa hertig
-62,why even miners that hate bitcoin cash might want to mine it,"{u'even': 1, u'might': 1, u'miner': 0, u'bitcoin': 1, u'mine': 1, u'want': 1, u'cash': 1, u'hate': 1}",Aug-04-2017,jimmy song
-63,gdax pledges to enable bitcoin cash withdrawals by 2018,"{u'enable': 1, u'pledge': 0, u'gdax': 1, u'cash': 1, u'bitcoin': 1, u'withdrawal': 0}",Aug-03-2017,stan higgins
-64,uasf revisited: will bitcoin's user revolt leave a lasting legacy?,"{u'revolt': 1, u'bitcoin': 1, u'revisit': 0, u'leave': 1, u'legacy': 1, u'user': 1, u'uasf': 1, u'lasting': 1}",Aug-02-2017,alyssa hertig
-65,what happened to bitcoin: a recap of the blockchain's big split,"{u'big': 1, u'blockchain': 1, u'bitcoin': 1, u'split': 1, u'recap': 1, u'happen': 0}",Aug-01-2017,stan higgins
-66,"bitcoin cash just mined its first block, making blockchain split official","{u'make': 0, u'official': 1, u'blockchain': 1, u'mine': 0, u'bitcoin': 1, u'split': 1, u'cash': 1, u'block': 1, u'first': 1}",Aug-01-2017,stan higgins
-67,"bitcoin is forking, but bitcoin cash hasn't been created yet","{u'fork': 0, u'create': 0, u'bitcoin': 2, u'cash': 1, u'yet': 1}",Aug-01-2017,stan higgins
-68,bitcoin uasf proposal quietly activates – to little effect,"{u'little': 1, u'activate': 0, u'bitcoin': 1, u'effect': 1, u'uasf': 1, u'quietly': 1, u'proposal': 1}",Aug-01-2017,alyssa hertig
-69,bitcoin cash: who supports the fork and who doesn't,"{u'fork': 1, u'support': 0, u'bitcoin': 1, u'cash': 1}",Aug-01-2017,alyssa hertig
-70,bitcoin fork watch: news & guides for the coming bitcoin cash split,"{u'fork': 1, u'watch': 1, u'bitcoin': 2, u'cash': 1, u'split': 1, u'news': 1, u'come': 0, u'guide': 0}",Aug-01-2017,coindesk
-71,the bitcoin cash timeline: what will happen when,"{u'timeline': 1, u'happen': 1, u'bitcoin': 1, u'cash': 1}",Jul-31-2017,jimmy song
-72,bitcoin cash 101: what users need to know before the fork,"{u'fork': 1, u'bitcoin': 1, u'cash': 1, u'user': 0, u'need': 1, u'know': 1}",Jul-31-2017,amy castor
-73,new york city staffer sanctioned for mining bitcoins at work,"{u'city': 1, u'mining': 1, u'bitcoins': 1, u'work': 1, u'staffer': 1, u'york': 1, u'sanction': 0, u'new': 1}",Jul-31-2017,stan higgins
-74,could spv support a billion bitcoin users? sizing up a scaling claim,"{u'billion': 1, u'claim': 1, u'could': 1, u'bitcoin': 1, u'spv': 1, u'scaling': 1, u'user': 0, u'support': 1, u'size': 0}",Jul-30-2017,jameson lopp
-75,startups brace for bitcoin cash fork in wave of policy updates,"{u'fork': 1, u'bitcoin': 1, u'update': 0, u'startup': 0, u'cash': 1, u'wave': 1, u'policy': 1, u'brace': 1}",Jul-29-2017,alyssa hertig
-76,viabtc claims neutrality ahead of bitcoin cash's likely launch,"{u'claim': 0, u'ahead': 1, u'launch': 1, u'cash': 1, u'bitcoin': 1, u'neutrality': 1, u'likely': 1, u'viabtc': 1}",Jul-29-2017,pete rizzo
-77,bitcoin investment vehicle adopts open strategy ahead of blockchain fork,"{u'fork': 1, u'ahead': 1, u'blockchain': 1, u'bitcoin': 1, u'strategy': 1, u'vehicle': 1, u'open': 1, u'investment': 1, u'adopts': 1}",Jul-28-2017,wolfie zhao
-78,why are miners involved in bitcoin code changes anyway?,"{u'code': 1, u'miner': 0, u'bitcoin': 1, u'anyway': 1, u'involve': 0, u'change': 0}",Jul-28-2017,alyssa hertig
-79,bitcoin startup keepkey ends support for multibit wallet software,"{u'end': 0, u'support': 1, u'startup': 1, u'bitcoin': 1, u'keepkey': 1, u'wallet': 1, u'multibit': 1, u'software': 1}",Jul-27-2017,wolfie zhao
-80,a new segwit lock-in period has started and all mining pools are signaling,"{u'mining': 1, u'signal': 0, u'lock-in': 1, u'period': 1, u'start': 0, u'new': 1, u'segwit': 1, u'pool': 0}",Jul-27-2017,alyssa hertig
-81,the big news behind the btc-e arrest and mt gox connection,"{u'arrest': 1, u'big': 1, u'connection': 1, u'mt': 1, u'behind': 1, u'gox': 1, u'btc-e': 1, u'news': 1}",Jul-26-2017,pete rizzo
-82,bitcoin cash: why it's forking the blockchain and what that means,"{u'fork': 0, u'mean': 0, u'blockchain': 1, u'cash': 1, u'bitcoin': 1}",Jul-26-2017,alyssa hertig
-83,what's left before segwit goes live? bitcoin's path to more capacity,"{u'capacity': 1, u'bitcoin': 1, u'leave': 0, u'live': 1, u'go': 0, u'path': 1, u'segwit': 1}",Jul-25-2017,pete rizzo
-84,'unrealistic': bip 91 creator james hilliard has choice words for segwit2x,"{u'word': 0, u'creator': 1, u'james': 1, u'choice': 1, u'hilliard': 1, u'x': 1, u'segwit': 1, u'unrealistic': 1, u'bip': 1}",Jul-24-2017,alyssa hertig
-85,between a rock and a hard fork: jeff garzik's plan to avoid a bitcoin split,"{u'fork': 1, u'garzik': 1, u'jeff': 1, u'avoid': 1, u'hard': 1, u'bitcoin': 1, u'plan': 1, u'rock': 1, u'split': 1}",Jul-22-2017,alyssa hertig
-86,understanding bitcoin's scaling debate: politics comes first,"{u'scale': 0, u'bitcoin': 1, u'understand': 0, u'politics': 1, u'come': 0, u'debate': 1, u'first': 1}",Jul-21-2017,jim harper
-87,bip 91 locks in: what this means for bitcoin and why it's not scaled yet,"{u'scale': 0, u'lock': 0, u'bitcoin': 1, u'yet': 1, u'bip': 1, u'mean': 0}",Jul-21-2017,alyssa hertig
-88,bitcoin startups advise caution as scaling proposals collide,"{u'scale': 0, u'startup': 0, u'bitcoin': 1, u'collide': 1, u'caution': 1, u'advise': 1, u'proposal': 0}",Jul-20-2017,bailey reutzel
-89,research finds design flaws in scaling proposal bitcoin unlimited,"{u'flaw': 0, u'scale': 0, u'unlimited': 1, u'bitcoin': 1, u'research': 1, u'design': 1, u'proposal': 1, u'find': 0}",Jul-19-2017,pete rizzo
-90,behind on bitcoin drama? a (short) history of scaling,"{u'scale': 0, u'bitcoin': 1, u'drama': 1, u'behind': 1, u'short': 1, u'history': 1}",Jul-19-2017,pete rizzo
-91,will miners signal? bitcoin's next segwit2x lock-in period starts today,"{u'lock-in': 1, u'signal': 1, u'miner': 0, u'bitcoin': 1, u'next': 1, u'start': 0, u'period': 1, u'x': 1, u'segwit': 1, u'today': 1}",Jul-18-2017,alyssa hertig
-92,what could happen to bitcoin? a visual guide to scaling outcomes,"{u'scale': 0, u'could': 1, u'bitcoin': 1, u'visual': 1, u'happen': 1, u'outcome': 0, u'guide': 1}",Jul-18-2017,alyssa hertig
-93,coindesk explainer: how bip 91 enacts segwit while avoiding a bitcoin split,"{u'enacts': 1, u'coindesk': 1, u'avoid': 0, u'bitcoin': 1, u'split': 1, u'segwit': 1, u'explainer': 1, u'bip': 1}",Jul-18-2017,amy castor
-94,scaling bitcoin unveils 2017 conference dates,"{u'conference': 1, u'date': 0, u'scale': 0, u'bitcoin': 1, u'unveils': 1}",Jul-17-2017,pete rizzo
-95,satoshipay to stop using bitcoin blockchain for micropayments,"{u'use': 0, u'stop': 1, u'blockchain': 1, u'satoshipay': 1, u'bitcoin': 1, u'micropayments': 1}",Jul-17-2017,chuan tian
-96,gdax plans to suspend bitcoin withdrawals if uasf activates,"{u'suspend': 1, u'gdax': 1, u'bitcoin': 1, u'plan': 0, u'withdrawal': 0, u'uasf': 1, u'activates': 1}",Jul-14-2017,wolfie zhao
-97,the segwit2x boycott: bitcoin's uasf isn't backing down from august deadline,"{u'back': 0, u'august': 1, u'bitcoin': 1, u'boycott': 1, u'deadline': 1, u'uasf': 1, u'x': 1, u'segwit': 1}",Jul-14-2017,alyssa hertig
-98,bitcoin and the benefits of 'coopetition',"{u'coopetition': 1, u'benefit': 0, u'bitcoin': 1}",Jul-14-2017,jameson lopp
-99,bitcoin scaling watch: news & guides to navigate the coming clash of code,"{u'code': 1, u'clash': 1, u'navigate': 1, u'watch': 1, u'bitcoin': 1, u'scale': 0, u'news': 1, u'come': 0, u'guide': 0}",Jul-13-2017,coindesk
-100,beyond segwit2x: paul sztorc thinks bitcoin needs a new scaling roadmap,"{u'segwit': 1, u'sztorc': 1, u'bitcoin': 1, u'roadmap': 1, u'scaling': 1, u'new': 1, u'need': 0, u'x': 1, u'paul': 1, u'beyond': 1, u'think': 0}",Jul-13-2017,alyssa hertig
-101,explainer: what is segwit2x and what does it mean for bitcoin?,"{u'x': 1, u'segwit': 1, u'explainer': 1, u'bitcoin': 1, u'mean': 1}",Jul-12-2017,alyssa hertig
-102,gambling on a hard fork: will roger ver take up a high-stakes bitcoin wager?,"{u'fork': 1, u'high-stakes': 1, u'ver': 1, u'hard': 1, u'bitcoin': 1, u'roger': 1, u'take': 1, u'wager': 1, u'gamble': 0}",Jul-12-2017,amy castor
-103,immature code or good test? bitcoin scaling proposal segwit2x's testnet forks,"{u'fork': 0, u'good': 1, u'bitcoin': 1, u'testnet': 1, u'code': 1, u'scale': 0, u'test': 1, u'x': 1, u'immature': 1, u'segwit': 1, u'proposal': 1}",Jul-11-2017,alyssa hertig
-104,bitcoin + post-trade? nivaura exits stealth to help banks use open blockchains,"{u'use': 1, u'help': 1, u'post-trade': 1, u'blockchains': 1, u'bitcoin': 1, u'stealth': 1, u'exit': 0, u'nivaura': 1, u'open': 1, u'bank': 0}",Jul-10-2017,michael del castillo
-105,bitcoin's price surge is making hobby mining profitable again,"{u'profitable': 1, u'mining': 1, u'make': 0, u'bitcoin': 1, u'surge': 1, u'hobby': 1, u'price': 1}",Jul-09-2017,bailey reutzel
-106,smart contracts for bitcoin? lightning's tadge dryja is working on it,"{u'work': 0, u'dryja': 1, u'contract': 0, u'bitcoin': 1, u'tadge': 1, u'lightning': 1, u'smart': 1}",Jul-08-2017,alyssa hertig
-107,who watches bitcoin's watchmen? scaling's great game of egos,"{u'great': 1, u'scale': 0, u'watch': 0, u'bitcoin': 1, u'watchman': 0, u'game': 1, u'ego': 0}",Jul-07-2017,pete rizzo
-108,fidelity charitable has raised $9 million in bitcoin so far in 2017,"{u'raise': 0, u'far': 1, u'million': 1, u'bitcoin': 1, u'charitable': 1, u'fidelity': 1}",Jun-29-2017,stan higgins
-109,bitcoin scaling project segwit2x to release new code today,"{u'scale': 0, u'bitcoin': 1, u'project': 1, u'code': 1, u'new': 1, u'release': 1, u'x': 1, u'segwit': 1, u'today': 1}",Jun-29-2017,alyssa hertig
-110,bitcoin legal experts: nchain segwit criticisms are flawed,"{u'criticism': 0, u'flaw': 0, u'expert': 0, u'nchain': 1, u'bitcoin': 1, u'legal': 1, u'segwit': 1}",Jun-28-2017,pete rizzo
-111,the risks of segregated witness: possible problems under us contract law,"{u'risk': 0, u'possible': 1, u'contract': 1, u'u': 0, u'problem': 0, u'law': 1, u'witness': 1, u'segregated': 1}",Jun-27-2017,jimmy nguyen
-112,top secret? bitcoin scaling plan segwit2x leaves more questions than answers,"{u'scale': 0, u'top': 1, u'question': 0, u'bitcoin': 1, u'leave': 0, u'secret': 1, u'plan': 1, u'answer': 0, u'x': 1, u'segwit': 1}",Jun-23-2017,alyssa hertig
-113,a bitcoin scaling upgrade: how it could finally happen (and how it could fail),"{u'upgrade': 1, u'could': 2, u'bitcoin': 1, u'finally': 1, u'scale': 0, u'fail': 1, u'happen': 1}",Jun-21-2017,alyssa hertig
-114,you can now type the bitcoin 'b' symbol in unicode text,"{u'b': 1, u'text': 1, u'symbol': 1, u'bitcoin': 1, u'unicode': 1, u'type': 1}",Jun-20-2017,stan higgins
-115,bitcoin miners unite behind scaling proposal segwit2x,"{u'scale': 0, u'miner': 0, u'bitcoin': 1, u'unite': 1, u'behind': 1, u'x': 1, u'proposal': 1, u'segwit': 1}",Jun-19-2017,alyssa hertig
-116,bitcoin scaling proposal segwit2x moves ahead with initial code release,"{u'initial': 1, u'ahead': 1, u'move': 0, u'bitcoin': 1, u'code': 1, u'scale': 0, u'release': 1, u'x': 1, u'proposal': 1, u'segwit': 1}",Jun-16-2017,alyssa hertig
-117,"game of bluffs? with uahf, bitcoin scaling becomes digital 'missile crisis'","{u'scale': 0, u'becomes': 1, u'bitcoin': 1, u'missile': 1, u'game': 1, u'uahf': 1, u'bluff': 0, u'digital': 1, u'crisis': 1}",Jun-15-2017,alyssa hertig
-118,bitcoin scaling: how to give everyone more control,"{u'control': 1, u'scale': 0, u'everyone': 1, u'bitcoin': 1, u'give': 1}",Jun-14-2017,jimmy song
-119,bitcoin developers publish bip for 'dandelion' privacy project,"{u'privacy': 1, u'dandelion': 1, u'bitcoin': 1, u'publish': 1, u'project': 1, u'bip': 1, u'developer': 0}",Jun-13-2017,wolfie zhao
-120,bip 148 + segwit2x? a bitcoin scaling compromise might not be so easy,"{u'scale': 0, u'bitcoin': 1, u'compromise': 1, u'easy': 1, u'x': 1, u'segwit': 1, u'might': 1, u'bip': 1}",Jun-13-2017,alyssa hertig
-121,google's director of engineering won't invest in bitcoin,"{u'director': 1, u'invest': 1, u'engineering': 1, u'google': 1, u'bitcoin': 1}",Jun-09-2017,michael del castillo
-122,charts: bitcoin's network is objectively more congested than ever,"{u'network': 1, u'chart': 0, u'bitcoin': 1, u'objectively': 1, u'ever': 1, u'congested': 1}",Jun-08-2017,alex sunnarborg
-123,bitcoin's 'independence day': could users tip the scales in the scaling debate?,"{u'scale': 0, u'users': 1, u'could': 1, u'tip': 1, u'bitcoin': 1, u'debate': 1, u'scaling': 1, u'day': 1, u'independence': 1}",Jun-08-2017,alyssa hertig
-124,western union reveals pilot coinbase integration,"{u'reveals': 1, u'union': 1, u'integration': 1, u'western': 1, u'coinbase': 1, u'pilot': 1}",Jun-07-2017,noelle acheson
-125,coindesk research launches state of blockchain q1 report,"{u'launch': 0, u'coindesk': 1, u'blockchain': 1, u'research': 1, u'q': 1, u'state': 1, u'report': 1}",Jun-06-2017,alex sunnarborg
-126,are sidechains a better solution for bitcoin's scaling debate?,"{u'good': 0, u'solution': 1, u'bitcoin': 1, u'scale': 0, u'sidechains': 1, u'debate': 1}",Jun-05-2017,alyssa hertig
-127,andresen is back with a one-man security project inspired by bitcoin mishaps,"{u'one-man': 1, u'inspire': 0, u'back': 1, u'mishap': 0, u'bitcoin': 1, u'project': 1, u'security': 1, u'andresen': 1}",Jun-03-2017,bailey reutzel
-128,bitcoin's 'segwit2x' scaling proposal: miners offer optimistic outlook,"{u'outlook': 1, u'scale': 0, u'offer': 1, u'miner': 0, u'bitcoin': 1, u'optimistic': 1, u'x': 1, u'proposal': 1, u'segwit': 1}",Jun-02-2017,pete rizzo
-129,bitcoin's 'segwit2x' scaling proposal: core developers strike critical stance,"{u'core': 1, u'scale': 0, u'stance': 1, u'bitcoin': 1, u'critical': 1, u'strike': 1, u'x': 1, u'proposal': 1, u'segwit': 1, u'developer': 0}",Jun-01-2017,alyssa hertig
-130,bitcoin's 'segwit2x' scaling proposal: where the startups stand,"{u'startup': 0, u'bitcoin': 1, u'scaling': 1, u'stand': 1, u'x': 1, u'proposal': 1, u'segwit': 1}",May-31-2017,alyssa hertig
-131,consensus 2017 recap: panels cast wide net for blockchain discussions,"{u'wide': 1, u'discussion': 0, u'blockchain': 1, u'consensus': 1, u'cast': 1, u'recap': 1, u'net': 1, u'panel': 0}",May-28-2017,stan higgins
-132,cross blockchain trades? lightning gives new life to atomic swaps,"{u'life': 1, u'give': 0, u'blockchain': 1, u'cross': 1, u'lightning': 1, u'atomic': 1, u'new': 1, u'trade': 0, u'swap': 0}",May-27-2017,amy castor
-133,blockchain entrepreneurs target apple and google at token summit,"{u'google': 1, u'target': 1, u'blockchain': 1, u'entrepreneur': 0, u'token': 1, u'summit': 1, u'apple': 1}",May-25-2017,michael del castillo
-134,consensus 2017: bitcoin exchange execs see promise in multi-token future,"{u'multi-token': 1, u'exec': 0, u'exchange': 1, u'bitcoin': 1, u'consensus': 1, u'see': 1, u'future': 1, u'promise': 1}",May-24-2017,pete rizzo
-135,bitcoin's new scaling 'agreement': the reaction,"{u'scaling': 1, u'new': 1, u'reaction': 1, u'agreement': 1, u'bitcoin': 1}",May-24-2017,pete rizzo & alyssa hertig
-136,consensus 2017: blockchain tech leaders predict interoperable future,"{u'predict': 1, u'blockchain': 1, u'consensus': 1, u'future': 1, u'tech': 1, u'interoperable': 1, u'leader': 0}",May-23-2017,michael del castillo
-137,ic3 debuts upgraded off-chain transaction protocol 'teechain',"{u'upgrade': 0, u'protocol': 1, u'teechain': 1, u'debut': 0, u'off-chain': 1, u'transaction': 1, u'ic': 1}",May-22-2017,stan higgins
-138,consensus 2017: bitpay ceo calls bitcoin fork 'only option' for businesses,"{u'fork': 1, u'option': 1, u'business': 0, u'ceo': 1, u'bitcoin': 1, u'bitpay': 1, u'consensus': 1, u'call': 0}",May-22-2017,alyssa hertig
-139,"rsk raises $3.5 million, launches bitcoin smart contract testnet","{u'raise': 0, u'launch': 0, u'million': 1, u'bitcoin': 1, u'contract': 1, u'rsk': 1, u'testnet': 1, u'smart': 1}",May-22-2017,amy castor
-140,bitcoin miner canaan acquires blockchain notary service,"{u'service': 1, u'miner': 1, u'acquire': 0, u'blockchain': 1, u'bitcoin': 1, u'canaan': 1, u'notary': 1}",May-20-2017,stan higgins
-141,where is gavin andresen? the quiet exile of bitcoin's former face,"{u'quiet': 1, u'gavin': 1, u'bitcoin': 1, u'exile': 1, u'face': 1, u'former': 1, u'andresen': 1}",May-19-2017,bailey reutzel
-142,the world is watching: can wannacry's creators cash out their bitcoin ransom?,"{u'ransom': 1, u'creator': 0, u'watch': 0, u'bitcoin': 1, u'cash': 1, u'world': 1, u'wannacry': 1}",May-18-2017,amy castor
-143,"$1,700? bitcoin's price is up even as its tech progress stalls","{u'even': 1, u'price': 1, u'bitcoin': 1, u'stall': 0, u'tech': 1, u'progress': 1}",May-15-2017,alyssa hertig
-144,bitcoin's scaling debate: the view from china's miners,"{u'scale': 0, u'miner': 0, u'bitcoin': 1, u'china': 1, u'debate': 1, u'view': 1}",May-13-2017,paul elliot-ennis & rachel-rose o'leary
-145,pieter wuille's latest project: making bitcoin harder to lose,"{u'late': 0, u'wuille': 1, u'pieter': 1, u'make': 0, u'harder': 1, u'bitcoin': 1, u'project': 1, u'lose': 1}",May-12-2017,alyssa hertig
-146,"bitcoin needs more politics, not less","{u'need': 0, u'politics': 1, u'bitcoin': 1, u'less': 1}",May-04-2017,jim harper
-147,craig wright's new company is building a bitcoin core competitor,"{u'core': 1, u'competitor': 1, u'craig': 1, u'company': 1, u'bitcoin': 1, u'wright': 1, u'build': 0, u'new': 1}",May-02-2017,pete rizzo
-148,antbleed: bitcoin's newest new controversy explained,"{u'new': 1, u'explain': 0, u'controversy': 1, u'bitcoin': 1, u'antbleed': 1}",Apr-27-2017,alyssa hertig
-149,purse launches testnet for bitcoin scaling tech 'extension blocks',"{u'scale': 0, u'extension': 1, u'launch': 0, u'purse': 1, u'bitcoin': 1, u'testnet': 1, u'tech': 1, u'block': 0}",Apr-25-2017,corin faife
-150,uasf developer revises controversial bitcoin scaling proposal,"{u'scale': 0, u'bitcoin': 1, u'controversial': 1, u'uasf': 1, u'proposal': 1, u'revise': 0, u'developer': 1}",Apr-25-2017,corin faife
-151,cme patent sees derivatives opportunity in bitcoin mining,"{u'mining': 1, u'patent': 1, u'cme': 1, u'bitcoin': 1, u'see': 0, u'derivative': 0, u'opportunity': 1}",Apr-17-2017,stan higgins
-152,from asicboost to uasf: greg maxwell on bitcoin's path forward,"{u'maxwell': 1, u'bitcoin': 1, u'forward': 1, u'greg': 1, u'path': 1, u'asicboost': 1, u'uasf': 1}",Apr-13-2017,alyssa hertig
-153,"bitmain debuts new litecoin mining hardware, citing customer demand","{u'customer': 1, u'mining': 1, u'litecoin': 1, u'debut': 0, u'new': 1, u'hardware': 1, u'demand': 1, u'bitmain': 1, u'cite': 0}",Apr-12-2017,garrett keirns
-154,"mirai, the infamous internet of things army, can now mine bitcoin","{u'army': 1, u'mirai': 1, u'mine': 1, u'bitcoin': 1, u'thing': 0, u'internet': 1, u'infamous': 1}",Apr-10-2017,alyssa hertig
-155,the hidden history of bitcoin unlimited,"{u'hidden': 1, u'unlimited': 1, u'bitcoin': 1, u'history': 1}",Apr-08-2017,paul elliot-ennis & rachel-rose o'leary
-156,bitcoin hardware maker canaan calls for mining industry changes,"{u'canaan': 1, u'industry': 1, u'bitcoin': 1, u'mine': 0, u'hardware': 1, u'call': 0, u'maker': 1, u'change': 0}",Apr-06-2017,pete rizzo
-157,here comes the pickaxe race: bitcoin mining jumps to gpu,"{u'mining': 1, u'bitcoin': 1, u'jump': 0, u'pickaxe': 1, u'race': 1, u'gpu': 1, u'come': 0}",Apr-06-2017,alex waters
-158,purse proposal touts extension blocks as bitcoin scaling solution,"{u'scale': 0, u'extension': 1, u'purse': 1, u'bitcoin': 1, u'solution': 1, u'tout': 0, u'proposal': 1, u'block': 0}",Apr-04-2017,pete rizzo
-159,bitmain subsidiary opens new bitcoin mining pool to public,"{u'mining': 1, u'bitmain': 1, u'bitcoin': 1, u'subsidiary': 1, u'new': 1, u'open': 0, u'public': 1, u'pool': 1}",Apr-03-2017,pete rizzo
-160,bitcoin mining fraud lawsuit moves forward in new jersey,"{u'mining': 1, u'fraud': 1, u'move': 0, u'bitcoin': 1, u'forward': 1, u'new': 1, u'lawsuit': 1, u'jersey': 1}",Mar-31-2017,stan higgins
-161,war of the words: who's said what about a bitcoin fork?,"{u'fork': 1, u'say': 0, u'word': 0, u'war': 1, u'bitcoin': 1}",Mar-28-2017,"alyssa hertig, stan higgins & garrett keirns"
-162,a short guide to bitcoin forks,"{u'fork': 0, u'short': 1, u'guide': 1, u'bitcoin': 1}",Mar-27-2017,amy castor
-163,charts: determining the ideal block size for bitcoin,"{u'bitcoin': 1, u'chart': 0, u'ideal': 1, u'determine': 0, u'block': 1, u'size': 1}",Mar-24-2017,willy woo
-164,keep calm and bitcoin on? developers aren't worrying about a fork,"{u'fork': 1, u'bitcoin': 1, u'keep': 1, u'calm': 1, u'worry': 0, u'developer': 0}",Mar-24-2017,alyssa hertig
-165,bitcoin core roadmap unveils signature optimization plan,"{u'core': 1, u'bitcoin': 1, u'unveils': 1, u'optimization': 1, u'plan': 1, u'signature': 1, u'roadmap': 1}",Mar-23-2017,garrett keirns
-166,fork fallout? a bitcoin split could become a legal mess,"{u'fork': 1, u'mess': 1, u'could': 1, u'bitcoin': 1, u'legal': 1, u'split': 1, u'fallout': 1, u'become': 1}",Mar-23-2017,pete rizzo
-167,fire the miners? radical ideas emerge as bitcoin fork talk escalates,"{u'fork': 1, u'emerge': 1, u'fire': 1, u'radical': 1, u'miner': 0, u'bitcoin': 1, u'idea': 0, u'escalates': 1, u'talk': 1}",Mar-22-2017,alyssa hertig
-168,how bitcoin's p2p layer got a speed hike in the latest core release,"{u'core': 1, u'layer': 1, u'get': 0, u'hike': 1, u'bitcoin': 1, u'late': 0, u'p': 2, u'release': 1, u'speed': 1}",Mar-10-2017,alyssa hertig
-169,what you need to know about bitcoin's upcoming code release,"{u'code': 1, u'upcoming': 1, u'bitcoin': 1, u'release': 1, u'know': 1, u'need': 1}",Mar-06-2017,alyssa hertig
-170,faster than lightning? 'sprite' paper envisions new bitcoin payments,"{u'faster': 1, u'payment': 0, u'bitcoin': 1, u'lightning': 1, u'paper': 1, u'new': 1, u'envisions': 1, u'sprite': 1}",Feb-23-2017,corin faife
-171,why bigger might not be better for bitcoin scaling,"{u'scaling': 1, u'big': 0, u'good': 0, u'might': 1, u'bitcoin': 1}",Feb-16-2017,corin faife
-172,a bitcoin hard fork? the science of contentious code is advancing,"{u'fork': 1, u'advance': 0, u'code': 1, u'contentious': 1, u'science': 1, u'hard': 1, u'bitcoin': 1}",Feb-10-2017,alyssa hertig
-173,what makes bitcoin great? one scientist is on a quest to find out,"{u'great': 1, u'make': 0, u'bitcoin': 1, u'one': 1, u'scientist': 1, u'quest': 1, u'find': 1}",Feb-08-2017,alyssa hertig
-174,inside mast: the little-known plan to advance bitcoin smart contracts,"{u'advance': 1, u'inside': 1, u'bitcoin': 1, u'contract': 0, u'little-known': 1, u'mast': 1, u'plan': 1, u'smart': 1}",Feb-07-2017,alyssa hertig
-175,greg maxwell breaks down blockchain: the 'uncontrollable noun',"{u'noun': 1, u'maxwell': 1, u'blockchain': 1, u'break': 0, u'greg': 1, u'uncontrollable': 1}",Jan-31-2017,pete rizzo
-176,construct 2017: life after segwit? bitcoin gridlock takes the stage,"{u'life': 1, u'bitcoin': 1, u'construct': 1, u'take': 0, u'segwit': 1, u'stage': 1, u'gridlock': 1}",Jan-31-2017,alyssa hertig
-177,bitfury to expand china footprint following $30 million deal,"{u'deal': 1, u'million': 1, u'bitfury': 1, u'china': 1, u'footprint': 1, u'follow': 0, u'expand': 1}",Jan-26-2017,stan higgins
-178,how ethereum smart contracts could replace mining pool managers,"{u'could': 1, u'mine': 0, u'contract': 0, u'replace': 1, u'manager': 0, u'ethereum': 1, u'pool': 1, u'smart': 1}",Jan-24-2017,alyssa hertig
-179,bitcoin devs are feeling more optimistic about mimblewimble,"{u'devs': 1, u'feel': 0, u'mimblewimble': 1, u'bitcoin': 1, u'optimistic': 1}",Jan-23-2017,alyssa hertig
-180,toward better security and governance with blockchain,"{u'security': 1, u'good': 0, u'blockchain': 1, u'toward': 1, u'governance': 1}",Jan-10-2017,valery vavilov
-181,bitcoin in 2016: the year politics challenged apolitical money,"{u'money': 1, u'challenge': 0, u'bitcoin': 1, u'year': 1, u'apolitical': 1, u'politics': 1}",Jan-07-2017,eric lombrozo
-182,will 2017 bring an end to bitcoin's great scaling debate?,"{u'great': 1, u'end': 1, u'bitcoin': 1, u'scaling': 1, u'bring': 1, u'debate': 1}",Jan-05-2017,corin faife
-183,new bitcoin software update boasts 55 fixes,"{u'boast': 0, u'fix': 0, u'update': 1, u'bitcoin': 1, u'new': 1, u'software': 1}",Jan-04-2017,alyssa hertig
-184,why 2017 will prove 'blockchain' was a bad idea,"{u'bad': 1, u'blockchain': 1, u'idea': 1, u'prove': 1}",Jan-04-2017,ferdinando ametrano
-185,bitfury paper makes case for auditability as blockchain's defining feature,"{u'case': 1, u'make': 0, u'blockchain': 1, u'auditability': 1, u'feature': 1, u'bitfury': 1, u'paper': 1, u'define': 0}",Nov-29-2016,pete rizzo
-186,why aren't bitcoin businesses talking about segwit?,"{u'talk': 0, u'segwit': 1, u'bitcoin': 1, u'business': 0}",Nov-28-2016,pete rizzo
-187,21 files for new bitcoin mining patent,"{u'patent': 1, u'new': 1, u'mining': 1, u'bitcoin': 1, u'file': 0}",Nov-23-2016,stan higgins
-188,bitcoin miners can now signal support for segwit,"{u'signal': 1, u'segwit': 1, u'miner': 0, u'support': 1, u'bitcoin': 1}",Nov-18-2016,alyssa hertig
-189,why the blockchain hackathon economy is booming,"{u'blockchain': 1, u'boom': 0, u'hackathon': 1, u'economy': 1}",Nov-14-2016,bailey reutzel
-190,what's left before bitcoin's lightning network goes live,"{u'network': 1, u'bitcoin': 1, u'lightning': 1, u'leave': 0, u'live': 1, u'go': 0}",Nov-12-2016,alyssa hertig
-191,china's bitcoin miners see profit in a bigger-block blockchain,"{u'profit': 1, u'blockchain': 1, u'miner': 0, u'bitcoin': 1, u'see': 1, u'china': 1, u'bigger-block': 1}",Nov-06-2016,eric mu
-192,viabtc rises: how a mysterious miner could decide bitcoin's future,"{u'could': 1, u'rise': 0, u'miner': 1, u'bitcoin': 1, u'viabtc': 1, u'decide': 1, u'mysterious': 1, u'future': 1}",Oct-20-2016,jacob donnelly
-193,what's left before segwit goes live,"{u'leave': 0, u'go': 0, u'live': 1, u'segwit': 1}",Oct-07-2016,alyssa hertig
-194,demand for zcash mining grows as blockchain launch approaches,"{u'mining': 1, u'launch': 1, u'blockchain': 1, u'zcash': 1, u'demand': 1, u'approach': 0, u'grows': 1}",Oct-05-2016,jacob donnelly
-195,the full lineup for scaling bitcoin is now available,"{u'available': 1, u'scale': 0, u'full': 1, u'bitcoin': 1, u'lineup': 1}",Oct-03-2016,pete rizzo
-196,a controversial bitcoin alternative is seeking a comeback,"{u'comeback': 1, u'alternative': 1, u'seek': 0, u'bitcoin': 1, u'controversial': 1}",Sep-25-2016,alyssa hertig
-197,does the original bitcoin wallet still matter?,"{u'wallet': 1, u'still': 1, u'matter': 1, u'bitcoin': 1, u'original': 1}",Sep-16-2016,alyssa hertig
-198,preparing for a bitcoin hard fork,"{u'fork': 1, u'hard': 1, u'bitcoin': 1, u'prepare': 0}",Sep-14-2016,bailey reutzel
-199,one of bitcoin's biggest miners is launching a second pool,"{u'launch': 0, u'big': 0, u'miner': 0, u'bitcoin': 1, u'one': 1, u'second': 1, u'pool': 1}",Sep-13-2016,jacob donnelly
-200,"in race for bitcoin mining profits, fortune favors the old","{u'mining': 1, u'fortune': 1, u'profit': 0, u'bitcoin': 1, u'favor': 0, u'race': 1, u'old': 1}",Sep-12-2016,jacob donnelly
-201,inside 'bitcoin vault': could a technical fix block hackers for good?,"{u'hacker': 0, u'good': 1, u'technical': 1, u'could': 1, u'bitcoin': 1, u'inside': 1, u'vault': 1, u'fix': 1, u'block': 1}",Aug-28-2016,jacob donnelly
-202,bitmain to release new bitcoin miner in bid to attract hobbyists,"{u'bid': 1, u'miner': 1, u'bitcoin': 1, u'hobbyist': 0, u'new': 1, u'release': 1, u'bitmain': 1, u'attract': 1}",Aug-26-2016,jacob donnelly
-203,bitfury research shines light on bitcoin privacy weaknesses,"{u'shine': 0, u'privacy': 1, u'light': 1, u'bitcoin': 1, u'research': 1, u'bitfury': 1, u'weakness': 0}",Aug-23-2016,pete rizzo
-204,next bitcoin software update will be first to feature segwit code,"{u'code': 1, u'bitcoin': 1, u'update': 1, u'first': 1, u'next': 1, u'feature': 1, u'segwit': 1, u'software': 1}",Aug-18-2016,alyssa hertig
-205,new kncminer owners seek to revive bitcoin firm with acquisition,"{u'firm': 1, u'revive': 1, u'bitcoin': 1, u'owner': 0, u'new': 1, u'kncminer': 1, u'seek': 1, u'acquisition': 1}",Aug-15-2016,pete rizzo
-206,washington state utility raises power rates on bitcoin miners,"{u'raise': 0, u'power': 1, u'miner': 0, u'washington': 1, u'bitcoin': 1, u'state': 1, u'rate': 0, u'utility': 1}",Jul-20-2016,stan higgins
-207,bitcoin miner bitmain acquires data startup blocktrail,"{u'blocktrail': 1, u'miner': 1, u'acquire': 0, u'startup': 1, u'bitcoin': 1, u'bitmain': 1, u'data': 1}",Jul-19-2016,pete rizzo
-208,why bitcoin's halving was a boring vindication,"{u'boring': 1, u'halving': 1, u'bitcoin': 1, u'vindication': 1}",Jul-16-2016,jacob donnelly
-209,bitcoin scaling event set for third installment in italy,"{u'scale': 0, u'italy': 1, u'third': 1, u'installment': 1, u'bitcoin': 1, u'set': 1, u'event': 1}",Jul-11-2016,pete rizzo
-210,bitcoin industry seeking to bridge scaling divide at july meeting,"{u'bridge': 1, u'scale': 0, u'divide': 1, u'meeting': 1, u'industry': 1, u'bitcoin': 1, u'july': 1, u'seek': 0}",Jul-08-2016,stan higgins
-211,what to expect when the bitcoin halving happens,"{u'happens': 1, u'halving': 1, u'expect': 1, u'bitcoin': 1}",Jul-08-2016,jacob donnelly
-212,"at $400 million a year, academic argues bitcoin mining worth the cost","{u'mining': 1, u'million': 1, u'bitcoin': 1, u'academic': 1, u'cost': 1, u'year': 1, u'argue': 0, u'worth': 1}",Jul-08-2016,stan higgins
-213,bitfury releases proposal for bitcoin lightning micropayments routing,"{u'rout': 0, u'bitcoin': 1, u'lightning': 1, u'bitfury': 1, u'release': 0, u'proposal': 1, u'micropayments': 1}",Jul-07-2016,pete rizzo
-214,why blockchain immutability is a perpetual motion claim,"{u'motion': 1, u'claim': 1, u'immutability': 1, u'perpetual': 1, u'blockchain': 1}",Jul-07-2016,chris derose
-215,"as bitcoin halving approaches, 51% attack question resurfaces","{u'halve': 0, u'question': 1, u'bitcoin': 1, u'attack': 1, u'resurfaces': 1, u'approach': 0}",Jul-06-2016,frederick reese
-216,what is the 'halving'? a primer to bitcoin's big mining change,"{u'mining': 1, u'halve': 0, u'bitcoin': 1, u'big': 1, u'primer': 1, u'change': 1}",Jun-12-2016,jacob donnelly
-217,nfl star accuses ex-manager of stealing $3 million for bitcoin mine,"{u'nfl': 1, u'star': 1, u'ex-manager': 1, u'million': 1, u'bitcoin': 1, u'mine': 1, u'accuse': 0, u'steal': 0}",Jun-10-2016,stan higgins
-218,new details emerge on bitcoin firm avalon's $466 million pending sale,"{u'firm': 1, u'emerge': 1, u'detail': 0, u'million': 1, u'bitcoin': 1, u'avalon': 1, u'new': 1, u'sale': 1, u'pending': 1}",Jun-09-2016,stan higgins
-219,maker of first bitcoin mining asic acquired in what could be industry's largest sale,"{u'mining': 1, u'industry': 1, u'could': 1, u'acquire': 0, u'asic': 1, u'sale': 1, u'bitcoin': 1, u'large': 0, u'maker': 1, u'first': 1}",Jun-08-2016,stan higgins
-220,class action lawsuit resumes against bankrupt bitcoin miner knc,"{u'bankrupt': 1, u'resume': 0, u'miner': 1, u'bitcoin': 1, u'knc': 1, u'action': 1, u'lawsuit': 1, u'class': 1}",Jun-06-2016,pete rizzo
-221,"from seeds to weed, bitcoin finds home where commerce goes gray","{u'commerce': 1, u'gray': 1, u'bitcoin': 1, u'weed': 1, u'seed': 0, u'go': 0, u'home': 1, u'find': 0}",Jun-05-2016,bailey reutzel
-222,will bitcoin's block rewards halving bring crisis or consistency?,"{u'halve': 0, u'bitcoin': 1, u'bring': 1, u'consistency': 1, u'reward': 0, u'crisis': 1, u'block': 1}",Jun-04-2016,jacob donnelly
-223,bitcoin mining firm kncminer declares bankruptcy,"{u'firm': 1, u'mining': 1, u'bitcoin': 1, u'kncminer': 1, u'declare': 0, u'bankruptcy': 1}",May-27-2016,stan higgins
-224,spanish police seize 6 bitcoin mines in crackdown on stolen tv content,"{u'stolen': 1, u'police': 1, u'seize': 1, u'tv': 1, u'mine': 0, u'bitcoin': 1, u'content': 1, u'crackdown': 1, u'spanish': 1}",May-25-2016,stan higgins
-225,keepkey prepares for bitcoin scaling with wallet startup acquisition,"{u'scale': 0, u'startup': 1, u'bitcoin': 1, u'keepkey': 1, u'wallet': 1, u'prepares': 1, u'acquisition': 1}",May-25-2016,michael del castillo
-226,swedish court rules against kncminer mining hardware customers,"{u'swedish': 1, u'customer': 0, u'mining': 1, u'court': 1, u'rule': 0, u'hardware': 1, u'kncminer': 1}",May-23-2016,stan higgins
-227,bitcoin miners follow profit to ethereum blockchain,"{u'profit': 1, u'blockchain': 1, u'miner': 0, u'bitcoin': 1, u'ethereum': 1, u'follow': 1}",May-20-2016,michael del castillo
-228,bitcoin core is seeking to overhaul how it upgrades its code,"{u'core': 1, u'code': 1, u'overhaul': 1, u'bitcoin': 1, u'upgrade': 0, u'seek': 0}",May-14-2016,bailey reutzel
-229,"after months of tests, the big bid to scale bitcoin is nearing launch","{u'scale': 1, u'launch': 1, u'big': 1, u'bid': 1, u'bitcoin': 1, u'month': 0, u'near': 0, u'test': 0}",May-09-2016,jacob donnelly
-230,"lost $136,000 in bitcoin? this mining pool is looking for you","{u'mining': 1, u'bitcoin': 1, u'look': 0, u'pool': 1, u'lose': 0}",Apr-27-2016,pete rizzo
-231,republic of georgia to develop blockchain land registry,"{u'land': 1, u'develop': 1, u'blockchain': 1, u'georgia': 1, u'republic': 1, u'registry': 1}",Apr-22-2016,stan higgins
-232,bitcoin mining giant invests $1.6 million in trading platform,"{u'mining': 1, u'million': 1, u'giant': 1, u'bitcoin': 1, u'platform': 1, u'trading': 1, u'invests': 1}",Apr-14-2016,pete rizzo
-233,bitcoin wallet startup now extending credit to users,"{u'extend': 0, u'credit': 1, u'startup': 1, u'bitcoin': 1, u'wallet': 1, u'user': 0}",Apr-05-2016,pete rizzo
-234,meet the man who will hack your long-lost bitcoin wallet for money,"{u'money': 1, u'bitcoin': 1, u'wallet': 1, u'long-lost': 1, u'hack': 1, u'meet': 1, u'man': 1}",Apr-03-2016,bailey reutzel
-235,coinkite drops consumer wallet for enterprise bitcoin hardware pivot,"{u'drop': 0, u'bitcoin': 1, u'hardware': 1, u'wallet': 1, u'coinkite': 1, u'enterprise': 1, u'pivot': 1, u'consumer': 1}",Mar-28-2016,pete rizzo
-236,bitgo engineers launch ethereum wallet side project,"{u'launch': 1, u'bitgo': 1, u'project': 1, u'wallet': 1, u'ethereum': 1, u'side': 1, u'engineer': 0}",Mar-23-2016,jacob donnelly
-237,how washington state became a battleground for bitcoin mining,"{u'mining': 1, u'washington': 1, u'bitcoin': 1, u'state': 1, u'become': 0, u'battleground': 1}",Mar-19-2016,stan higgins
-238,complaints hit 'record' levels at blockchain amid confirmation delays,"{u'complaint': 0, u'confirmation': 1, u'hit': 1, u'level': 0, u'amid': 1, u'blockchain': 1, u'delay': 0, u'record': 1}",Mar-07-2016,pete rizzo
-239,african internet pioneer launches bitcoin mining facility,"{u'mining': 1, u'launch': 0, u'facility': 1, u'bitcoin': 1, u'pioneer': 1, u'african': 1, u'internet': 1}",Mar-07-2016,pete rizzo
-240,bitcoin miners back proposed timeline for 2017 hard fork,"{u'fork': 1, u'propose': 0, u'hard': 1, u'miner': 0, u'bitcoin': 1, u'back': 1, u'timeline': 1}",Feb-20-2016,stan higgins
-241,prosecutors set to indict suspect in bitcoin mine stabbing,"{u'set': 1, u'bitcoin': 1, u'mine': 1, u'indict': 1, u'suspect': 1, u'stabbing': 1, u'prosecutor': 0}",Feb-18-2016,stan higgins
-242,ftc settles charges against bitcoin mining firm butterfly labs,"{u'firm': 1, u'butterfly': 1, u'mining': 1, u'bitcoin': 1, u'lab': 0, u'charge': 0, u'settle': 0, u'ftc': 1}",Feb-18-2016,stan higgins
-243,sec seeks $10 million default judgment against gaw miners,"{u'default': 1, u'judgment': 1, u'million': 1, u'miner': 0, u'gaw': 1, u'sec': 1, u'seek': 0}",Feb-12-2016,stan higgins
-244,why bitcoin governance is a competition (and that's a good thing),"{u'thing': 1, u'competition': 1, u'good': 1, u'bitcoin': 1, u'governance': 1}",Feb-12-2016,jim harper
-245,why bitcoin’s scaling debate is an opportunity not a flaw,"{u'flaw': 1, u'scale': 0, u'opportunity': 1, u'bitcoin': 1, u'debate': 1}",Feb-11-2016,nozomi hayase
-246,us bankruptcy court set to weigh in on bitcoin's currency status,"{u'status': 1, u'set': 1, u'court': 1, u'bitcoin': 1, u'currency': 1, u'u': 0, u'weigh': 1, u'bankruptcy': 1}",Feb-09-2016,stan higgins
-247,bitcoin group stock exchange debut delayed again,"{u'group': 1, u'exchange': 1, u'debut': 1, u'bitcoin': 1, u'delay': 0, u'stock': 1}",Feb-08-2016,daniel palmer
-248,"amid scaling debate, bitcoin core goes on outreach offensive","{u'core': 1, u'scale': 0, u'amid': 1, u'offensive': 1, u'bitcoin': 1, u'outreach': 1, u'go': 0, u'debate': 1}",Jan-28-2016,pete rizzo
-249,big miners back bitcoin classic as scaling debate evolves,"{u'evolves': 1, u'scale': 0, u'classic': 1, u'big': 1, u'miner': 0, u'back': 1, u'bitcoin': 1, u'debate': 1}",Jan-23-2016,pete rizzo
-250,blockstream ceo: bitcoin creating 'toxic' environment for developers,"{u'blockstream': 1, u'create': 0, u'bitcoin': 1, u'environment': 1, u'ceo': 1, u'toxic': 1, u'developer': 0}",Jan-22-2016,pete rizzo
-251,bitfury moves ahead on bitcoin device for internet of things,"{u'ahead': 1, u'move': 0, u'bitcoin': 1, u'thing': 0, u'bitfury': 1, u'internet': 1, u'device': 1}",Jan-20-2016,pete rizzo
-252,making sense of bitcoin's divisive block size debate,"{u'make': 0, u'bitcoin': 1, u'divisive': 1, u'sense': 1, u'debate': 1, u'block': 1, u'size': 1}",Jan-19-2016,pete rizzo
-253,bitcoin branded a failure as media erupts over mike hearn exit,"{u'mike': 1, u'medium': 0, u'brand': 0, u'bitcoin': 1, u'failure': 1, u'exit': 1, u'erupts': 1, u'hearn': 1}",Jan-15-2016,pete rizzo
-254,bitcoin group cleared to list on australian securities exchange,"{u'group': 1, u'exchange': 1, u'clear': 0, u'list': 1, u'bitcoin': 1, u'australian': 1, u'security': 0}",Jan-13-2016,daniel palmer
-255,2015 was do or die for bitcoin miners but promise lies ahead,"{u'lie': 0, u'ahead': 1, u'die': 1, u'miner': 0, u'bitcoin': 1, u'promise': 1}",Jan-08-2016,dave carlson
-256,eating the bitcoin cake,"{u'cake': 1, u'eat': 0, u'bitcoin': 1}",Dec-19-2015,coindesk
-257,is segregated witness the answer to bitcoin’s block size debate?,"{u'bitcoin': 1, u'segregate': 0, u'witness': 1, u'answer': 1, u'debate': 1, u'block': 1, u'size': 1}",Dec-08-2015,pete rizzo
-258,former senior white house staffer joins bitcoin miner bitfury,"{u'join': 0, u'house': 1, u'miner': 1, u'bitcoin': 1, u'former': 1, u'bitfury': 1, u'staffer': 1, u'white': 1, u'senior': 1}",Dec-07-2015,yessi bello perez
-259,hard fork question divides developers at scaling bitcoin day 2,"{u'fork': 1, u'scale': 0, u'divide': 0, u'hard': 1, u'question': 1, u'bitcoin': 1, u'day': 1, u'developer': 0}",Dec-07-2015,pete rizzo
-260,bitcoin mining giant bitfury is being sued by its former cfo,"{u'cfo': 1, u'mining': 1, u'sue': 0, u'giant': 1, u'bitcoin': 1, u'bitfury': 1, u'former': 1}",Dec-04-2015,pete rizzo
-261,bitcoin miner faces new pressure from australian regulator,"{u'miner': 1, u'bitcoin': 1, u'face': 0, u'regulator': 1, u'pressure': 1, u'new': 1, u'australian': 1}",Nov-23-2015,stan higgins
-262,amazon starts shipping 21 bitcoin computers,"{u'start': 0, u'amazon': 1, u'computer': 0, u'ship': 0, u'bitcoin': 1}",Nov-16-2015,pete rizzo
-263,"brazilian university accepts bitcoin, installs campus atm","{u'installs': 1, u'university': 1, u'atm': 1, u'accepts': 1, u'bitcoin': 1, u'brazilian': 1, u'campus': 1}",Nov-09-2015,pete rizzo
-264,bitfury announces 'record' immersion cooling project,"{u'immersion': 1, u'announces': 1, u'project': 1, u'record': 1, u'bitfury': 1, u'cool': 0}",Oct-27-2015,grace caffyn
-265,bitcoin startup cleared of breaching securities law,"{u'clear': 0, u'startup': 1, u'bitcoin': 1, u'breach': 0, u'security': 0, u'law': 1}",Oct-26-2015,grace caffyn
-266,bitfury hosts secret block chain summit in middle east,"{u'chain': 1, u'secret': 1, u'bitfury': 1, u'middle': 1, u'host': 0, u'summit': 1, u'east': 1, u'block': 1}",Oct-08-2015,pete rizzo
-267,"lightning, duplex and the search for scalable bitcoin micropayments","{u'search': 1, u'duplex': 1, u'bitcoin': 1, u'scalable': 1, u'lightning': 1, u'micropayments': 1}",Oct-07-2015,pete rizzo
-268,digitalbtc bows out of bitcoin mining race,"{u'mining': 1, u'race': 1, u'bitcoin': 1, u'bow': 0, u'digitalbtc': 1}",Sep-29-2015,grace caffyn
-269,bitcoin atm industry: a look at the numbers,"{u'industry': 1, u'atm': 1, u'look': 1, u'bitcoin': 1, u'number': 0}",Sep-25-2015,yessi bello perez
-270,mike tyson: i'm grateful to be part of the bitcoin revolution,"{u'mike': 1, u'revolution': 1, u'bitcoin': 1, u'part': 1, u'grateful': 1, u'tyson': 1}",Sep-25-2015,grace caffyn
-271,keepkey launches new bitcoin hardware wallet,"{u'launch': 0, u'bitcoin': 1, u'keepkey': 1, u'hardware': 1, u'wallet': 1, u'new': 1}",Sep-23-2015,yessi bello perez
-272,21 inc announces 'bitcoin computer' for developers,"{u'developer': 0, u'announces': 1, u'computer': 1, u'bitcoin': 1, u'inc': 1}",Sep-21-2015,pete rizzo
-273,researchers tackle tomorrow's blockchain problems with bitcoin-ng,"{u'researcher': 0, u'blockchain': 1, u'bitcoin-ng': 1, u'tackle': 1, u'problem': 0, u'tomorrow': 1}",Sep-18-2015,pete rizzo
-274,bitcoin's future moves into focus at scaling bitcoin day 2,"{u'scale': 0, u'move': 0, u'bitcoin': 2, u'focus': 1, u'future': 1, u'day': 1}",Sep-14-2015,pete rizzo
-275,bitfury completes 16nm bitcoin mining asic tape-out,"{u'mining': 1, u'nm': 1, u'tape-out': 1, u'asic': 1, u'bitcoin': 1, u'bitfury': 1, u'completes': 1}",Sep-02-2015,pete rizzo
-276,bitcoin developers pen open letter on network scalability,"{u'network': 1, u'bitcoin': 1, u'scalability': 1, u'pen': 1, u'letter': 1, u'open': 1, u'developer': 0}",Sep-01-2015,emily spaven
-277,bitcoin block size debate: who's picking sides?,"{u'bitcoin': 1, u'debate': 1, u'pick': 0, u'side': 0, u'block': 1, u'size': 1}",Aug-31-2015,grace caffyn
-278,bitfury backs bip 100 blocksize proposal,"{u'blocksize': 1, u'bitfury': 1, u'proposal': 1, u'bip': 1, u'back': 0}",Aug-27-2015,grace caffyn
-279,litecoin network experiences first mining reward decline,"{u'decline': 1, u'litecoin': 1, u'network': 1, u'mine': 0, u'experience': 0, u'reward': 1, u'first': 1}",Aug-26-2015,stan higgins
-280,support grows for bip 100 bitcoin block size proposal,"{u'support': 1, u'bitcoin': 1, u'bip': 1, u'proposal': 1, u'grows': 1, u'block': 1, u'size': 1}",Aug-26-2015,grace caffyn
-281,what is the bitcoin block size debate and why does it matter?,"{u'matter': 1, u'bitcoin': 1, u'debate': 1, u'block': 1, u'size': 1}",Aug-21-2015,grace caffyn
-282,new bitcoin asic to be 'most power-efficient’ on public market,"{u'asic': 1, u'bitcoin': 1, u'power-efficient': 1, u'new': 1, u'public': 1, u'market': 1}",Aug-21-2015,grace caffyn
-283,judge approves fraud claims against bitcoin mining firm hashfast,"{u'firm': 1, u'claim': 0, u'mining': 1, u'fraud': 1, u'hashfast': 1, u'bitcoin': 1, u'judge': 1, u'approve': 0}",Aug-18-2015,yessi bello perez
-284,bitcoin 'forked' in controversial bid to resolve scalability question,"{u'fork': 0, u'resolve': 1, u'bid': 1, u'question': 1, u'bitcoin': 1, u'scalability': 1, u'controversial': 1}",Aug-17-2015,grace caffyn
-285,genesis mining leaves new york following bitlicense deadline,"{u'mining': 1, u'bitlicense': 1, u'leave': 0, u'deadline': 1, u'york': 1, u'follow': 0, u'new': 1, u'genesis': 1}",Aug-13-2015,grace caffyn
-286,fiat wallets: the key to bitcoin going mainstream?,"{u'fiat': 1, u'mainstream': 1, u'bitcoin': 1, u'wallets': 1, u'key': 1, u'go': 0}",Aug-12-2015,jack c. liu
-287,robocoin faces lawsuit over bitcoin atm refund,"{u'refund': 1, u'atm': 1, u'bitcoin': 1, u'face': 0, u'robocoin': 1, u'lawsuit': 1}",Aug-03-2015,grace caffyn
-288,new service finds optimum bitcoin transaction fee,"{u'fee': 1, u'service': 1, u'bitcoin': 1, u'transaction': 1, u'new': 1, u'optimum': 1, u'find': 0}",Jul-28-2015,grace caffyn
-289,mike tyson bitcoin atm owner hits back at scam accusations,"{u'mike': 1, u'hit': 0, u'atm': 1, u'bitcoin': 1, u'back': 1, u'accusation': 0, u'owner': 1, u'scam': 1, u'tyson': 1}",Jul-27-2015,grace caffyn
-290,bitfury investor: leave the blockchain to me,"{u'leave': 1, u'blockchain': 1, u'bitfury': 1, u'investor': 1}",Jul-20-2015,grace caffyn
-291,jeff garzik submits proposal to double bitcoin block size limit,"{u'garzik': 1, u'jeff': 1, u'double': 1, u'bitcoin': 1, u'submit': 0, u'limit': 1, u'proposal': 1, u'block': 1, u'size': 1}",Jul-17-2015,grace caffyn
-292,standard chartered exec touts blockchain tech for trade finance,"{u'charter': 0, u'finance': 1, u'exec': 1, u'blockchain': 1, u'standard': 1, u'tout': 0, u'tech': 1, u'trade': 1}",Jul-14-2015,pete rizzo
-293,xapo execs lose bid to dismiss breach of contract lawsuit,"{u'exec': 0, u'xapo': 1, u'dismiss': 1, u'contract': 1, u'lose': 1, u'breach': 1, u'lawsuit': 1, u'bid': 1}",Jul-13-2015,pete rizzo
-294,bitcoin cloud mining service collapse exposes customer data,"{u'customer': 1, u'mining': 1, u'collapse': 1, u'service': 1, u'expose': 0, u'bitcoin': 1, u'data': 1, u'cloud': 1}",Jul-13-2015,stan higgins
-295,bitcoin's best funded miner bitfury raises another $20 million,"{u'raise': 0, u'million': 1, u'miner': 1, u'bitcoin': 1, u'fund': 0, u'bitfury': 1, u'another': 1, u'best': 1}",Jul-09-2015,grace caffyn
-296,new genesis mining tool seeks industrial bitcoin mining efficiency,"{u'mining': 2, u'industrial': 1, u'tool': 1, u'bitcoin': 1, u'efficiency': 1, u'new': 1, u'seek': 0, u'genesis': 1}",Jul-07-2015,yessi bello perez
-297,blockchain offers alpha users first look at new bitcoin wallet,"{u'look': 1, u'offer': 0, u'blockchain': 1, u'bitcoin': 1, u'wallet': 1, u'user': 0, u'new': 1, u'alpha': 1, u'first': 1}",Jul-07-2015,pete rizzo
-298,mining malware developer settles with federal trade commission,"{u'mining': 1, u'federal': 1, u'malware': 1, u'trade': 1, u'commission': 1, u'settle': 0, u'developer': 1}",Jun-29-2015,stan higgins
-299,"bitfury taps ex-cftc chair, bitcoin core developer as advisors","{u'core': 1, u'tap': 0, u'advisor': 0, u'bitcoin': 1, u'bitfury': 1, u'ex-cftc': 1, u'chair': 1, u'developer': 1}",Jun-25-2015,jon southurst
-300,first spanish university installs bitcoin atm on campus,"{u'installs': 1, u'university': 1, u'atm': 1, u'bitcoin': 1, u'spanish': 1, u'campus': 1, u'first': 1}",Jun-24-2015,pete rizzo
-301,bitcoin network survives surprise stress test,"{u'stress': 1, u'network': 1, u'bitcoin': 1, u'surprise': 1, u'test': 1, u'survive': 0}",Jun-23-2015,jon southurst
-302,judge rules in peer-to-peer bitcoin lending lawsuit,"{u'lending': 1, u'bitcoin': 1, u'rule': 0, u'judge': 1, u'peer-to-peer': 1, u'lawsuit': 1}",Jun-18-2015,stan higgins
-303,bitcoin mining pool btc guild to close over bitlicense concerns,"{u'mining': 1, u'bitlicense': 1, u'guild': 1, u'bitcoin': 1, u'btc': 1, u'close': 1, u'pool': 1, u'concern': 0}",Jun-16-2015,stan higgins
-304,my life inside a remote chinese bitcoin mine,"{u'life': 1, u'remote': 1, u'chinese': 1, u'inside': 1, u'mine': 1, u'bitcoin': 1}",Jun-08-2015,eric mu
-305,consensus 2015: what the internet can teach blockchain innovators,"{u'consensus': 1, u'teach': 1, u'innovator': 0, u'blockchain': 1, u'internet': 1}",Jun-05-2015,coindesk
-306,kncminer deploys next-generation 16nm bitcoin asic,"{u'nm': 1, u'deploy': 0, u'asic': 1, u'bitcoin': 1, u'next-generation': 1, u'kncminer': 1}",Jun-04-2015,grace caffyn
-307,bitfury to release light bulbs that mine bitcoin in 2015,"{u'light': 1, u'bitcoin': 1, u'mine': 1, u'bitfury': 1, u'release': 1, u'bulb': 0}",Jun-02-2015,pete rizzo
-308,think tank reignites debate over bitcoin mining's environmental effects,"{u'mining': 1, u'tank': 1, u'reignite': 0, u'debate': 1, u'effect': 0, u'bitcoin': 1, u'environmental': 1, u'think': 1}",May-27-2015,yessi bello perez
-309,canadian university adds bitcoin atms to bookstore locations,"{u'canadian': 1, u'university': 1, u'atm': 0, u'bitcoin': 1, u'add': 0, u'bookstore': 1, u'location': 0}",May-25-2015,pete rizzo
-310,darkwallet and armory come top in bitcoin wallet privacy study,"{u'privacy': 1, u'darkwallet': 1, u'top': 1, u'bitcoin': 1, u'wallet': 1, u'armory': 1, u'come': 1, u'study': 1}",May-19-2015,pete rizzo
-311,21 inc confirms plans for mass bitcoin miner distribution,"{u'miner': 1, u'bitcoin': 1, u'mass': 1, u'plan': 0, u'distribution': 1, u'confirms': 1, u'inc': 1}",May-18-2015,pete rizzo
-312,coinbase app update enables mobile sign up,"{u'mobile': 1, u'app': 1, u'update': 1, u'sign': 1, u'coinbase': 1, u'enables': 1}",May-14-2015,pete rizzo
-313,inside 21's plans to bring bitcoin to the masses,"{u'bring': 1, u'inside': 1, u'mass': 0, u'plan': 0, u'bitcoin': 1}",May-12-2015,pete rizzo
-314,dubai's bitoasis opens bitcoin buying service at techcrunch disrupt,"{u'dubai': 1, u'bitoasis': 1, u'service': 1, u'disrupt': 1, u'bitcoin': 1, u'open': 0, u'techcrunch': 1, u'buying': 1}",May-06-2015,pete rizzo
-315,case bitcoin hardware wallet available for pre-order,"{u'case': 1, u'available': 1, u'bitcoin': 1, u'hardware': 1, u'wallet': 1, u'pre-order': 1}",May-04-2015,pete rizzo
-316,block chain summit responds to backlash over private island bash,"{u'respond': 0, u'chain': 1, u'island': 1, u'private': 1, u'summit': 1, u'bash': 1, u'backlash': 1, u'block': 1}",May-04-2015,pete rizzo
-317,spondoolies-tech to merge with bitcoin shop in mining market shake-up,"{u'shop': 1, u'bitcoin': 1, u'mine': 0, u'merge': 1, u'shake-up': 1, u'spondoolies-tech': 1, u'market': 1}",Apr-29-2015,pete rizzo
-318,richard branson to host bitcoin summit on private island,"{u'richard': 1, u'island': 1, u'bitcoin': 1, u'private': 1, u'host': 1, u'summit': 1, u'branson': 1}",Apr-28-2015,pete rizzo
-319,lamassu plans added cost for bitcoin atm operators,"{u'atm': 1, u'bitcoin': 1, u'lamassu': 1, u'add': 0, u'cost': 1, u'plan': 0, u'operator': 0}",Apr-23-2015,stan higgins
-320,bitcoin core developers join mit digital currency initiative,"{u'core': 1, u'join': 1, u'bitcoin': 1, u'currency': 1, u'initiative': 1, u'digital': 1, u'mit': 1, u'developer': 0}",Apr-22-2015,pete rizzo
-321,coinbase seeks 'invasive' details on us bitcoin mining operations,"{u'bitcoin': 1, u'invasive': 1, u'mine': 0, u'detail': 0, u'u': 0, u'coinbase': 1, u'operation': 0, u'seek': 0}",Apr-02-2015,stan higgins
-322,bitfury names former justice department official to advisory board,"{u'advisory': 1, u'name': 0, u'justice': 1, u'official': 1, u'bitfury': 1, u'board': 1, u'department': 1, u'former': 1}",Mar-18-2015,stan higgins
-323,chainalysis ceo denies 'sybil attack' on bitcoin's network,"{u'deny': 0, u'sybil': 1, u'network': 1, u'ceo': 1, u'bitcoin': 1, u'chainalysis': 1, u'attack': 1}",Mar-14-2015,grace caffyn
-324,bitcoin mining pools targeted in wave of ddos attacks,"{u'mining': 1, u'target': 0, u'bitcoin': 1, u'wave': 1, u'attack': 0, u'pool': 0, u'ddos': 1}",Mar-12-2015,stan higgins
-325,secretive mining firm revealed as possible us marshals auction winner,"{u'firm': 1, u'reveal': 0, u'mining': 1, u'auction': 1, u'winner': 1, u'possible': 1, u'u': 0, u'secretive': 1, u'marshal': 0}",Mar-12-2015,joon ian wong
-326,why wiper added bitcoin to its disappearing chat app,"{u'app': 1, u'bitcoin': 1, u'add': 0, u'chat': 1, u'wiper': 1, u'disappear': 0}",Mar-09-2015,yessi bello perez
-327,former gaw manager: $8 million zenminer investment ‘a total lie’,"{u'lie': 1, u'gaw': 1, u'million': 1, u'investment': 1, u'manager': 1, u'zenminer': 1, u'total': 1, u'former': 1}",Mar-06-2015,stan higgins
-328,"btcpoint creates 10,000 bitcoin-enabled atms using spanish bank network","{u'use': 0, u'network': 1, u'create': 0, u'atm': 0, u'btcpoint': 1, u'spanish': 1, u'bitcoin-enabled': 1, u'bank': 1}",Mar-06-2015,pete rizzo
-329,research tracks bitcoin mining from hobby to big business,"{u'business': 1, u'track': 0, u'big': 1, u'mine': 0, u'bitcoin': 1, u'hobby': 1, u'research': 1}",Mar-05-2015,joon ian wong
-330,'masked' card lets online shoppers pay anywhere with bitcoin,"{u'shopper': 0, u'pay': 1, u'mask': 0, u'bitcoin': 1, u'anywhere': 1, u'let': 0, u'online': 1, u'card': 1}",Mar-04-2015,yessi bello perez
-331,megabigpower opens buyback for unprofitable bitcoin miners,"{u'megabigpower': 1, u'miner': 0, u'bitcoin': 1, u'buyback': 1, u'unprofitable': 1, u'open': 0}",Mar-04-2015,stan higgins
-332,digitalbtc launches mining contracts platform digitalx mintsy,"{u'digitalx': 1, u'launch': 0, u'mine': 0, u'contract': 0, u'digitalbtc': 1, u'platform': 1, u'mintsy': 1}",Mar-03-2015,yessi bello perez
-333,bitfury launches new 28nm bitcoin mining asic,"{u'mining': 1, u'nm': 1, u'launch': 0, u'asic': 1, u'bitcoin': 1, u'bitfury': 1, u'new': 1}",Feb-28-2015,stan higgins
-334,bitcoin miner aquifer files for chapter 11 bankruptcy,"{u'chapter': 1, u'miner': 1, u'bitcoin': 1, u'aquifer': 1, u'file': 0, u'bankruptcy': 1}",Feb-23-2015,stan higgins
-335,blockchain reports 3 millionth bitcoin wallet,"{u'report': 0, u'millionth': 1, u'blockchain': 1, u'bitcoin': 1, u'wallet': 1}",Feb-23-2015,grace caffyn
-336,miners can split and sell hash rates with new betarigs feature,"{u'sell': 1, u'hash': 1, u'miner': 0, u'feature': 1, u'rate': 0, u'split': 1, u'new': 1, u'betarigs': 1}",Feb-20-2015,stan higgins
-337,xapo bids for big bitcoin business with enterprise security suite,"{u'business': 1, u'big': 1, u'xapo': 1, u'bitcoin': 1, u'enterprise': 1, u'suite': 1, u'security': 1, u'bid': 0}",Feb-19-2015,pete rizzo
-338,spectrocoin unveils ios bitcoin wallet app,"{u'app': 1, u'bitcoin': 1, u'unveils': 1, u'wallet': 1, u'io': 0, u'spectrocoin': 1}",Feb-19-2015,pete rizzo
-339,hardware wallet startup ledger closes €1.3 million seed round,"{u'million': 1, u'startup': 1, u'ledger': 1, u'hardware': 1, u'wallet': 1, u'seed': 1, u'close': 0, u'round': 1}",Feb-19-2015,sandrine ayral
-340,"two dutch bitcoin atms missing, assumed stolen","{u'assume': 0, u'steal': 0, u'atm': 0, u'bitcoin': 1, u'two': 1, u'dutch': 1, u'miss': 0}",Feb-18-2015,yessi bello perez
-341,bitcoin atm shutdown spotlights regulatory uncertainty in vermont,"{u'vermont': 1, u'atm': 1, u'uncertainty': 1, u'bitcoin': 1, u'shutdown': 1, u'regulatory': 1, u'spotlight': 0}",Feb-17-2015,pete rizzo
-342,bitcoin core 0.10 gives developers simplified access to network consensus,"{u'core': 1, u'network': 1, u'give': 0, u'bitcoin': 1, u'access': 1, u'simplify': 0, u'consensus': 1, u'developer': 0}",Feb-17-2015,joon ian wong
-343,"québec mandates bitcoin atms, trading platforms obtain licenses","{u'qu': 1, u'license': 0, u'bec': 1, u'bitcoin': 1, u'atms': 1, u'platform': 0, u'trading': 1, u'mandate': 0, u'obtain': 1}",Feb-13-2015,pete rizzo
-344,bitcoin atm selling gold and silver goes live in singapore,"{u'sell': 0, u'gold': 1, u'singapore': 1, u'atm': 1, u'bitcoin': 1, u'live': 1, u'go': 0, u'silver': 1}",Feb-13-2015,jon southurst
-345,mycelium's bitcoin wallet suspended from google play store,"{u'play': 1, u'suspend': 0, u'mycelium': 1, u'bitcoin': 1, u'wallet': 1, u'google': 1, u'store': 1}",Feb-11-2015,yessi bello perez
-346,palarin brings coinbase-inspired bitcoin services to the philippines,"{u'coinbase-inspired': 1, u'service': 0, u'philippine': 0, u'bitcoin': 1, u'bring': 0, u'palarin': 1}",Feb-08-2015,daniel cawrey
-347,vice tours a bitcoin mine in china,"{u'tour': 0, u'bitcoin': 1, u'china': 1, u'mine': 1, u'vice': 1}",Feb-06-2015,joon ian wong
-348,robocoin eases onboarding process with online verification,"{u'process': 1, u'ease': 0, u'onboarding': 1, u'verification': 1, u'online': 1, u'robocoin': 1}",Feb-05-2015,yessi bello perez
-349,coinjar redesigns ios wallet app for more social experience,"{u'redesign': 0, u'app': 1, u'ios': 1, u'experience': 1, u'wallet': 1, u'social': 1, u'coinjar': 1}",Feb-04-2015,jon southurst
-350,hashrabbit raises $500k for its bitcoin mining software solution,"{u'mining': 1, u'raise': 0, u'k': 1, u'bitcoin': 1, u'solution': 1, u'hashrabbit': 1, u'software': 1}",Feb-04-2015,daniel cawrey
-351,bitcoin mining firm kncminer raises further $15 million,"{u'firm': 1, u'mining': 1, u'raise': 0, u'million': 1, u'bitcoin': 1, u'kncminer': 1}",Feb-03-2015,stan higgins
-352,spondoolies-tech and genesis team up for cloud mining service,"{u'mining': 1, u'service': 1, u'team': 1, u'spondoolies-tech': 1, u'genesis': 1, u'cloud': 1}",Feb-02-2015,stan higgins
-353,bitcoin atm maker robocoin hints at software shift,"{u'hint': 0, u'shift': 1, u'atm': 1, u'bitcoin': 1, u'robocoin': 1, u'maker': 1, u'software': 1}",Jan-30-2015,pete rizzo
-354,digitalbtc dissolves bitcoin mining agreement with cloudhashing,"{u'agreement': 1, u'digitalbtc': 1, u'mine': 0, u'bitcoin': 1, u'cloudhashing': 1, u'dissolve': 0}",Jan-30-2015,nermin hajdarbegovic
-355,ftc complaints detail troubled past of bankrupt bitcoin miner cointerra,"{u'complaint': 0, u'bankrupt': 1, u'miner': 1, u'detail': 1, u'bitcoin': 1, u'past': 1, u'ftc': 1, u'cointerra': 1, u'trouble': 0}",Jan-29-2015,pete rizzo
-356,bitfury exploring options in bitcoin cloud mining market,"{u'mining': 1, u'option': 0, u'explore': 0, u'bitcoin': 1, u'bitfury': 1, u'market': 1, u'cloud': 1}",Jan-28-2015,tanaya macheel
-357,bitcoin mining firm cointerra files for chapter 7 bankruptcy,"{u'firm': 1, u'chapter': 1, u'mining': 1, u'cointerra': 1, u'bitcoin': 1, u'file': 0, u'bankruptcy': 1}",Jan-27-2015,stan higgins
-358,cloud mining suffers as hash rate plateaus,"{u'mining': 1, u'suffers': 1, u'hash': 1, u'rate': 1, u'plateau': 0, u'cloud': 1}",Jan-25-2015,nermin hajdarbegovic
-359,how anonymous is bitcoin? a backgrounder for policymakers,"{u'policymakers': 1, u'bitcoin': 1, u'anonymous': 1, u'backgrounder': 1}",Jan-25-2015,adam ludwin
-360,digitalbtc inks deal with spondoolies-tech to expand mining operation,"{u'mining': 1, u'deal': 1, u'digitalbtc': 1, u'ink': 0, u'spondoolies-tech': 1, u'operation': 1, u'expand': 1}",Jan-23-2015,nermin hajdarbegovic
-361,bitfury eyes bitcoin mining advantage with immersion cooling acquisition,"{u'eye': 0, u'advantage': 1, u'immersion': 1, u'bitcoin': 1, u'mine': 0, u'bitfury': 1, u'acquisition': 1, u'cool': 0}",Jan-22-2015,tanaya macheel
-362,digitalbtc selloff prompts questions from australian securities exchange,"{u'prompt': 0, u'exchange': 1, u'selloff': 1, u'question': 0, u'digitalbtc': 1, u'security': 0, u'australian': 1}",Jan-19-2015,nermin hajdarbegovic
-363,bitcoin miner zeushash faces cloud service shutdown,"{u'service': 1, u'zeushash': 1, u'miner': 1, u'bitcoin': 1, u'face': 0, u'shutdown': 1, u'cloud': 1}",Jan-16-2015,stan higgins
-364,airbitz gives away btc in miami bitcoin conference scavenger hunt,"{u'conference': 1, u'give': 0, u'miami': 1, u'away': 1, u'hunt': 1, u'bitcoin': 1, u'airbitz': 1, u'btc': 1, u'scavenger': 1}",Jan-16-2015,daniel cawrey
-365,cointerra ceo: company 'frozen' amid lawsuits and default,"{u'frozen': 1, u'amid': 1, u'company': 1, u'default': 1, u'ceo': 1, u'cointerra': 1, u'lawsuit': 0}",Jan-14-2015,stan higgins
-366,data center operator sues cointerra for $5.4 million in damages,"{u'sue': 0, u'center': 1, u'million': 1, u'damage': 0, u'cointerra': 1, u'operator': 1, u'data': 1}",Jan-12-2015,stan higgins
-367,cex.io halts cloud mining service due to low bitcoin price,"{u'mining': 1, u'halt': 0, u'service': 1, u'price': 1, u'due': 1, u'bitcoin': 1, u'low': 1, u'cex.io': 1, u'cloud': 1}",Jan-12-2015,stan higgins
-368,overstock installs bitcoin atm at corporate hq,"{u'atm': 1, u'installs': 1, u'hq': 1, u'bitcoin': 1, u'corporate': 1, u'overstock': 1}",Jan-09-2015,tanaya macheel
-369,dutch scrypt mining company declared bankrupt,"{u'mining': 1, u'bankrupt': 1, u'company': 1, u'dutch': 1, u'scrypt': 1, u'declare': 0}",Jan-09-2015,aaron van wirdum
-370,"butterfly labs resumes shipping, sets timetable for refunds","{u'butterfly': 1, u'refund': 0, u'set': 0, u'resume': 0, u'lab': 0, u'timetable': 1, u'ship': 0}",Jan-08-2015,nermin hajdarbegovic
-371,cointerra silent amid alleged cloud mining payout freeze,"{u'payout': 1, u'mining': 1, u'silent': 1, u'amid': 1, u'alleged': 1, u'freeze': 1, u'cointerra': 1, u'cloud': 1}",Jan-08-2015,joon ian wong
-372,bitcoin broker libertyx raises $400k for hiring push,"{u'hire': 0, u'raise': 0, u'k': 1, u'libertyx': 1, u'bitcoin': 1, u'broker': 1, u'push': 1}",Jan-07-2015,pete rizzo
-373,cubits launch aims to accelerate bitcoin buying in europe,"{u'europe': 1, u'aim': 0, u'launch': 1, u'bitcoin': 1, u'cubit': 0, u'accelerate': 1, u'buying': 1}",Jan-07-2015,nermin hajdarbegovic
-374,review: ravenbit keeps physical bitcoin meme alive,"{u'meme': 1, u'review': 1, u'bitcoin': 1, u'alive': 1, u'keep': 0, u'ravenbit': 1, u'physical': 1}",Jan-04-2015,jon southurst
-375,"bitcoin mining pools attack when threatened, study finds","{u'mining': 1, u'study': 1, u'bitcoin': 1, u'attack': 1, u'threaten': 0, u'find': 0, u'pool': 0}",Jan-02-2015,joon ian wong
-376,mike hearn: how bitcoin's technology advanced in 2014,"{u'advance': 0, u'mike': 1, u'hearn': 1, u'technology': 1, u'bitcoin': 1}",Jan-02-2015,mike hearn
-377,megabigpower: 2014 was a game changer for bitcoin mining,"{u'changer': 1, u'game': 1, u'bitcoin': 1, u'mining': 1, u'megabigpower': 1}",Dec-29-2014,stan higgins
-378,gregory maxwell: how i went from bitcoin skeptic to core developer,"{u'core': 1, u'skeptic': 1, u'maxwell': 1, u'bitcoin': 1, u'go': 0, u'gregory': 1, u'developer': 1}",Dec-29-2014,daniel cawrey
-379,6 charts that show massive bitcoin atm growth in 2014,"{u'show': 1, u'atm': 1, u'bitcoin': 1, u'chart': 0, u'growth': 1, u'massive': 1}",Dec-26-2014,joon ian wong
-380,review: ledger wallet nano provides premium security on a budget,"{u'premium': 1, u'nano': 1, u'provide': 0, u'review': 1, u'ledger': 1, u'budget': 1, u'wallet': 1, u'security': 1}",Dec-21-2014,nermin hajdarbegovic
-381,coinkite removes limits on multisig bitcoin wallets in service fee shakeup,"{u'fee': 1, u'service': 1, u'bitcoin': 1, u'remove': 0, u'wallet': 0, u'coinkite': 1, u'limit': 0, u'shakeup': 1, u'multisig': 1}",Dec-16-2014,pete rizzo
-382,court strikes down ftc request for more butterfly labs oversight,"{u'butterfly': 1, u'court': 1, u'request': 1, u'lab': 0, u'ftc': 1, u'strike': 0, u'oversight': 1}",Dec-15-2014,nermin hajdarbegovic
-383,'good samaritan' blockchain hacker who returned 267 btc speaks out,"{u'hacker': 1, u'good': 1, u'return': 0, u'samaritan': 1, u'blockchain': 1, u'btc': 1, u'speak': 0}",Dec-12-2014,jon southurst
-384,ledger launches usb bitcoin wallet with 'bank-grade' security,"{u'usb': 1, u'launch': 0, u'ledger': 1, u'bitcoin': 1, u'wallet': 1, u'bank-grade': 1, u'security': 1}",Dec-12-2014,daniel palmer
-385,uncertainty builds as alpha technology misses another shipping deadline,"{u'miss': 0, u'uncertainty': 1, u'shipping': 1, u'deadline': 1, u'build': 0, u'another': 1, u'alpha': 1, u'technology': 1}",Dec-10-2014,joon ian wong
-386,hacker returns 225 btc taken from blockchain wallets,"{u'hacker': 1, u'return': 0, u'blockchain': 1, u'wallet': 0, u'take': 0, u'btc': 1}",Dec-10-2014,jon southurst
-387,bitfury ceo: we're not a bitcoin mining company,"{u'ceo': 1, u'company': 1, u'bitfury': 1, u'mining': 1, u'bitcoin': 1}",Dec-06-2014,pete rizzo
-388,"libertyx brings bitcoin buying to 2,500 us retail stores","{u'buy': 0, u'brings': 1, u'libertyx': 1, u'bitcoin': 1, u'u': 0, u'retail': 1, u'store': 0}",Dec-03-2014,pete rizzo
-389,bitcoin price decline sparks rare mining difficulty drop,"{u'decline': 1, u'mining': 1, u'rare': 1, u'price': 1, u'drop': 1, u'bitcoin': 1, u'difficulty': 1, u'spark': 0}",Dec-03-2014,nermin hajdarbegovic
-390,"btc china's new pool mines 3,325 btc in five weeks","{u'week': 0, u'mine': 0, u'five': 1, u'china': 1, u'btc': 2, u'new': 1, u'pool': 1}",Dec-02-2014,jon southurst
-391,spondoolies-tech ceo talks new asics and a 'blockchain lottery' device,"{u'lottery': 1, u'ceo': 1, u'blockchain': 1, u'asics': 1, u'device': 1, u'new': 1, u'spondoolies-tech': 1, u'talk': 0}",Dec-01-2014,nermin hajdarbegovic
-392,the blockchain application stack,"{u'application': 1, u'blockchain': 1, u'stack': 1}",Nov-30-2014,joel monegro
-393,bitcoin: new plumbing for financial services,"{u'plumbing': 1, u'new': 1, u'financial': 1, u'bitcoin': 1, u'service': 0}",Nov-29-2014,jonathan levin
-394,robocoin operator hacks atm to run lamassu software,"{u'run': 1, u'atm': 1, u'lamassu': 1, u'hack': 0, u'operator': 1, u'robocoin': 1, u'software': 1}",Nov-28-2014,joon ian wong
-395,how bitcoin companies keep your funds safe,"{u'fund': 0, u'company': 0, u'safe': 1, u'bitcoin': 1, u'keep': 1}",Nov-25-2014,danny bradbury
-396,bitfury adds samsung strategy chief to advisor board,"{u'samsung': 1, u'bitfury': 1, u'strategy': 1, u'chief': 1, u'add': 0, u'board': 1, u'advisor': 1}",Nov-24-2014,pete rizzo
-397,the blockchain lottery: how miners are rewarded,"{u'lottery': 1, u'reward': 0, u'miner': 0, u'blockchain': 1}",Nov-23-2014,conrad barski & chris wilmer
-398,"lamassu: bitcoin atm owners earning up to $36,000 per year","{u'earn': 0, u'atm': 1, u'bitcoin': 1, u'per': 1, u'lamassu': 1, u'year': 1, u'owner': 0}",Nov-21-2014,pete rizzo
-399,gavin andresen: bitcoin foundation pivot won't centralize core development,"{u'development': 1, u'centralize': 1, u'foundation': 1, u'bitcoin': 1, u'gavin': 1, u'pivot': 1, u'core': 1, u'andresen': 1}",Nov-20-2014,stan higgins
-400,chinese bitcoin mining alliance denounces ponzi schemes in transparency push,"{u'mining': 1, u'alliance': 1, u'ponzi': 1, u'chinese': 1, u'bitcoin': 1, u'denounces': 1, u'transparency': 1, u'push': 1, u'scheme': 0}",Nov-20-2014,stan higgins
-401,mining roundup: bitmain's mining pool push and a hashfast auction,"{u'roundup': 1, u'mining': 2, u'auction': 1, u'hashfast': 1, u'push': 1, u'bitmain': 1, u'pool': 1}",Nov-20-2014,stan higgins
-402,cryptolabs announces bitcoin hardware wallet with biometric authentication,"{u'cryptolabs': 1, u'bitcoin': 1, u'hardware': 1, u'wallet': 1, u'authentication': 1, u'announces': 1, u'biometric': 1}",Nov-19-2014,pete rizzo
-403,factom outlines record-keeping network that utilises bitcoin's blockchain,"{u'record-keeping': 1, u'outline': 0, u'utilise': 0, u'factom': 1, u'blockchain': 1, u'bitcoin': 1, u'network': 1}",Nov-19-2014,stan higgins
-404,kncminer plans 16nm bitcoin mining asic launch in 2015,"{u'mining': 1, u'nm': 1, u'launch': 1, u'asic': 1, u'bitcoin': 1, u'plan': 0, u'kncminer': 1}",Nov-18-2014,nermin hajdarbegovic
-405,coinbase launches 'one-click' bitcoin tipping tool,"{u'one-click': 1, u'launch': 0, u'tool': 1, u'tip': 0, u'bitcoin': 1, u'coinbase': 1}",Nov-18-2014,pete rizzo
-406,"""i love the blockchain, just not bitcoin""","{u'blockchain': 1, u'love': 1, u'bitcoin': 1}",Nov-16-2014,jonathan levin
-407,hyprkey introduces fingerprint scanning to secure bitcoin transactions,"{u'transaction': 0, u'secure': 1, u'scan': 0, u'introduces': 1, u'bitcoin': 1, u'hyprkey': 1, u'fingerprint': 1}",Nov-16-2014,tanaya macheel
-408,bitpay partners with trucoin to bring bitcoin atms to bowl game,"{u'trucoin': 1, u'atm': 0, u'bowl': 1, u'bitcoin': 1, u'bitpay': 1, u'bring': 1, u'game': 1, u'partner': 0}",Nov-12-2014,pete rizzo
-409,robocoin policy change ignites fears over centralisation,"{u'ignite': 0, u'centralisation': 1, u'policy': 1, u'fear': 0, u'robocoin': 1, u'change': 1}",Nov-08-2014,pete rizzo
-410,can hobbyist bitcoin miners still make a buck?,"{u'buck': 1, u'make': 1, u'miner': 0, u'bitcoin': 1, u'hobbyist': 1, u'still': 1}",Nov-08-2014,danny bradbury
-411,japanese scholars draft proposal for a better bitcoin,"{u'good': 0, u'scholar': 0, u'japanese': 1, u'bitcoin': 1, u'draft': 1, u'proposal': 1}",Nov-07-2014,nermin hajdarbegovic
-412,robocoin now requires all atm operators to collect customer information,"{u'customer': 1, u'information': 1, u'require': 0, u'atm': 1, u'collect': 1, u'operator': 0, u'robocoin': 1}",Nov-07-2014,pete rizzo
-413,gallery: fire destroys thai bitcoin mining facility,"{u'mining': 1, u'facility': 1, u'fire': 1, u'bitcoin': 1, u'destroy': 0, u'thai': 1, u'gallery': 1}",Nov-06-2014,nermin hajdarbegovic
-414,bitcoin atm goes live at google's london co-working space,"{u'google': 1, u'space': 1, u'atm': 1, u'bitcoin': 1, u'live': 1, u'london': 1, u'go': 0, u'co-working': 1}",Nov-05-2014,joon ian wong
-415,ftc granted approval to sell off butterfly labs’ bitcoins,"{u'sell': 1, u'butterfly': 1, u'bitcoins': 1, u'grant': 0, u'lab': 0, u'ftc': 1, u'approval': 1}",Nov-04-2014,pete rizzo
-416,teraexchange brings multisig security to bitcoin derivatives platform,"{u'teraexchange': 1, u'bitcoin': 1, u'platform': 1, u'brings': 1, u'derivative': 0, u'security': 1, u'multisig': 1}",Nov-03-2014,pete rizzo
-417,circle launches mobile apps for ios and android,"{u'launch': 0, u'mobile': 1, u'apps': 1, u'io': 0, u'circle': 1, u'android': 1}",Nov-03-2014,jon southurst
-418,mining roundup: btc guild for sale and zeusminer's sudden hardware halt,"{u'roundup': 1, u'mining': 1, u'guild': 1, u'halt': 1, u'sale': 1, u'hardware': 1, u'sudden': 1, u'zeusminer': 1, u'btc': 1}",Oct-31-2014,stan higgins
-419,spanish hotel chain kicks off bitcoin atm launch with cocktail party,"{u'atm': 1, u'cocktail': 1, u'chain': 1, u'launch': 1, u'hotel': 1, u'bitcoin': 1, u'spanish': 1, u'party': 1, u'kick': 0}",Oct-31-2014,emily spaven
-420,"bitcoin-over-tor anonymity 'can be busted for $2,500 a month'","{u'anonymity': 1, u'bitcoin-over-tor': 1, u'bust': 0, u'month': 1}",Oct-29-2014,joon ian wong
-421,what's next for bitcoin wallet security?,"{u'wallet': 1, u'security': 1, u'bitcoin': 1, u'next': 1}",Oct-26-2014,danny bradbury
-422,the family that mines bitcoin together stays together,"{u'together': 2, u'stay': 0, u'bitcoin': 1, u'family': 1, u'mine': 0}",Oct-26-2014,stan higgins
-423,spondoolies-tech takes aim at bitfury with $5 million funding round,"{u'funding': 1, u'million': 1, u'aim': 1, u'bitfury': 1, u'take': 0, u'spondoolies-tech': 1, u'round': 1}",Oct-24-2014,pete rizzo
-424,butterfly labs urges court to dismiss ftc's 'self-serving' fraud charges,"{u'butterfly': 1, u'urge': 0, u'fraud': 1, u'court': 1, u'dismiss': 1, u'charge': 0, u'lab': 0, u'self-serving': 1, u'ftc': 1}",Oct-24-2014,nermin hajdarbegovic
-425,lamassu partners with identitymind to offer enhanced atm compliance,"{u'atm': 1, u'offer': 1, u'compliance': 1, u'identitymind': 1, u'lamassu': 1, u'enhanced': 1, u'partner': 0}",Oct-23-2014,pete rizzo
-426,bitfury invests in gocoin for payments processing push,"{u'process': 0, u'bitfury': 1, u'push': 1, u'invests': 1, u'gocoin': 1, u'payment': 0}",Oct-22-2014,pete rizzo
-427,asic design firm alchip to debut on taiwan stock exchange,"{u'firm': 1, u'exchange': 1, u'debut': 1, u'asic': 1, u'design': 1, u'taiwan': 1, u'alchip': 1, u'stock': 1}",Oct-22-2014,nermin hajdarbegovic
-428,coinprism releases colored coins android app for mobile asset transfer,"{u'color': 0, u'transfer': 1, u'app': 1, u'mobile': 1, u'asset': 1, u'coinprism': 1, u'release': 0, u'android': 1, u'coin': 0}",Oct-20-2014,nermin hajdarbegovic
-429,btc china adds mining pool and merchant payment services,"{u'merchant': 1, u'service': 0, u'mine': 0, u'add': 0, u'china': 1, u'btc': 1, u'payment': 1, u'pool': 1}",Oct-20-2014,jon southurst
-430,why bitcoin's core developers want multiple versions,"{u'core': 1, u'multiple': 1, u'bitcoin': 1, u'version': 0, u'want': 1, u'developer': 0}",Oct-19-2014,danny bradbury
-431,the math behind bitcoin,"{u'behind': 1, u'bitcoin': 1, u'math': 1}",Oct-19-2014,eric rykwalder
-432,review: bitcoin 'vault' trezor lives up to its name,"{u'name': 1, u'review': 1, u'bitcoin': 1, u'live': 0, u'vault': 1, u'trezor': 1}",Oct-18-2014,nermin hajdarbegovic
-433,robocoin customers report trail of late deliveries after reddit exposé,"{u'customer': 0, u'late': 1, u'reddit': 1, u'delivery': 0, u'trail': 1, u'expo': 0, u'report': 1, u'robocoin': 1}",Oct-17-2014,joon ian wong
-434,the blacklist debate: when is it ok to meddle with bitcoin's code?,"{u'code': 1, u'ok': 1, u'bitcoin': 1, u'meddle': 1, u'blacklist': 1, u'debate': 1}",Oct-17-2014,danny bradbury
-435,australian police seize bitcoin atm in $2.6 million drug bust,"{u'million': 1, u'police': 1, u'seize': 1, u'atm': 1, u'bitcoin': 1, u'drug': 1, u'bust': 1, u'australian': 1}",Oct-17-2014,nermin hajdarbegovic
-436,open-source tool identifies weak bitcoin wallet signatures,"{u'open-source': 1, u'tool': 1, u'weak': 1, u'bitcoin': 1, u'wallet': 1, u'signature': 0, u'identifies': 1}",Oct-16-2014,nermin hajdarbegovic
-437,california attorney investigating potential class action against kncminer,"{u'attorney': 1, u'investigate': 0, u'potential': 1, u'california': 1, u'action': 1, u'kncminer': 1, u'class': 1}",Oct-15-2014,stan higgins
-438,how bitcoin's block chain could stop history being rewritten,"{u'chain': 1, u'rewrite': 0, u'could': 1, u'stop': 1, u'bitcoin': 1, u'block': 1, u'history': 1}",Oct-15-2014,nozomi hayase
-439,practical sessions and in-depth talks mark final day of hashers united,"{u'united': 1, u'in-depth': 1, u'mark': 1, u'practical': 1, u'session': 0, u'hashers': 1, u'talk': 0, u'final': 1, u'day': 1}",Oct-14-2014,stan higgins
-440,imf and world bank annual meetings explore block chain's potential,"{u'chain': 1, u'imf': 1, u'annual': 1, u'explore': 1, u'potential': 1, u'block': 1, u'world': 1, u'meeting': 0, u'bank': 1}",Oct-14-2014,nermin hajdarbegovic
-441,new bitcoin wallet app targets philippines remittance market,"{u'target': 0, u'app': 1, u'bitcoin': 1, u'wallet': 1, u'remittance': 1, u'new': 1, u'philippines': 1, u'market': 1}",Oct-13-2014,jon southurst
-442,bitcoin miners debate risks and rewards at las vegas convention,"{u'risk': 0, u'miner': 0, u'bitcoin': 1, u'vega': 0, u'convention': 1, u'reward': 0, u'debate': 1, u'las': 1}",Oct-11-2014,stan higgins
-443,over 800 payment terminals in romania now sell bitcoin,"{u'terminal': 0, u'sell': 1, u'romania': 1, u'payment': 1, u'bitcoin': 1}",Oct-10-2014,joon ian wong
-444,bitfury raises $20 million to power new asic chip development,"{u'development': 1, u'raise': 0, u'power': 1, u'chip': 1, u'million': 1, u'asic': 1, u'bitfury': 1, u'new': 1}",Oct-09-2014,pete rizzo
-445,"mining roundup: pen-and-paper mining, roi uncertainty and the latest on butterfly labs","{u'roundup': 1, u'pen-and-paper': 1, u'mining': 2, u'butterfly': 1, u'roi': 1, u'uncertainty': 1, u'mine': 0, u'lab': 0, u'late': 0}",Oct-07-2014,stan higgins
-446,"airbitz's touchless bitcoin wallet targets novices, evangelists alike","{u'evangelist': 0, u'target': 0, u'novices': 1, u'bitcoin': 1, u'wallet': 1, u'airbitz': 1, u'alike': 1, u'touchless': 1}",Oct-07-2014,daniel cawrey
-447,blockchain to grow further after closing $30.5 million funding round,"{u'funding': 1, u'million': 1, u'blockchain': 1, u'round': 1, u'close': 0, u'grow': 1}",Oct-07-2014,jon southurst
-448,russia seizes bitcoin mining equipment in incident at china border,"{u'mining': 1, u'seize': 0, u'bitcoin': 1, u'equipment': 1, u'incident': 1, u'china': 1, u'border': 1, u'russia': 1}",Oct-06-2014,pete rizzo
-449,portuguese manufacturer bitcoin já launches new bitcoin atm,"{u'portuguese': 1, u'atm': 1, u'launch': 0, u'j': 1, u'bitcoin': 2, u'new': 1, u'manufacturer': 1}",Oct-06-2014,nermin hajdarbegovic
-450,butterfly labs to resume limited business operations,"{u'butterfly': 1, u'limited': 1, u'business': 1, u'resume': 1, u'lab': 0, u'operation': 0}",Oct-03-2014,pete rizzo
-451,ex-verifone exec: bitcoin isn't just another crazy payments idea,"{u'crazy': 1, u'exec': 1, u'ex-verifone': 1, u'bitcoin': 1, u'idea': 1, u'another': 1, u'payment': 0}",Oct-01-2014,pete rizzo
-452,butterfly labs seeks government approval to reopen business,"{u'butterfly': 1, u'business': 1, u'government': 1, u'lab': 0, u'reopen': 1, u'approval': 1, u'seeks': 1}",Oct-01-2014,stan higgins
-453,digitaltangible expands crypto 2.0 gold trading platform to asia,"{u'gold': 1, u'crypto': 1, u'asia': 1, u'platform': 1, u'digitaltangible': 1, u'trading': 1, u'expands': 1}",Oct-01-2014,daniel palmer
-454,"irish pub abandons bitcoin, cites legal concerns","{u'irish': 1, u'bitcoin': 1, u'pub': 1, u'legal': 1, u'abandon': 0, u'cite': 0, u'concern': 0}",Oct-01-2014,nermin hajdarbegovic
-455,robocoin launches custom bitcoin wallet targeting underbanked,"{u'underbanked': 1, u'target': 0, u'launch': 0, u'bitcoin': 1, u'custom': 1, u'wallet': 1, u'robocoin': 1}",Sep-30-2014,pete rizzo
-456,"coincorner launches mobile wallet, pos solution and payment gateway","{u'coincorner': 1, u'launch': 0, u'mobile': 1, u'payment': 1, u'solution': 1, u'po': 0, u'wallet': 1, u'gateway': 1}",Sep-30-2014,nermin hajdarbegovic
-457,aegis wallet brings bitcoin to android smartwatches,"{u'smartwatches': 1, u'bring': 0, u'bitcoin': 1, u'wallet': 1, u'aegis': 1, u'android': 1}",Sep-30-2014,nermin hajdarbegovic
-458,early bitcoin adopter calls for multi-sig solutions after 750 btc theft,"{u'theft': 1, u'multi-sig': 1, u'bitcoin': 1, u'solution': 0, u'early': 1, u'call': 0, u'btc': 1, u'adopter': 1}",Sep-30-2014,jon southurst
-459,ftc: butterfly labs held back shipments for illicit mining,"{u'butterfly': 1, u'mining': 1, u'back': 1, u'labs': 1, u'illicit': 1, u'ftc': 1, u'shipment': 0, u'hold': 0}",Sep-29-2014,pete rizzo
-460,alpha technology viper scrypt miner shipments slip to october,"{u'october': 1, u'shipment': 0, u'miner': 1, u'viper': 1, u'slip': 1, u'scrypt': 1, u'alpha': 1, u'technology': 1}",Sep-29-2014,nermin hajdarbegovic
-461,12 ways to measure the bitcoin network's health,"{u'bitcoin': 1, u'health': 1, u'network': 1, u'way': 0, u'measure': 1}",Sep-27-2014,jon matonis
-462,diamond circle launches first cashless bitcoin atm,"{u'cashless': 1, u'diamond': 1, u'launch': 0, u'atm': 1, u'bitcoin': 1, u'circle': 1, u'first': 1}",Sep-26-2014,nermin hajdarbegovic
-463,mit students challenge new jersey state in tidbit legal case,"{u'case': 1, u'tidbit': 1, u'challenge': 1, u'legal': 1, u'state': 1, u'student': 0, u'new': 1, u'mit': 1, u'jersey': 1}",Sep-26-2014,danny bradbury
-464,ftc: butterfly labs case not part of 'war on bitcoin',"{u'butterfly': 1, u'case': 1, u'bitcoin': 1, u'lab': 0, u'ftc': 1, u'part': 1, u'war': 1}",Sep-24-2014,stan higgins
-465,us government shuts down embattled mining firm butterfly labs,"{u'firm': 1, u'butterfly': 1, u'shut': 0, u'government': 1, u'embattle': 0, u'mining': 1, u'lab': 0, u'u': 0}",Sep-23-2014,stan higgins
-466,vietnam exchange adds bitcoin wallet with off-chain transactions,"{u'transaction': 0, u'exchange': 1, u'add': 0, u'bitcoin': 1, u'wallet': 1, u'off-chain': 1, u'vietnam': 1}",Sep-23-2014,jon southurst
-467,"mining roundup: litecoin's milestone, lab rat's lawsuit and bitfury's board boost","{u'roundup': 1, u'mining': 1, u'litecoin': 1, u'boost': 1, u'bitfury': 1, u'lab': 1, u'rat': 1, u'board': 1, u'milestone': 1, u'lawsuit': 1}",Sep-22-2014,stan higgins
-468,bitocean releases two-way bitcoin atm to compete with market leaders,"{u'atm': 1, u'two-way': 1, u'bitocean': 1, u'bitcoin': 1, u'compete': 1, u'release': 0, u'leader': 0, u'market': 1}",Sep-21-2014,jon southurst
-469,cryptocurrency miners turn to exotic cooling systems as competition heats up,"{u'exotic': 1, u'miner': 0, u'system': 0, u'competition': 1, u'cryptocurrency': 1, u'turn': 1, u'heat': 0, u'cool': 0}",Sep-20-2014,joon ian wong
-470,how discus fish became china's largest bitcoin mining pool,"{u'mining': 1, u'discus': 1, u'fish': 1, u'bitcoin': 1, u'large': 0, u'china': 1, u'become': 0, u'pool': 1}",Sep-19-2014,stan higgins
-471,cointerra opens pre-orders for first 16nm bitcoin asic,"{u'nm': 1, u'asic': 1, u'bitcoin': 1, u'pre-orders': 1, u'cointerra': 1, u'open': 0, u'first': 1}",Sep-18-2014,nermin hajdarbegovic
-472,"coinbase launches toshi, a free bitcoin api for developers","{u'launch': 0, u'bitcoin': 1, u'free': 1, u'api': 1, u'toshi': 1, u'coinbase': 1, u'developer': 0}",Sep-17-2014,pete rizzo
-473,digitalbtc partners with cryptsy for mining platform launch,"{u'launch': 1, u'mine': 0, u'digitalbtc': 1, u'platform': 1, u'partner': 0, u'cryptsy': 1}",Sep-17-2014,stan higgins
-474,"plan to launch 1,000 us bitcoin atms collapses amid alleged misconduct","{u'collapse': 0, u'launch': 1, u'amid': 1, u'bitcoin': 1, u'atms': 1, u'u': 0, u'plan': 1, u'alleged': 1, u'misconduct': 1}",Sep-15-2014,pete rizzo
-475,europe's top 5 countries for bitcoin atms,"{u'europe': 1, u'country': 0, u'top': 1, u'atm': 0, u'bitcoin': 1}",Sep-14-2014,tom sharkey
-476,why bitcoin mining can no longer ignore moore’s law,"{u'mining': 1, u'moore': 1, u'bitcoin': 1, u'ignore': 1, u'law': 1, u'longer': 1}",Sep-14-2014,nermin hajdarbegovic
-477,the top 5 us states for bitcoin atms,"{u'top': 1, u'atm': 0, u'u': 0, u'state': 0, u'bitcoin': 1}",Sep-13-2014,tom sharkey
-478,ios users get first 'decentralized' bitcoin wallet with breadwallet,"{u'decentralize': 0, u'get': 1, u'bitcoin': 1, u'wallet': 1, u'user': 0, u'io': 0, u'breadwallet': 1, u'first': 1}",Sep-13-2014,jon southurst
-479,rushwallet adds instant bitcoin fundraising feature,"{u'rushwallet': 1, u'instant': 1, u'fundraising': 1, u'feature': 1, u'bitcoin': 1, u'add': 0}",Sep-12-2014,jon southurst
-480,dogecoin community celebrates as merge mining with litecoin begins,"{u'mining': 1, u'litecoin': 1, u'begin': 0, u'community': 1, u'merge': 1, u'dogecoin': 1, u'celebrate': 0}",Sep-11-2014,stan higgins
-481,uk bitcoin atm grosses £38k in last month,"{u'gross': 0, u'last': 1, u'k': 1, u'atm': 1, u'bitcoin': 1, u'month': 1, u'uk': 1}",Sep-11-2014,joon ian wong
-482,api developer gem aims to streamline bitcoin app development,"{u'development': 1, u'app': 1, u'bitcoin': 1, u'aim': 0, u'api': 1, u'streamline': 1, u'gem': 1, u'developer': 1}",Sep-09-2014,nermin hajdarbegovic
-483,btchip launches multi-signature usb bitcoin wallet,"{u'usb': 1, u'launch': 0, u'multi-signature': 1, u'bitcoin': 1, u'wallet': 1, u'btchip': 1}",Sep-09-2014,nermin hajdarbegovic
-484,it's time for bitcoin companies to give back,"{u'back': 1, u'company': 0, u'give': 1, u'bitcoin': 1, u'time': 1}",Sep-07-2014,danny bradbury
-485,mining roundup: new viper tests and bitmain's debut cloud mining service,"{u'roundup': 1, u'mining': 2, u'service': 1, u'debut': 1, u'mine': 0, u'viper': 1, u'bitmain': 1, u'test': 0, u'new': 1, u'cloud': 1}",Sep-07-2014,stan higgins
-486,why a faster bitcoin network would keep fees low,"{u'fee': 0, u'network': 1, u'would': 1, u'bitcoin': 1, u'keep': 1, u'low': 1, u'faster': 1}",Sep-06-2014,jonathan levin
-487,gallery: inside a top bitcoin mine in china,"{u'inside': 1, u'top': 1, u'mine': 1, u'bitcoin': 1, u'china': 1, u'gallery': 1}",Sep-05-2014,grace caffyn
-488,safello announces social media-inspired bitcoin wallet,"{u'safello': 1, u'media-inspired': 1, u'social': 1, u'bitcoin': 1, u'wallet': 1, u'announces': 1}",Sep-05-2014,pete rizzo
-489,atm industry group: bitcoin atm sector needs more oversight,"{u'sector': 1, u'group': 1, u'industry': 1, u'atm': 2, u'bitcoin': 1, u'need': 0, u'oversight': 1}",Sep-04-2014,pete rizzo
+0,just segwit? bitcoin core is already working on a new scaling upgrade,"[core, already, work, bitcoin, scaling, upgrade, new, segwit]",Oct-12-2017,alyssa hertig
+1,bitcoin-ethereum atomic swap code now open source,"[code, bitcoin-ethereum, source, atomic, open, swap]",Oct-11-2017,alyssa hertig
+2,bitpay is growing? how startup suspicions are fueling bitcoin's fork debate,"[fork, startup, bitcoin, bitpay, suspicion, fuel, debate, grow]",Oct-09-2017,bailey reutzel
+3,bitcoin meets netflix? laolu is building a lightning-powered app for that,"[lightning-powered, netflix, app, bitcoin, laolu, build, meet]",Oct-07-2017,alyssa hertig
+4,calm before the fork? segwit2x goes silent as bitcoin split looms,"[fork, loom, silent, bitcoin, calm, go, x, segwit, split]",Oct-06-2017,alyssa hertig
+5,council staffers fired for bitcoin mining in crimea,"[mining, fire, bitcoin, staffer, council, crimea]",Oct-05-2017,stan higgins
+6,guns & crypto: how bitcoin is helping keep cody wilson's anarchist dream alive,"[wilson, help, bitcoin, crypto, keep, alive, gun, anarchist, dream, cody]",Oct-01-2017,michael del castillo
+7,edward snowden: zcash is 'most interesting bitcoin alternative',"[snowden, interesting, bitcoin, zcash, edward, alternative]",Sep-29-2017,rachel rose o'leary
+8,the head of the sec is 'concerned' about ico pump-and-dumps,"[ico, head, sec, pump-and-dumps, concern]",Sep-28-2017,stan higgins
+9,staking sidechains? new paper proposes twist on bitcoin tech,"[propose, stake, bitcoin, twist, paper, tech, new, sidechains]",Sep-27-2017,rachel rose o'leary
+10,"first cash, now gold? another bitcoin hard fork is on the way","[fork, way, gold, hard, bitcoin, cash, another, first]",Sep-27-2017,alyssa hertig
+11,mimblewimble won't ico but will launch cryptocurrency,"[cryptocurrency, mimblewimble, ico, launch]",Sep-26-2017,alyssa hertig
+12,untangling bitcoin: why russell yanofsky is taking apart crypto's oldest code,"[code, old, russell, bitcoin, crypto, untangle, take, yanofsky, apart]",Sep-24-2017,alyssa hertig
+13,bitcoin developers reveal roadmap for 'dandelion' privacy project,"[reveal, dandelion, privacy, bitcoin, roadmap, project, developer]",Sep-22-2017,rachel rose o'leary
+14,nebraska lawyers accept bitcoin following ethics board approval,"[ethic, bitcoin, accept, nebraska, board, lawyer, approval, follow]",Sep-21-2017,stan higgins
+15,optimizing segwit: how bitcoin's new software is giving scaling a boost,"[scale, give, bitcoin, new, segwit, boost, optimize, software]",Sep-20-2017,alyssa hertig
+16,$9 million: bitcoin startup luno completes series b funding,"[b, funding, complete, series, million, startup, bitcoin, luno]",Sep-19-2017,stan higgins
+17,split on forks? blockchain leaders learn tough lessons from bitcoin scaling,"[fork, scale, tough, blockchain, bitcoin, split, learn, lesson, leader]",Sep-18-2017,bailey reutzel
+18,institutional cryptoeconomics: a new model for a new century,"[institutional, new, model, cryptoeconomics, century]",Sep-16-2017,"chris berg, sinclair davidson and jason potts"
+19,'revolutionary': finland central bank paper heaps praise on bitcoin,"[revolutionary, central, praise, finland, bitcoin, paper, heap, bank]",Sep-11-2017,rachel rose o'leary
+20,master plan: better bitcoin smart contracts could go live this year,"[could, well, bitcoin, contract, live, master, plan, year, go, smart]",Sep-11-2017,alyssa hertig
+21,scaling lightning? how revive could boost bitcoin's boldest scaling plan,"[scale, bold, could, revive, bitcoin, scaling, plan, lightning, boost]",Sep-10-2017,alyssa hertig
+22,japan's gmo internet reveals cryptocurrency mining plan,"[reveals, mining, gmo, cryptocurrency, plan, internet, japan]",Sep-08-2017,stan higgins
+23,lightning's next act: decentralizing bitcoin mining?,"[decentralize, bitcoin, mining, next, act, lightning]",Sep-08-2017,alyssa hertig
+24,'not an investment': internet archive defends decision to hold bitcoin,"[defend, decision, bitcoin, investment, internet, hold, archive]",Sep-05-2017,rachel rose o'leary
+25,stuck with fees? new bitcoin tech could end wallet guessing games,"[guess, fee, end, could, bitcoin, wallet, game, tech, stick, new]",Sep-03-2017,alyssa hertig
+26,monopoly-resistant mining? paper claims bitcoin centralization fears overblown,"[claim, mining, bitcoin, overblown, paper, fear, centralization, monopoly-resistant]",Sep-01-2017,alyssa hertig
+27,inevitable bust? gpu makers see crypto mining as short-term sales boost,"[mining, sale, crypto, bust, maker, see, gpu, boost, inevitable, short-term]",Sep-01-2017,aaron stanley
+28,f2pool reneges: bitcoin pool pulls segwit2x support over hard fork,"[fork, pull, f, support, hard, bitcoin, renege, x, segwit, pool]",Aug-31-2017,alyssa hertig
+29,creator of world's first bitcoin fuel pump plans lightning support,"[creator, support, bitcoin, lightning, pump, plan, fuel, world, first]",Aug-31-2017,rachel rose o'leary
+30,bitcoin meets zcash: developers test tool for trustless trades,"[trustless, tool, bitcoin, zcash, trade, test, meet, developer]",Aug-29-2017,alyssa hertig
+31,segwit's slow rollout: why bitcoin's capacity hasn't seen a sudden boost,"[slow, capacity, bitcoin, see, sudden, rollout, segwit, boost]",Aug-29-2017,alyssa hertig
+32,submarine sends: ic3's plan to clamp down on ico cheats,"[clamp, ico, cheat, send, submarine, plan, ic]",Aug-28-2017,bailey reutzel
+33,risk or reward: how crypto exchanges cash in on new currency,"[risk, exchange, cash, crypto, currency, new, reward]",Aug-26-2017,karen epper hoffman
+34,bitcoin's lightning network moves closer to compatibility,"[closer, network, move, bitcoin, lightning, compatibility]",Aug-25-2017,alyssa hertig
+35,bitcoin cash returns to profitability amid mining adjustments,"[mining, return, amid, profitability, bitcoin, cash, adjustment]",Aug-24-2017,jimmy song
+36,drivechain developers hold first meeting on future of sidechains project,"[drivechain, project, future, developer, sidechains, hold, meeting, first]",Aug-24-2017,alyssa hertig
+37,segwit2x developers label controversial bitcoin code 'production release',"[code, bitcoin, label, production, controversial, release, x, segwit, developer]",Aug-24-2017,alyssa hertig
+38,segwit goes live: why bitcoin's big upgrade is a blockchain game-changer,"[upgrade, big, game-changer, blockchain, bitcoin, live, go, segwit]",Aug-23-2017,alyssa hertig
+39,chasing profit? bitcoin miners swap networks as difficulty swings,"[chasing, network, profit, miner, bitcoin, difficulty, swap, swing]",Aug-23-2017,jimmy song
+40,lightning's tadge dryja is working on a bitcoin cash 'splitter',"[splitter, bitcoin, work, cash, dryja, tadge, lightning]",Aug-23-2017,alyssa hertig
+41,the newest version of the opendime bitcoin wallet is out,"[new, version, bitcoin, opendime, wallet]",Aug-22-2017,stan higgins
+42,bitcoin's battle over segwit2x has begun,"[battle, x, begin, segwit, bitcoin]",Aug-22-2017,alyssa hertig
+43,bitcoin cash wins mining power as price falls back below $600,"[back, power, win, price, fall, mine, bitcoin, cash]",Aug-21-2017,pete rizzo
+44,making sense of cryptoeconomics,"[make, cryptoeconomics, sense]",Aug-19-2017,josh stark
+45,corporate analyst fisco tests issuance of bitcoin bond in japan,"[fisco, bitcoin, issuance, test, japan, corporate, analyst, bond]",Aug-18-2017,stan higgins
+46,bitcoin cash is now more profitable to mine than bitcoin,"[profitable, mine, bitcoin, cash]",Aug-18-2017,jimmy song
+47,couldn't claim your bitcoin cash? btc.com now has a tool for that,"[claim, tool, btc.com, bitcoin, cash]",Aug-18-2017,alyssa hertig
+48,what's next for bitcoin cash? making profitless mining profitable,"[profitable, mining, cash, bitcoin, next, making, profitless]",Aug-18-2017,alyssa hertig
+49,lightning bank ledgers? bitfury and ripple demo new twist on bitcoin tech,"[bitcoin, demo, ledger, lightning, twist, bitfury, tech, ripple, new, bank]",Aug-17-2017,alyssa hertig
+50,coinbase awarded patent for bitcoin security concept,"[concept, patent, bitcoin, award, coinbase, security]",Aug-17-2017,stan higgins
+51,"block 494,784: segwit2x developers set date for bitcoin hard fork","[fork, set, hard, bitcoin, date, x, segwit, block, developer]",Aug-16-2017,pete rizzo
+52,blockstream is using satellites to beam bitcoin down to earth,"[use, blockstream, satellite, bitcoin, beam, earth]",Aug-15-2017,alyssa hertig
+53,segwit in the wild: 4 lessons bitcoin can learn from litecoin,"[litecoin, bitcoin, learn, wild, lesson, segwit]",Aug-10-2017,alyssa hertig
+54,full steam ahead? segwit2x reaffirms bitcoin hard fork plan,"[fork, full, ahead, hard, reaffirms, bitcoin, plan, x, segwit, steam]",Aug-09-2017,alyssa hertig
+55,it's official: segregated witness will activate on bitcoin,"[official, activate, segregated, witness, bitcoin]",Aug-08-2017,alyssa hertig
+56,$100 million: putin advisor targets big raise for bitcoin mining ico,"[mining, putin, ico, raise, big, million, bitcoin, advisor, target]",Aug-08-2017,stan higgins
+57,segwit lock-in: what the tech milestone means for bitcoin,"[lock-in, bitcoin, tech, milestone, segwit, mean]",Aug-08-2017,alyssa hertig
+58,bitcoin cash eases mining difficulty as blockchain adjusts,"[adjusts, blockchain, mine, bitcoin, difficulty, cash, eas]",Aug-07-2017,jimmy song
+59,wannacry on the move? bitcoin crime evolves in a multi-blockchain world,"[evolve, move, bitcoin, multi-blockchain, crime, world, wannacry]",Aug-07-2017,bailey reutzel
+60,bitcoin fork blues? these new yorkers threw a party,"[fork, blue, yorkers, bitcoin, party, new, throw]",Aug-05-2017,wolfie zhao
+61,bitcoin cash block production accelerates as mining difficulty adjusts,"[mining, adjusts, bitcoin, cash, difficulty, production, accelerate, block]",Aug-04-2017,alyssa hertig
+62,why even miners that hate bitcoin cash might want to mine it,"[even, mine, might, miner, bitcoin, cash, want, hate]",Aug-04-2017,jimmy song
+63,gdax pledges to enable bitcoin cash withdrawals by 2018,"[enable, pledge, gdax, cash, bitcoin, withdrawal]",Aug-03-2017,stan higgins
+64,uasf revisited: will bitcoin's user revolt leave a lasting legacy?,"[revolt, bitcoin, revisit, leave, legacy, user, uasf, lasting]",Aug-02-2017,alyssa hertig
+65,what happened to bitcoin: a recap of the blockchain's big split,"[big, blockchain, bitcoin, split, recap, happen]",Aug-01-2017,stan higgins
+66,"bitcoin cash just mined its first block, making blockchain split official","[make, official, blockchain, mine, bitcoin, split, cash, block, first]",Aug-01-2017,stan higgins
+67,"bitcoin is forking, but bitcoin cash hasn't been created yet","[fork, create, yet, bitcoin, cash]",Aug-01-2017,stan higgins
+68,bitcoin uasf proposal quietly activates – to little effect,"[little, activate, bitcoin, effect, quietly, uasf, proposal]",Aug-01-2017,alyssa hertig
+69,bitcoin cash: who supports the fork and who doesn't,"[fork, support, bitcoin, cash]",Aug-01-2017,alyssa hertig
+70,bitcoin fork watch: news & guides for the coming bitcoin cash split,"[fork, watch, bitcoin, cash, split, news, come, guide]",Aug-01-2017,coindesk
+71,the bitcoin cash timeline: what will happen when,"[timeline, happen, bitcoin, cash]",Jul-31-2017,jimmy song
+72,bitcoin cash 101: what users need to know before the fork,"[fork, bitcoin, cash, user, need, know]",Jul-31-2017,amy castor
+73,new york city staffer sanctioned for mining bitcoins at work,"[city, mining, bitcoins, work, staffer, york, sanction, new]",Jul-31-2017,stan higgins
+74,could spv support a billion bitcoin users? sizing up a scaling claim,"[billion, claim, could, bitcoin, spv, scaling, user, support, size]",Jul-30-2017,jameson lopp
+75,startups brace for bitcoin cash fork in wave of policy updates,"[fork, update, startup, bitcoin, wave, cash, policy, brace]",Jul-29-2017,alyssa hertig
+76,viabtc claims neutrality ahead of bitcoin cash's likely launch,"[claim, ahead, launch, cash, bitcoin, neutrality, likely, viabtc]",Jul-29-2017,pete rizzo
+77,bitcoin investment vehicle adopts open strategy ahead of blockchain fork,"[fork, ahead, blockchain, bitcoin, strategy, vehicle, open, investment, adopts]",Jul-28-2017,wolfie zhao
+78,why are miners involved in bitcoin code changes anyway?,"[code, miner, bitcoin, anyway, involve, change]",Jul-28-2017,alyssa hertig
+79,bitcoin startup keepkey ends support for multibit wallet software,"[end, support, startup, bitcoin, keepkey, wallet, multibit, software]",Jul-27-2017,wolfie zhao
+80,a new segwit lock-in period has started and all mining pools are signaling,"[mining, signal, lock-in, period, start, new, segwit, pool]",Jul-27-2017,alyssa hertig
+81,the big news behind the btc-e arrest and mt gox connection,"[arrest, big, connection, mt, behind, gox, btc-e, news]",Jul-26-2017,pete rizzo
+82,bitcoin cash: why it's forking the blockchain and what that means,"[fork, mean, blockchain, bitcoin, cash]",Jul-26-2017,alyssa hertig
+83,what's left before segwit goes live? bitcoin's path to more capacity,"[capacity, bitcoin, leave, live, go, path, segwit]",Jul-25-2017,pete rizzo
+84,'unrealistic': bip 91 creator james hilliard has choice words for segwit2x,"[word, creator, james, choice, hilliard, x, segwit, unrealistic, bip]",Jul-24-2017,alyssa hertig
+85,between a rock and a hard fork: jeff garzik's plan to avoid a bitcoin split,"[fork, garzik, jeff, avoid, hard, bitcoin, plan, rock, split]",Jul-22-2017,alyssa hertig
+86,understanding bitcoin's scaling debate: politics comes first,"[scale, bitcoin, understand, politics, come, debate, first]",Jul-21-2017,jim harper
+87,bip 91 locks in: what this means for bitcoin and why it's not scaled yet,"[scale, lock, bitcoin, yet, bip, mean]",Jul-21-2017,alyssa hertig
+88,bitcoin startups advise caution as scaling proposals collide,"[scale, startup, bitcoin, collide, caution, advise, proposal]",Jul-20-2017,bailey reutzel
+89,research finds design flaws in scaling proposal bitcoin unlimited,"[flaw, scale, unlimited, bitcoin, research, design, proposal, find]",Jul-19-2017,pete rizzo
+90,behind on bitcoin drama? a (short) history of scaling,"[scale, bitcoin, drama, behind, short, history]",Jul-19-2017,pete rizzo
+91,will miners signal? bitcoin's next segwit2x lock-in period starts today,"[lock-in, signal, miner, bitcoin, next, start, period, x, segwit, today]",Jul-18-2017,alyssa hertig
+92,what could happen to bitcoin? a visual guide to scaling outcomes,"[scale, could, bitcoin, visual, happen, outcome, guide]",Jul-18-2017,alyssa hertig
+93,coindesk explainer: how bip 91 enacts segwit while avoiding a bitcoin split,"[enacts, coindesk, avoid, bitcoin, split, segwit, explainer, bip]",Jul-18-2017,amy castor
+94,scaling bitcoin unveils 2017 conference dates,"[conference, date, scale, bitcoin, unveils]",Jul-17-2017,pete rizzo
+95,satoshipay to stop using bitcoin blockchain for micropayments,"[use, stop, blockchain, satoshipay, bitcoin, micropayments]",Jul-17-2017,chuan tian
+96,gdax plans to suspend bitcoin withdrawals if uasf activates,"[suspend, gdax, bitcoin, plan, withdrawal, uasf, activates]",Jul-14-2017,wolfie zhao
+97,the segwit2x boycott: bitcoin's uasf isn't backing down from august deadline,"[august, back, bitcoin, boycott, uasf, x, segwit, deadline]",Jul-14-2017,alyssa hertig
+98,bitcoin and the benefits of 'coopetition',"[coopetition, benefit, bitcoin]",Jul-14-2017,jameson lopp
+99,bitcoin scaling watch: news & guides to navigate the coming clash of code,"[scale, clash, navigate, watch, bitcoin, code, news, come, guide]",Jul-13-2017,coindesk
+100,beyond segwit2x: paul sztorc thinks bitcoin needs a new scaling roadmap,"[segwit, sztorc, bitcoin, roadmap, scaling, new, need, x, paul, beyond, think]",Jul-13-2017,alyssa hertig
+101,explainer: what is segwit2x and what does it mean for bitcoin?,"[x, bitcoin, segwit, explainer, mean]",Jul-12-2017,alyssa hertig
+102,gambling on a hard fork: will roger ver take up a high-stakes bitcoin wager?,"[fork, high-stakes, ver, hard, bitcoin, roger, take, wager, gamble]",Jul-12-2017,amy castor
+103,immature code or good test? bitcoin scaling proposal segwit2x's testnet forks,"[fork, scale, bitcoin, testnet, good, code, test, x, immature, segwit, proposal]",Jul-11-2017,alyssa hertig
+104,bitcoin + post-trade? nivaura exits stealth to help banks use open blockchains,"[use, help, post-trade, blockchains, bitcoin, stealth, exit, nivaura, open, bank]",Jul-10-2017,michael del castillo
+105,bitcoin's price surge is making hobby mining profitable again,"[profitable, mining, make, bitcoin, surge, hobby, price]",Jul-09-2017,bailey reutzel
+106,smart contracts for bitcoin? lightning's tadge dryja is working on it,"[bitcoin, work, dryja, contract, lightning, tadge, smart]",Jul-08-2017,alyssa hertig
+107,who watches bitcoin's watchmen? scaling's great game of egos,"[great, scale, watch, bitcoin, watchman, game, ego]",Jul-07-2017,pete rizzo
+108,fidelity charitable has raised $9 million in bitcoin so far in 2017,"[raise, far, million, bitcoin, charitable, fidelity]",Jun-29-2017,stan higgins
+109,bitcoin scaling project segwit2x to release new code today,"[scale, bitcoin, project, code, new, release, x, segwit, today]",Jun-29-2017,alyssa hertig
+110,bitcoin legal experts: nchain segwit criticisms are flawed,"[criticism, flaw, expert, nchain, bitcoin, legal, segwit]",Jun-28-2017,pete rizzo
+111,the risks of segregated witness: possible problems under us contract law,"[risk, possible, contract, u, problem, law, witness, segregated]",Jun-27-2017,jimmy nguyen
+112,top secret? bitcoin scaling plan segwit2x leaves more questions than answers,"[scale, top, question, bitcoin, leave, secret, plan, answer, x, segwit]",Jun-23-2017,alyssa hertig
+113,a bitcoin scaling upgrade: how it could finally happen (and how it could fail),"[upgrade, could, bitcoin, finally, scale, fail, happen]",Jun-21-2017,alyssa hertig
+114,you can now type the bitcoin 'b' symbol in unicode text,"[b, text, symbol, bitcoin, unicode, type]",Jun-20-2017,stan higgins
+115,bitcoin miners unite behind scaling proposal segwit2x,"[scale, miner, bitcoin, unite, behind, x, proposal, segwit]",Jun-19-2017,alyssa hertig
+116,bitcoin scaling proposal segwit2x moves ahead with initial code release,"[scale, ahead, initial, move, bitcoin, code, release, x, proposal, segwit]",Jun-16-2017,alyssa hertig
+117,"game of bluffs? with uahf, bitcoin scaling becomes digital 'missile crisis'","[scale, becomes, bitcoin, missile, game, uahf, bluff, digital, crisis]",Jun-15-2017,alyssa hertig
+118,bitcoin scaling: how to give everyone more control,"[control, scale, everyone, bitcoin, give]",Jun-14-2017,jimmy song
+119,bitcoin developers publish bip for 'dandelion' privacy project,"[privacy, dandelion, bitcoin, publish, project, bip, developer]",Jun-13-2017,wolfie zhao
+120,bip 148 + segwit2x? a bitcoin scaling compromise might not be so easy,"[scale, bitcoin, compromise, easy, x, segwit, might, bip]",Jun-13-2017,alyssa hertig
+121,google's director of engineering won't invest in bitcoin,"[director, invest, engineering, google, bitcoin]",Jun-09-2017,michael del castillo
+122,charts: bitcoin's network is objectively more congested than ever,"[network, chart, objectively, bitcoin, ever, congested]",Jun-08-2017,alex sunnarborg
+123,bitcoin's 'independence day': could users tip the scales in the scaling debate?,"[scale, users, could, tip, bitcoin, debate, scaling, day, independence]",Jun-08-2017,alyssa hertig
+124,western union reveals pilot coinbase integration,"[reveals, union, integration, western, coinbase, pilot]",Jun-07-2017,noelle acheson
+125,coindesk research launches state of blockchain q1 report,"[launch, coindesk, blockchain, research, q, state, report]",Jun-06-2017,alex sunnarborg
+126,are sidechains a better solution for bitcoin's scaling debate?,"[good, solution, bitcoin, scale, sidechains, debate]",Jun-05-2017,alyssa hertig
+127,andresen is back with a one-man security project inspired by bitcoin mishaps,"[one-man, inspire, back, mishap, bitcoin, project, security, andresen]",Jun-03-2017,bailey reutzel
+128,bitcoin's 'segwit2x' scaling proposal: miners offer optimistic outlook,"[outlook, scale, offer, miner, bitcoin, optimistic, x, proposal, segwit]",Jun-02-2017,pete rizzo
+129,bitcoin's 'segwit2x' scaling proposal: core developers strike critical stance,"[core, scale, stance, bitcoin, critical, strike, x, proposal, segwit, developer]",Jun-01-2017,alyssa hertig
+130,bitcoin's 'segwit2x' scaling proposal: where the startups stand,"[startup, bitcoin, scaling, stand, x, proposal, segwit]",May-31-2017,alyssa hertig
+131,consensus 2017 recap: panels cast wide net for blockchain discussions,"[wide, discussion, blockchain, consensus, cast, recap, net, panel]",May-28-2017,stan higgins
+132,cross blockchain trades? lightning gives new life to atomic swaps,"[life, give, blockchain, cross, lightning, atomic, new, trade, swap]",May-27-2017,amy castor
+133,blockchain entrepreneurs target apple and google at token summit,"[google, target, blockchain, entrepreneur, token, summit, apple]",May-25-2017,michael del castillo
+134,consensus 2017: bitcoin exchange execs see promise in multi-token future,"[multi-token, exec, exchange, bitcoin, consensus, see, future, promise]",May-24-2017,pete rizzo
+135,bitcoin's new scaling 'agreement': the reaction,"[scaling, new, reaction, bitcoin, agreement]",May-24-2017,pete rizzo & alyssa hertig
+136,consensus 2017: blockchain tech leaders predict interoperable future,"[predict, blockchain, consensus, future, tech, interoperable, leader]",May-23-2017,michael del castillo
+137,ic3 debuts upgraded off-chain transaction protocol 'teechain',"[upgrade, protocol, teechain, debut, off-chain, transaction, ic]",May-22-2017,stan higgins
+138,consensus 2017: bitpay ceo calls bitcoin fork 'only option' for businesses,"[fork, option, business, ceo, bitcoin, bitpay, consensus, call]",May-22-2017,alyssa hertig
+139,"rsk raises $3.5 million, launches bitcoin smart contract testnet","[raise, launch, million, bitcoin, contract, rsk, testnet, smart]",May-22-2017,amy castor
+140,bitcoin miner canaan acquires blockchain notary service,"[service, miner, acquire, blockchain, bitcoin, canaan, notary]",May-20-2017,stan higgins
+141,where is gavin andresen? the quiet exile of bitcoin's former face,"[bitcoin, gavin, quiet, exile, face, former, andresen]",May-19-2017,bailey reutzel
+142,the world is watching: can wannacry's creators cash out their bitcoin ransom?,"[ransom, creator, watch, bitcoin, cash, world, wannacry]",May-18-2017,amy castor
+143,"$1,700? bitcoin's price is up even as its tech progress stalls","[even, price, bitcoin, stall, tech, progress]",May-15-2017,alyssa hertig
+144,bitcoin's scaling debate: the view from china's miners,"[scale, miner, bitcoin, china, debate, view]",May-13-2017,paul elliot-ennis & rachel-rose o'leary
+145,pieter wuille's latest project: making bitcoin harder to lose,"[late, wuille, pieter, make, harder, bitcoin, project, lose]",May-12-2017,alyssa hertig
+146,"bitcoin needs more politics, not less","[need, politics, bitcoin, less]",May-04-2017,jim harper
+147,craig wright's new company is building a bitcoin core competitor,"[core, competitor, craig, company, bitcoin, wright, build, new]",May-02-2017,pete rizzo
+148,antbleed: bitcoin's newest new controversy explained,"[new, explain, controversy, antbleed, bitcoin]",Apr-27-2017,alyssa hertig
+149,purse launches testnet for bitcoin scaling tech 'extension blocks',"[scale, extension, launch, purse, bitcoin, testnet, tech, block]",Apr-25-2017,corin faife
+150,uasf developer revises controversial bitcoin scaling proposal,"[scale, bitcoin, controversial, uasf, proposal, revise, developer]",Apr-25-2017,corin faife
+151,cme patent sees derivatives opportunity in bitcoin mining,"[mining, patent, cme, bitcoin, see, derivative, opportunity]",Apr-17-2017,stan higgins
+152,from asicboost to uasf: greg maxwell on bitcoin's path forward,"[maxwell, bitcoin, forward, greg, path, asicboost, uasf]",Apr-13-2017,alyssa hertig
+153,"bitmain debuts new litecoin mining hardware, citing customer demand","[customer, mining, litecoin, demand, debut, hardware, new, bitmain, cite]",Apr-12-2017,garrett keirns
+154,"mirai, the infamous internet of things army, can now mine bitcoin","[army, mirai, mine, bitcoin, thing, internet, infamous]",Apr-10-2017,alyssa hertig
+155,the hidden history of bitcoin unlimited,"[hidden, unlimited, bitcoin, history]",Apr-08-2017,paul elliot-ennis & rachel-rose o'leary
+156,bitcoin hardware maker canaan calls for mining industry changes,"[canaan, industry, bitcoin, mine, hardware, call, maker, change]",Apr-06-2017,pete rizzo
+157,here comes the pickaxe race: bitcoin mining jumps to gpu,"[mining, bitcoin, jump, pickaxe, race, gpu, come]",Apr-06-2017,alex waters
+158,purse proposal touts extension blocks as bitcoin scaling solution,"[scale, extension, purse, bitcoin, solution, tout, proposal, block]",Apr-04-2017,pete rizzo
+159,bitmain subsidiary opens new bitcoin mining pool to public,"[mining, bitcoin, subsidiary, new, bitmain, open, public, pool]",Apr-03-2017,pete rizzo
+160,bitcoin mining fraud lawsuit moves forward in new jersey,"[mining, fraud, move, bitcoin, forward, new, lawsuit, jersey]",Mar-31-2017,stan higgins
+161,war of the words: who's said what about a bitcoin fork?,"[fork, say, word, war, bitcoin]",Mar-28-2017,"alyssa hertig, stan higgins & garrett keirns"
+162,a short guide to bitcoin forks,"[fork, short, guide, bitcoin]",Mar-27-2017,amy castor
+163,charts: determining the ideal block size for bitcoin,"[bitcoin, chart, ideal, determine, block, size]",Mar-24-2017,willy woo
+164,keep calm and bitcoin on? developers aren't worrying about a fork,"[fork, bitcoin, keep, calm, worry, developer]",Mar-24-2017,alyssa hertig
+165,bitcoin core roadmap unveils signature optimization plan,"[core, bitcoin, unveils, optimization, plan, signature, roadmap]",Mar-23-2017,garrett keirns
+166,fork fallout? a bitcoin split could become a legal mess,"[fork, mess, could, bitcoin, legal, split, fallout, become]",Mar-23-2017,pete rizzo
+167,fire the miners? radical ideas emerge as bitcoin fork talk escalates,"[fork, emerge, fire, radical, miner, bitcoin, idea, escalates, talk]",Mar-22-2017,alyssa hertig
+168,how bitcoin's p2p layer got a speed hike in the latest core release,"[core, layer, get, hike, bitcoin, late, p, release, speed]",Mar-10-2017,alyssa hertig
+169,what you need to know about bitcoin's upcoming code release,"[code, upcoming, bitcoin, release, know, need]",Mar-06-2017,alyssa hertig
+170,faster than lightning? 'sprite' paper envisions new bitcoin payments,"[faster, payment, bitcoin, lightning, paper, new, envisions, sprite]",Feb-23-2017,corin faife
+171,why bigger might not be better for bitcoin scaling,"[scaling, big, good, might, bitcoin]",Feb-16-2017,corin faife
+172,a bitcoin hard fork? the science of contentious code is advancing,"[fork, advance, code, contentious, science, hard, bitcoin]",Feb-10-2017,alyssa hertig
+173,what makes bitcoin great? one scientist is on a quest to find out,"[great, make, bitcoin, one, scientist, quest, find]",Feb-08-2017,alyssa hertig
+174,inside mast: the little-known plan to advance bitcoin smart contracts,"[advance, inside, bitcoin, contract, little-known, mast, plan, smart]",Feb-07-2017,alyssa hertig
+175,greg maxwell breaks down blockchain: the 'uncontrollable noun',"[noun, maxwell, blockchain, break, greg, uncontrollable]",Jan-31-2017,pete rizzo
+176,construct 2017: life after segwit? bitcoin gridlock takes the stage,"[life, bitcoin, construct, take, segwit, stage, gridlock]",Jan-31-2017,alyssa hertig
+177,bitfury to expand china footprint following $30 million deal,"[deal, million, bitfury, china, footprint, follow, expand]",Jan-26-2017,stan higgins
+178,how ethereum smart contracts could replace mining pool managers,"[could, mine, contract, replace, manager, ethereum, pool, smart]",Jan-24-2017,alyssa hertig
+179,bitcoin devs are feeling more optimistic about mimblewimble,"[devs, feel, mimblewimble, bitcoin, optimistic]",Jan-23-2017,alyssa hertig
+180,toward better security and governance with blockchain,"[good, toward, blockchain, security, governance]",Jan-10-2017,valery vavilov
+181,bitcoin in 2016: the year politics challenged apolitical money,"[money, challenge, bitcoin, year, apolitical, politics]",Jan-07-2017,eric lombrozo
+182,will 2017 bring an end to bitcoin's great scaling debate?,"[great, end, bitcoin, scaling, bring, debate]",Jan-05-2017,corin faife
+183,new bitcoin software update boasts 55 fixes,"[boast, fix, update, bitcoin, new, software]",Jan-04-2017,alyssa hertig
+184,why 2017 will prove 'blockchain' was a bad idea,"[bad, blockchain, idea, prove]",Jan-04-2017,ferdinando ametrano
+185,bitfury paper makes case for auditability as blockchain's defining feature,"[case, make, blockchain, auditability, feature, bitfury, paper, define]",Nov-29-2016,pete rizzo
+186,why aren't bitcoin businesses talking about segwit?,"[talk, segwit, bitcoin, business]",Nov-28-2016,pete rizzo
+187,21 files for new bitcoin mining patent,"[patent, new, mining, bitcoin, file]",Nov-23-2016,stan higgins
+188,bitcoin miners can now signal support for segwit,"[signal, support, miner, bitcoin, segwit]",Nov-18-2016,alyssa hertig
+189,why the blockchain hackathon economy is booming,"[blockchain, boom, hackathon, economy]",Nov-14-2016,bailey reutzel
+190,what's left before bitcoin's lightning network goes live,"[network, bitcoin, lightning, leave, live, go]",Nov-12-2016,alyssa hertig
+191,china's bitcoin miners see profit in a bigger-block blockchain,"[profit, blockchain, miner, bitcoin, see, china, bigger-block]",Nov-06-2016,eric mu
+192,viabtc rises: how a mysterious miner could decide bitcoin's future,"[could, rise, miner, bitcoin, viabtc, decide, mysterious, future]",Oct-20-2016,jacob donnelly
+193,what's left before segwit goes live,"[leave, go, live, segwit]",Oct-07-2016,alyssa hertig
+194,demand for zcash mining grows as blockchain launch approaches,"[mining, launch, blockchain, zcash, demand, approach, grows]",Oct-05-2016,jacob donnelly
+195,the full lineup for scaling bitcoin is now available,"[available, bitcoin, full, scale, lineup]",Oct-03-2016,pete rizzo
+196,a controversial bitcoin alternative is seeking a comeback,"[comeback, alternative, seek, bitcoin, controversial]",Sep-25-2016,alyssa hertig
+197,does the original bitcoin wallet still matter?,"[wallet, still, matter, original, bitcoin]",Sep-16-2016,alyssa hertig
+198,preparing for a bitcoin hard fork,"[fork, hard, bitcoin, prepare]",Sep-14-2016,bailey reutzel
+199,one of bitcoin's biggest miners is launching a second pool,"[launch, big, miner, bitcoin, one, second, pool]",Sep-13-2016,jacob donnelly
+200,"in race for bitcoin mining profits, fortune favors the old","[mining, fortune, profit, bitcoin, favor, race, old]",Sep-12-2016,jacob donnelly
+201,inside 'bitcoin vault': could a technical fix block hackers for good?,"[hacker, good, technical, could, inside, bitcoin, vault, fix, block]",Aug-28-2016,jacob donnelly
+202,bitmain to release new bitcoin miner in bid to attract hobbyists,"[bid, miner, bitcoin, hobbyist, new, release, bitmain, attract]",Aug-26-2016,jacob donnelly
+203,bitfury research shines light on bitcoin privacy weaknesses,"[shine, privacy, light, bitcoin, research, bitfury, weakness]",Aug-23-2016,pete rizzo
+204,next bitcoin software update will be first to feature segwit code,"[segwit, bitcoin, feature, update, next, code, first, software]",Aug-18-2016,alyssa hertig
+205,new kncminer owners seek to revive bitcoin firm with acquisition,"[firm, revive, bitcoin, owner, new, kncminer, seek, acquisition]",Aug-15-2016,pete rizzo
+206,washington state utility raises power rates on bitcoin miners,"[raise, power, miner, washington, rate, bitcoin, state, utility]",Jul-20-2016,stan higgins
+207,bitcoin miner bitmain acquires data startup blocktrail,"[blocktrail, miner, acquire, startup, bitcoin, bitmain, data]",Jul-19-2016,pete rizzo
+208,why bitcoin's halving was a boring vindication,"[boring, halving, bitcoin, vindication]",Jul-16-2016,jacob donnelly
+209,bitcoin scaling event set for third installment in italy,"[scale, italy, third, installment, bitcoin, set, event]",Jul-11-2016,pete rizzo
+210,bitcoin industry seeking to bridge scaling divide at july meeting,"[bridge, scale, divide, meeting, industry, bitcoin, july, seek]",Jul-08-2016,stan higgins
+211,what to expect when the bitcoin halving happens,"[happens, halving, expect, bitcoin]",Jul-08-2016,jacob donnelly
+212,"at $400 million a year, academic argues bitcoin mining worth the cost","[mining, million, bitcoin, academic, cost, year, argue, worth]",Jul-08-2016,stan higgins
+213,bitfury releases proposal for bitcoin lightning micropayments routing,"[rout, bitcoin, lightning, bitfury, release, proposal, micropayments]",Jul-07-2016,pete rizzo
+214,why blockchain immutability is a perpetual motion claim,"[motion, claim, immutability, perpetual, blockchain]",Jul-07-2016,chris derose
+215,"as bitcoin halving approaches, 51% attack question resurfaces","[halve, question, bitcoin, attack, resurfaces, approach]",Jul-06-2016,frederick reese
+216,what is the 'halving'? a primer to bitcoin's big mining change,"[mining, halve, bitcoin, big, primer, change]",Jun-12-2016,jacob donnelly
+217,nfl star accuses ex-manager of stealing $3 million for bitcoin mine,"[nfl, star, ex-manager, million, bitcoin, mine, accuse, steal]",Jun-10-2016,stan higgins
+218,new details emerge on bitcoin firm avalon's $466 million pending sale,"[firm, emerge, detail, million, bitcoin, avalon, new, sale, pending]",Jun-09-2016,stan higgins
+219,maker of first bitcoin mining asic acquired in what could be industry's largest sale,"[mining, industry, could, acquire, asic, bitcoin, sale, large, maker, first]",Jun-08-2016,stan higgins
+220,class action lawsuit resumes against bankrupt bitcoin miner knc,"[bankrupt, resume, miner, bitcoin, knc, action, lawsuit, class]",Jun-06-2016,pete rizzo
+221,"from seeds to weed, bitcoin finds home where commerce goes gray","[commerce, gray, bitcoin, weed, seed, go, home, find]",Jun-05-2016,bailey reutzel
+222,will bitcoin's block rewards halving bring crisis or consistency?,"[halve, bitcoin, bring, consistency, reward, crisis, block]",Jun-04-2016,jacob donnelly
+223,bitcoin mining firm kncminer declares bankruptcy,"[firm, mining, bitcoin, kncminer, declare, bankruptcy]",May-27-2016,stan higgins
+224,spanish police seize 6 bitcoin mines in crackdown on stolen tv content,"[stolen, police, seize, tv, mine, bitcoin, content, crackdown, spanish]",May-25-2016,stan higgins
+225,keepkey prepares for bitcoin scaling with wallet startup acquisition,"[scale, startup, bitcoin, keepkey, wallet, prepares, acquisition]",May-25-2016,michael del castillo
+226,swedish court rules against kncminer mining hardware customers,"[swedish, customer, mining, court, rule, hardware, kncminer]",May-23-2016,stan higgins
+227,bitcoin miners follow profit to ethereum blockchain,"[profit, blockchain, miner, bitcoin, ethereum, follow]",May-20-2016,michael del castillo
+228,bitcoin core is seeking to overhaul how it upgrades its code,"[core, code, overhaul, bitcoin, upgrade, seek]",May-14-2016,bailey reutzel
+229,"after months of tests, the big bid to scale bitcoin is nearing launch","[scale, launch, big, bid, bitcoin, month, near, test]",May-09-2016,jacob donnelly
+230,"lost $136,000 in bitcoin? this mining pool is looking for you","[look, mining, bitcoin, pool, lose]",Apr-27-2016,pete rizzo
+231,republic of georgia to develop blockchain land registry,"[land, develop, blockchain, georgia, republic, registry]",Apr-22-2016,stan higgins
+232,bitcoin mining giant invests $1.6 million in trading platform,"[mining, million, giant, bitcoin, platform, trading, invests]",Apr-14-2016,pete rizzo
+233,bitcoin wallet startup now extending credit to users,"[extend, credit, startup, bitcoin, wallet, user]",Apr-05-2016,pete rizzo
+234,meet the man who will hack your long-lost bitcoin wallet for money,"[money, bitcoin, wallet, long-lost, hack, meet, man]",Apr-03-2016,bailey reutzel
+235,coinkite drops consumer wallet for enterprise bitcoin hardware pivot,"[drop, bitcoin, hardware, wallet, coinkite, enterprise, pivot, consumer]",Mar-28-2016,pete rizzo
+236,bitgo engineers launch ethereum wallet side project,"[launch, bitgo, project, wallet, ethereum, side, engineer]",Mar-23-2016,jacob donnelly
+237,how washington state became a battleground for bitcoin mining,"[mining, washington, bitcoin, state, become, battleground]",Mar-19-2016,stan higgins
+238,complaints hit 'record' levels at blockchain amid confirmation delays,"[complaint, confirmation, hit, level, amid, blockchain, delay, record]",Mar-07-2016,pete rizzo
+239,african internet pioneer launches bitcoin mining facility,"[mining, launch, african, bitcoin, facility, pioneer, internet]",Mar-07-2016,pete rizzo
+240,bitcoin miners back proposed timeline for 2017 hard fork,"[fork, propose, hard, miner, bitcoin, back, timeline]",Feb-20-2016,stan higgins
+241,prosecutors set to indict suspect in bitcoin mine stabbing,"[set, bitcoin, mine, indict, suspect, stabbing, prosecutor]",Feb-18-2016,stan higgins
+242,ftc settles charges against bitcoin mining firm butterfly labs,"[firm, butterfly, mining, charge, lab, bitcoin, ftc, settle]",Feb-18-2016,stan higgins
+243,sec seeks $10 million default judgment against gaw miners,"[default, judgment, million, miner, gaw, sec, seek]",Feb-12-2016,stan higgins
+244,why bitcoin governance is a competition (and that's a good thing),"[thing, competition, good, bitcoin, governance]",Feb-12-2016,jim harper
+245,why bitcoin’s scaling debate is an opportunity not a flaw,"[flaw, scale, opportunity, bitcoin, debate]",Feb-11-2016,nozomi hayase
+246,us bankruptcy court set to weigh in on bitcoin's currency status,"[status, set, court, bitcoin, currency, u, weigh, bankruptcy]",Feb-09-2016,stan higgins
+247,bitcoin group stock exchange debut delayed again,"[group, exchange, debut, bitcoin, delay, stock]",Feb-08-2016,daniel palmer
+248,"amid scaling debate, bitcoin core goes on outreach offensive","[core, scale, amid, offensive, bitcoin, outreach, go, debate]",Jan-28-2016,pete rizzo
+249,big miners back bitcoin classic as scaling debate evolves,"[evolves, scale, classic, big, miner, back, bitcoin, debate]",Jan-23-2016,pete rizzo
+250,blockstream ceo: bitcoin creating 'toxic' environment for developers,"[blockstream, create, bitcoin, environment, ceo, toxic, developer]",Jan-22-2016,pete rizzo
+251,bitfury moves ahead on bitcoin device for internet of things,"[ahead, move, bitcoin, thing, bitfury, internet, device]",Jan-20-2016,pete rizzo
+252,making sense of bitcoin's divisive block size debate,"[make, bitcoin, divisive, sense, debate, block, size]",Jan-19-2016,pete rizzo
+253,bitcoin branded a failure as media erupts over mike hearn exit,"[mike, medium, brand, bitcoin, failure, exit, erupts, hearn]",Jan-15-2016,pete rizzo
+254,bitcoin group cleared to list on australian securities exchange,"[group, exchange, clear, list, bitcoin, australian, security]",Jan-13-2016,daniel palmer
+255,2015 was do or die for bitcoin miners but promise lies ahead,"[lie, ahead, die, miner, bitcoin, promise]",Jan-08-2016,dave carlson
+256,eating the bitcoin cake,"[cake, eat, bitcoin]",Dec-19-2015,coindesk
+257,is segregated witness the answer to bitcoin’s block size debate?,"[bitcoin, segregate, witness, answer, debate, block, size]",Dec-08-2015,pete rizzo
+258,former senior white house staffer joins bitcoin miner bitfury,"[join, house, miner, bitcoin, former, bitfury, staffer, senior, white]",Dec-07-2015,yessi bello perez
+259,hard fork question divides developers at scaling bitcoin day 2,"[fork, scale, divide, hard, question, bitcoin, day, developer]",Dec-07-2015,pete rizzo
+260,bitcoin mining giant bitfury is being sued by its former cfo,"[cfo, mining, sue, giant, bitcoin, bitfury, former]",Dec-04-2015,pete rizzo
+261,bitcoin miner faces new pressure from australian regulator,"[miner, bitcoin, face, regulator, pressure, new, australian]",Nov-23-2015,stan higgins
+262,amazon starts shipping 21 bitcoin computers,"[start, amazon, computer, ship, bitcoin]",Nov-16-2015,pete rizzo
+263,"brazilian university accepts bitcoin, installs campus atm","[installs, university, atm, accepts, bitcoin, brazilian, campus]",Nov-09-2015,pete rizzo
+264,bitfury announces 'record' immersion cooling project,"[immersion, announces, project, record, bitfury, cool]",Oct-27-2015,grace caffyn
+265,bitcoin startup cleared of breaching securities law,"[clear, startup, bitcoin, breach, security, law]",Oct-26-2015,grace caffyn
+266,bitfury hosts secret block chain summit in middle east,"[chain, secret, middle, bitfury, summit, host, east, block]",Oct-08-2015,pete rizzo
+267,"lightning, duplex and the search for scalable bitcoin micropayments","[search, duplex, bitcoin, scalable, lightning, micropayments]",Oct-07-2015,pete rizzo
+268,digitalbtc bows out of bitcoin mining race,"[mining, bow, bitcoin, race, digitalbtc]",Sep-29-2015,grace caffyn
+269,bitcoin atm industry: a look at the numbers,"[industry, atm, number, bitcoin, look]",Sep-25-2015,yessi bello perez
+270,mike tyson: i'm grateful to be part of the bitcoin revolution,"[mike, revolution, bitcoin, part, grateful, tyson]",Sep-25-2015,grace caffyn
+271,keepkey launches new bitcoin hardware wallet,"[launch, bitcoin, keepkey, hardware, wallet, new]",Sep-23-2015,yessi bello perez
+272,21 inc announces 'bitcoin computer' for developers,"[developer, announces, computer, bitcoin, inc]",Sep-21-2015,pete rizzo
+273,researchers tackle tomorrow's blockchain problems with bitcoin-ng,"[researcher, blockchain, bitcoin-ng, tackle, problem, tomorrow]",Sep-18-2015,pete rizzo
+274,bitcoin's future moves into focus at scaling bitcoin day 2,"[scale, move, bitcoin, focus, future, day]",Sep-14-2015,pete rizzo
+275,bitfury completes 16nm bitcoin mining asic tape-out,"[mining, nm, tape-out, asic, bitcoin, bitfury, completes]",Sep-02-2015,pete rizzo
+276,bitcoin developers pen open letter on network scalability,"[network, bitcoin, scalability, pen, letter, open, developer]",Sep-01-2015,emily spaven
+277,bitcoin block size debate: who's picking sides?,"[bitcoin, debate, pick, side, block, size]",Aug-31-2015,grace caffyn
+278,bitfury backs bip 100 blocksize proposal,"[blocksize, bitfury, proposal, back, bip]",Aug-27-2015,grace caffyn
+279,litecoin network experiences first mining reward decline,"[decline, litecoin, network, mine, experience, reward, first]",Aug-26-2015,stan higgins
+280,support grows for bip 100 bitcoin block size proposal,"[support, bitcoin, bip, proposal, grows, block, size]",Aug-26-2015,grace caffyn
+281,what is the bitcoin block size debate and why does it matter?,"[matter, debate, bitcoin, block, size]",Aug-21-2015,grace caffyn
+282,new bitcoin asic to be 'most power-efficient’ on public market,"[asic, bitcoin, power-efficient, new, public, market]",Aug-21-2015,grace caffyn
+283,judge approves fraud claims against bitcoin mining firm hashfast,"[firm, claim, mining, fraud, bitcoin, hashfast, judge, approve]",Aug-18-2015,yessi bello perez
+284,bitcoin 'forked' in controversial bid to resolve scalability question,"[fork, resolve, bid, question, bitcoin, scalability, controversial]",Aug-17-2015,grace caffyn
+285,genesis mining leaves new york following bitlicense deadline,"[mining, bitlicense, leave, deadline, york, follow, new, genesis]",Aug-13-2015,grace caffyn
+286,fiat wallets: the key to bitcoin going mainstream?,"[fiat, mainstream, bitcoin, wallets, key, go]",Aug-12-2015,jack c. liu
+287,robocoin faces lawsuit over bitcoin atm refund,"[refund, atm, bitcoin, face, robocoin, lawsuit]",Aug-03-2015,grace caffyn
+288,new service finds optimum bitcoin transaction fee,"[transaction, service, bitcoin, fee, new, optimum, find]",Jul-28-2015,grace caffyn
+289,mike tyson bitcoin atm owner hits back at scam accusations,"[mike, hit, atm, bitcoin, back, accusation, owner, scam, tyson]",Jul-27-2015,grace caffyn
+290,bitfury investor: leave the blockchain to me,"[leave, blockchain, bitfury, investor]",Jul-20-2015,grace caffyn
+291,jeff garzik submits proposal to double bitcoin block size limit,"[garzik, jeff, double, bitcoin, submit, limit, proposal, block, size]",Jul-17-2015,grace caffyn
+292,standard chartered exec touts blockchain tech for trade finance,"[charter, finance, exec, blockchain, standard, tout, tech, trade]",Jul-14-2015,pete rizzo
+293,xapo execs lose bid to dismiss breach of contract lawsuit,"[exec, xapo, dismiss, contract, lose, breach, lawsuit, bid]",Jul-13-2015,pete rizzo
+294,bitcoin cloud mining service collapse exposes customer data,"[customer, mining, collapse, service, expose, bitcoin, data, cloud]",Jul-13-2015,stan higgins
+295,bitcoin's best funded miner bitfury raises another $20 million,"[raise, million, miner, bitcoin, fund, bitfury, another, best]",Jul-09-2015,grace caffyn
+296,new genesis mining tool seeks industrial bitcoin mining efficiency,"[mining, industrial, tool, bitcoin, efficiency, new, seek, genesis]",Jul-07-2015,yessi bello perez
+297,blockchain offers alpha users first look at new bitcoin wallet,"[look, offer, blockchain, bitcoin, wallet, user, new, alpha, first]",Jul-07-2015,pete rizzo
+298,mining malware developer settles with federal trade commission,"[mining, federal, malware, trade, commission, settle, developer]",Jun-29-2015,stan higgins
+299,"bitfury taps ex-cftc chair, bitcoin core developer as advisors","[core, tap, advisor, bitcoin, bitfury, ex-cftc, chair, developer]",Jun-25-2015,jon southurst
+300,first spanish university installs bitcoin atm on campus,"[installs, university, atm, bitcoin, spanish, campus, first]",Jun-24-2015,pete rizzo
+301,bitcoin network survives surprise stress test,"[stress, network, bitcoin, surprise, test, survive]",Jun-23-2015,jon southurst
+302,judge rules in peer-to-peer bitcoin lending lawsuit,"[lending, bitcoin, rule, judge, peer-to-peer, lawsuit]",Jun-18-2015,stan higgins
+303,bitcoin mining pool btc guild to close over bitlicense concerns,"[bitlicense, mining, guild, bitcoin, btc, close, pool, concern]",Jun-16-2015,stan higgins
+304,my life inside a remote chinese bitcoin mine,"[life, remote, chinese, inside, mine, bitcoin]",Jun-08-2015,eric mu
+305,consensus 2015: what the internet can teach blockchain innovators,"[consensus, teach, innovator, blockchain, internet]",Jun-05-2015,coindesk
+306,kncminer deploys next-generation 16nm bitcoin asic,"[nm, deploy, asic, bitcoin, next-generation, kncminer]",Jun-04-2015,grace caffyn
+307,bitfury to release light bulbs that mine bitcoin in 2015,"[light, bitcoin, mine, bitfury, release, bulb]",Jun-02-2015,pete rizzo
+308,think tank reignites debate over bitcoin mining's environmental effects,"[mining, tank, reignite, bitcoin, debate, environmental, effect, think]",May-27-2015,yessi bello perez
+309,canadian university adds bitcoin atms to bookstore locations,"[canadian, university, atm, bitcoin, add, bookstore, location]",May-25-2015,pete rizzo
+310,darkwallet and armory come top in bitcoin wallet privacy study,"[privacy, darkwallet, top, bitcoin, wallet, armory, come, study]",May-19-2015,pete rizzo
+311,21 inc confirms plans for mass bitcoin miner distribution,"[miner, bitcoin, mass, plan, distribution, confirms, inc]",May-18-2015,pete rizzo
+312,coinbase app update enables mobile sign up,"[mobile, app, update, sign, coinbase, enables]",May-14-2015,pete rizzo
+313,inside 21's plans to bring bitcoin to the masses,"[bring, inside, mass, plan, bitcoin]",May-12-2015,pete rizzo
+314,dubai's bitoasis opens bitcoin buying service at techcrunch disrupt,"[dubai, bitoasis, service, disrupt, bitcoin, open, techcrunch, buying]",May-06-2015,pete rizzo
+315,case bitcoin hardware wallet available for pre-order,"[case, available, bitcoin, hardware, wallet, pre-order]",May-04-2015,pete rizzo
+316,block chain summit responds to backlash over private island bash,"[respond, chain, island, private, summit, bash, backlash, block]",May-04-2015,pete rizzo
+317,spondoolies-tech to merge with bitcoin shop in mining market shake-up,"[shop, bitcoin, mine, merge, shake-up, spondoolies-tech, market]",Apr-29-2015,pete rizzo
+318,richard branson to host bitcoin summit on private island,"[richard, island, bitcoin, private, host, summit, branson]",Apr-28-2015,pete rizzo
+319,lamassu plans added cost for bitcoin atm operators,"[atm, bitcoin, lamassu, add, cost, plan, operator]",Apr-23-2015,stan higgins
+320,bitcoin core developers join mit digital currency initiative,"[core, join, bitcoin, currency, initiative, digital, mit, developer]",Apr-22-2015,pete rizzo
+321,coinbase seeks 'invasive' details on us bitcoin mining operations,"[mine, invasive, detail, bitcoin, u, coinbase, operation, seek]",Apr-02-2015,stan higgins
+322,bitfury names former justice department official to advisory board,"[advisory, name, justice, official, bitfury, board, department, former]",Mar-18-2015,stan higgins
+323,chainalysis ceo denies 'sybil attack' on bitcoin's network,"[deny, sybil, network, ceo, bitcoin, chainalysis, attack]",Mar-14-2015,grace caffyn
+324,bitcoin mining pools targeted in wave of ddos attacks,"[mining, target, bitcoin, wave, ddos, attack, pool]",Mar-12-2015,stan higgins
+325,secretive mining firm revealed as possible us marshals auction winner,"[firm, reveal, mining, auction, winner, possible, u, secretive, marshal]",Mar-12-2015,joon ian wong
+326,why wiper added bitcoin to its disappearing chat app,"[app, bitcoin, add, chat, wiper, disappear]",Mar-09-2015,yessi bello perez
+327,former gaw manager: $8 million zenminer investment ‘a total lie’,"[lie, gaw, million, investment, manager, zenminer, total, former]",Mar-06-2015,stan higgins
+328,"btcpoint creates 10,000 bitcoin-enabled atms using spanish bank network","[use, network, create, atm, btcpoint, spanish, bitcoin-enabled, bank]",Mar-06-2015,pete rizzo
+329,research tracks bitcoin mining from hobby to big business,"[business, track, big, mine, bitcoin, hobby, research]",Mar-05-2015,joon ian wong
+330,'masked' card lets online shoppers pay anywhere with bitcoin,"[shopper, pay, mask, bitcoin, anywhere, let, online, card]",Mar-04-2015,yessi bello perez
+331,megabigpower opens buyback for unprofitable bitcoin miners,"[megabigpower, miner, bitcoin, buyback, unprofitable, open]",Mar-04-2015,stan higgins
+332,digitalbtc launches mining contracts platform digitalx mintsy,"[digitalx, launch, mine, contract, digitalbtc, platform, mintsy]",Mar-03-2015,yessi bello perez
+333,bitfury launches new 28nm bitcoin mining asic,"[mining, nm, launch, asic, bitcoin, bitfury, new]",Feb-28-2015,stan higgins
+334,bitcoin miner aquifer files for chapter 11 bankruptcy,"[chapter, miner, bitcoin, aquifer, file, bankruptcy]",Feb-23-2015,stan higgins
+335,blockchain reports 3 millionth bitcoin wallet,"[report, millionth, blockchain, bitcoin, wallet]",Feb-23-2015,grace caffyn
+336,miners can split and sell hash rates with new betarigs feature,"[sell, hash, miner, feature, rate, split, new, betarigs]",Feb-20-2015,stan higgins
+337,xapo bids for big bitcoin business with enterprise security suite,"[business, big, xapo, bitcoin, enterprise, suite, security, bid]",Feb-19-2015,pete rizzo
+338,spectrocoin unveils ios bitcoin wallet app,"[app, bitcoin, unveils, wallet, io, spectrocoin]",Feb-19-2015,pete rizzo
+339,hardware wallet startup ledger closes €1.3 million seed round,"[million, startup, ledger, hardware, wallet, seed, close, round]",Feb-19-2015,sandrine ayral
+340,"two dutch bitcoin atms missing, assumed stolen","[assume, steal, atm, bitcoin, two, dutch, miss]",Feb-18-2015,yessi bello perez
+341,bitcoin atm shutdown spotlights regulatory uncertainty in vermont,"[vermont, atm, uncertainty, bitcoin, shutdown, regulatory, spotlight]",Feb-17-2015,pete rizzo
+342,bitcoin core 0.10 gives developers simplified access to network consensus,"[core, network, give, bitcoin, access, simplify, consensus, developer]",Feb-17-2015,joon ian wong
+343,"québec mandates bitcoin atms, trading platforms obtain licenses","[qu, license, bec, bitcoin, atms, platform, trading, mandate, obtain]",Feb-13-2015,pete rizzo
+344,bitcoin atm selling gold and silver goes live in singapore,"[sell, gold, singapore, atm, bitcoin, live, go, silver]",Feb-13-2015,jon southurst
+345,mycelium's bitcoin wallet suspended from google play store,"[play, suspend, mycelium, bitcoin, wallet, google, store]",Feb-11-2015,yessi bello perez
+346,palarin brings coinbase-inspired bitcoin services to the philippines,"[coinbase-inspired, service, philippine, bitcoin, bring, palarin]",Feb-08-2015,daniel cawrey
+347,vice tours a bitcoin mine in china,"[mine, tour, china, bitcoin, vice]",Feb-06-2015,joon ian wong
+348,robocoin eases onboarding process with online verification,"[process, ease, onboarding, verification, online, robocoin]",Feb-05-2015,yessi bello perez
+349,coinjar redesigns ios wallet app for more social experience,"[redesign, app, ios, experience, wallet, social, coinjar]",Feb-04-2015,jon southurst
+350,hashrabbit raises $500k for its bitcoin mining software solution,"[mining, raise, k, bitcoin, solution, hashrabbit, software]",Feb-04-2015,daniel cawrey
+351,bitcoin mining firm kncminer raises further $15 million,"[firm, mining, raise, million, bitcoin, kncminer]",Feb-03-2015,stan higgins
+352,spondoolies-tech and genesis team up for cloud mining service,"[mining, service, team, spondoolies-tech, genesis, cloud]",Feb-02-2015,stan higgins
+353,bitcoin atm maker robocoin hints at software shift,"[hint, shift, atm, bitcoin, robocoin, maker, software]",Jan-30-2015,pete rizzo
+354,digitalbtc dissolves bitcoin mining agreement with cloudhashing,"[agreement, digitalbtc, mine, bitcoin, cloudhashing, dissolve]",Jan-30-2015,nermin hajdarbegovic
+355,ftc complaints detail troubled past of bankrupt bitcoin miner cointerra,"[complaint, bankrupt, miner, detail, bitcoin, past, ftc, cointerra, trouble]",Jan-29-2015,pete rizzo
+356,bitfury exploring options in bitcoin cloud mining market,"[mining, option, explore, bitcoin, bitfury, market, cloud]",Jan-28-2015,tanaya macheel
+357,bitcoin mining firm cointerra files for chapter 7 bankruptcy,"[firm, chapter, mining, cointerra, bitcoin, file, bankruptcy]",Jan-27-2015,stan higgins
+358,cloud mining suffers as hash rate plateaus,"[mining, suffers, hash, rate, plateau, cloud]",Jan-25-2015,nermin hajdarbegovic
+359,how anonymous is bitcoin? a backgrounder for policymakers,"[policymakers, bitcoin, anonymous, backgrounder]",Jan-25-2015,adam ludwin
+360,digitalbtc inks deal with spondoolies-tech to expand mining operation,"[mining, deal, digitalbtc, ink, spondoolies-tech, operation, expand]",Jan-23-2015,nermin hajdarbegovic
+361,bitfury eyes bitcoin mining advantage with immersion cooling acquisition,"[eye, advantage, immersion, bitcoin, mine, bitfury, acquisition, cool]",Jan-22-2015,tanaya macheel
+362,digitalbtc selloff prompts questions from australian securities exchange,"[prompt, exchange, selloff, question, digitalbtc, security, australian]",Jan-19-2015,nermin hajdarbegovic
+363,bitcoin miner zeushash faces cloud service shutdown,"[service, zeushash, miner, bitcoin, face, shutdown, cloud]",Jan-16-2015,stan higgins
+364,airbitz gives away btc in miami bitcoin conference scavenger hunt,"[conference, give, miami, away, hunt, bitcoin, airbitz, btc, scavenger]",Jan-16-2015,daniel cawrey
+365,cointerra ceo: company 'frozen' amid lawsuits and default,"[default, ceo, amid, company, frozen, cointerra, lawsuit]",Jan-14-2015,stan higgins
+366,data center operator sues cointerra for $5.4 million in damages,"[sue, center, million, damage, cointerra, operator, data]",Jan-12-2015,stan higgins
+367,cex.io halts cloud mining service due to low bitcoin price,"[mining, halt, service, price, due, bitcoin, low, cex.io, cloud]",Jan-12-2015,stan higgins
+368,overstock installs bitcoin atm at corporate hq,"[atm, installs, hq, bitcoin, corporate, overstock]",Jan-09-2015,tanaya macheel
+369,dutch scrypt mining company declared bankrupt,"[mining, bankrupt, company, dutch, scrypt, declare]",Jan-09-2015,aaron van wirdum
+370,"butterfly labs resumes shipping, sets timetable for refunds","[butterfly, refund, set, resume, lab, timetable, ship]",Jan-08-2015,nermin hajdarbegovic
+371,cointerra silent amid alleged cloud mining payout freeze,"[payout, mining, silent, amid, alleged, freeze, cointerra, cloud]",Jan-08-2015,joon ian wong
+372,bitcoin broker libertyx raises $400k for hiring push,"[hire, raise, k, libertyx, bitcoin, broker, push]",Jan-07-2015,pete rizzo
+373,cubits launch aims to accelerate bitcoin buying in europe,"[europe, aim, launch, bitcoin, cubit, accelerate, buying]",Jan-07-2015,nermin hajdarbegovic
+374,review: ravenbit keeps physical bitcoin meme alive,"[meme, review, bitcoin, alive, keep, ravenbit, physical]",Jan-04-2015,jon southurst
+375,"bitcoin mining pools attack when threatened, study finds","[mining, study, bitcoin, attack, threaten, find, pool]",Jan-02-2015,joon ian wong
+376,mike hearn: how bitcoin's technology advanced in 2014,"[advance, mike, hearn, technology, bitcoin]",Jan-02-2015,mike hearn
+377,megabigpower: 2014 was a game changer for bitcoin mining,"[game, bitcoin, mining, changer, megabigpower]",Dec-29-2014,stan higgins
+378,gregory maxwell: how i went from bitcoin skeptic to core developer,"[core, skeptic, maxwell, bitcoin, go, gregory, developer]",Dec-29-2014,daniel cawrey
+379,6 charts that show massive bitcoin atm growth in 2014,"[show, atm, bitcoin, chart, growth, massive]",Dec-26-2014,joon ian wong
+380,review: ledger wallet nano provides premium security on a budget,"[premium, nano, provide, review, ledger, budget, wallet, security]",Dec-21-2014,nermin hajdarbegovic
+381,coinkite removes limits on multisig bitcoin wallets in service fee shakeup,"[fee, service, bitcoin, remove, wallet, coinkite, limit, shakeup, multisig]",Dec-16-2014,pete rizzo
+382,court strikes down ftc request for more butterfly labs oversight,"[butterfly, court, request, lab, ftc, strike, oversight]",Dec-15-2014,nermin hajdarbegovic
+383,'good samaritan' blockchain hacker who returned 267 btc speaks out,"[hacker, good, return, samaritan, blockchain, btc, speak]",Dec-12-2014,jon southurst
+384,ledger launches usb bitcoin wallet with 'bank-grade' security,"[usb, launch, bitcoin, ledger, wallet, bank-grade, security]",Dec-12-2014,daniel palmer
+385,uncertainty builds as alpha technology misses another shipping deadline,"[miss, uncertainty, shipping, deadline, build, another, alpha, technology]",Dec-10-2014,joon ian wong
+386,hacker returns 225 btc taken from blockchain wallets,"[hacker, return, blockchain, wallet, take, btc]",Dec-10-2014,jon southurst
+387,bitfury ceo: we're not a bitcoin mining company,"[ceo, company, bitfury, mining, bitcoin]",Dec-06-2014,pete rizzo
+388,"libertyx brings bitcoin buying to 2,500 us retail stores","[buy, brings, libertyx, bitcoin, u, retail, store]",Dec-03-2014,pete rizzo
+389,bitcoin price decline sparks rare mining difficulty drop,"[decline, mining, rare, price, drop, bitcoin, difficulty, spark]",Dec-03-2014,nermin hajdarbegovic
+390,"btc china's new pool mines 3,325 btc in five weeks","[week, china, mine, five, btc, new, pool]",Dec-02-2014,jon southurst
+391,spondoolies-tech ceo talks new asics and a 'blockchain lottery' device,"[lottery, ceo, blockchain, asics, device, new, spondoolies-tech, talk]",Dec-01-2014,nermin hajdarbegovic
+392,the blockchain application stack,"[application, blockchain, stack]",Nov-30-2014,joel monegro
+393,bitcoin: new plumbing for financial services,"[plumbing, new, financial, bitcoin, service]",Nov-29-2014,jonathan levin
+394,robocoin operator hacks atm to run lamassu software,"[run, atm, lamassu, hack, operator, robocoin, software]",Nov-28-2014,joon ian wong
+395,how bitcoin companies keep your funds safe,"[fund, company, safe, bitcoin, keep]",Nov-25-2014,danny bradbury
+396,bitfury adds samsung strategy chief to advisor board,"[samsung, bitfury, strategy, chief, add, board, advisor]",Nov-24-2014,pete rizzo
+397,the blockchain lottery: how miners are rewarded,"[lottery, miner, blockchain, reward]",Nov-23-2014,conrad barski & chris wilmer
+398,"lamassu: bitcoin atm owners earning up to $36,000 per year","[earn, atm, bitcoin, per, lamassu, year, owner]",Nov-21-2014,pete rizzo
+399,gavin andresen: bitcoin foundation pivot won't centralize core development,"[development, centralize, foundation, bitcoin, gavin, pivot, core, andresen]",Nov-20-2014,stan higgins
+400,chinese bitcoin mining alliance denounces ponzi schemes in transparency push,"[mining, alliance, ponzi, chinese, bitcoin, denounces, transparency, push, scheme]",Nov-20-2014,stan higgins
+401,mining roundup: bitmain's mining pool push and a hashfast auction,"[roundup, mining, auction, hashfast, push, bitmain, pool]",Nov-20-2014,stan higgins
+402,cryptolabs announces bitcoin hardware wallet with biometric authentication,"[cryptolabs, bitcoin, hardware, wallet, authentication, announces, biometric]",Nov-19-2014,pete rizzo
+403,factom outlines record-keeping network that utilises bitcoin's blockchain,"[record-keeping, outline, utilise, factom, blockchain, bitcoin, network]",Nov-19-2014,stan higgins
+404,kncminer plans 16nm bitcoin mining asic launch in 2015,"[mining, nm, launch, asic, bitcoin, plan, kncminer]",Nov-18-2014,nermin hajdarbegovic
+405,coinbase launches 'one-click' bitcoin tipping tool,"[one-click, launch, tool, tip, bitcoin, coinbase]",Nov-18-2014,pete rizzo
+406,"""i love the blockchain, just not bitcoin""","[blockchain, love, bitcoin]",Nov-16-2014,jonathan levin
+407,hyprkey introduces fingerprint scanning to secure bitcoin transactions,"[transaction, secure, scan, introduces, bitcoin, hyprkey, fingerprint]",Nov-16-2014,tanaya macheel
+408,bitpay partners with trucoin to bring bitcoin atms to bowl game,"[trucoin, atm, bowl, bitcoin, bitpay, bring, game, partner]",Nov-12-2014,pete rizzo
+409,robocoin policy change ignites fears over centralisation,"[ignite, centralisation, policy, fear, robocoin, change]",Nov-08-2014,pete rizzo
+410,can hobbyist bitcoin miners still make a buck?,"[buck, make, miner, bitcoin, hobbyist, still]",Nov-08-2014,danny bradbury
+411,japanese scholars draft proposal for a better bitcoin,"[good, scholar, japanese, bitcoin, draft, proposal]",Nov-07-2014,nermin hajdarbegovic
+412,robocoin now requires all atm operators to collect customer information,"[customer, information, require, atm, collect, operator, robocoin]",Nov-07-2014,pete rizzo
+413,gallery: fire destroys thai bitcoin mining facility,"[mining, facility, fire, bitcoin, destroy, thai, gallery]",Nov-06-2014,nermin hajdarbegovic
+414,bitcoin atm goes live at google's london co-working space,"[google, space, atm, bitcoin, live, london, go, co-working]",Nov-05-2014,joon ian wong
+415,ftc granted approval to sell off butterfly labs’ bitcoins,"[sell, butterfly, bitcoins, grant, lab, ftc, approval]",Nov-04-2014,pete rizzo
+416,teraexchange brings multisig security to bitcoin derivatives platform,"[teraexchange, bitcoin, platform, brings, derivative, security, multisig]",Nov-03-2014,pete rizzo
+417,circle launches mobile apps for ios and android,"[launch, mobile, apps, io, circle, android]",Nov-03-2014,jon southurst
+418,mining roundup: btc guild for sale and zeusminer's sudden hardware halt,"[roundup, mining, guild, halt, sale, hardware, sudden, zeusminer, btc]",Oct-31-2014,stan higgins
+419,spanish hotel chain kicks off bitcoin atm launch with cocktail party,"[atm, cocktail, chain, launch, hotel, bitcoin, spanish, party, kick]",Oct-31-2014,emily spaven
+420,"bitcoin-over-tor anonymity 'can be busted for $2,500 a month'","[anonymity, bitcoin-over-tor, bust, month]",Oct-29-2014,joon ian wong
+421,what's next for bitcoin wallet security?,"[wallet, security, bitcoin, next]",Oct-26-2014,danny bradbury
+422,the family that mines bitcoin together stays together,"[together, stay, mine, family, bitcoin]",Oct-26-2014,stan higgins
+423,spondoolies-tech takes aim at bitfury with $5 million funding round,"[funding, million, aim, bitfury, take, spondoolies-tech, round]",Oct-24-2014,pete rizzo
+424,butterfly labs urges court to dismiss ftc's 'self-serving' fraud charges,"[butterfly, urge, fraud, court, dismiss, charge, lab, self-serving, ftc]",Oct-24-2014,nermin hajdarbegovic
+425,lamassu partners with identitymind to offer enhanced atm compliance,"[compliance, offer, atm, identitymind, lamassu, enhanced, partner]",Oct-23-2014,pete rizzo
+426,bitfury invests in gocoin for payments processing push,"[process, bitfury, push, invests, gocoin, payment]",Oct-22-2014,pete rizzo
+427,asic design firm alchip to debut on taiwan stock exchange,"[firm, exchange, debut, asic, design, taiwan, alchip, stock]",Oct-22-2014,nermin hajdarbegovic
+428,coinprism releases colored coins android app for mobile asset transfer,"[color, transfer, app, mobile, asset, coinprism, release, android, coin]",Oct-20-2014,nermin hajdarbegovic
+429,btc china adds mining pool and merchant payment services,"[merchant, service, mine, add, china, btc, payment, pool]",Oct-20-2014,jon southurst
+430,why bitcoin's core developers want multiple versions,"[core, multiple, bitcoin, version, want, developer]",Oct-19-2014,danny bradbury
+431,the math behind bitcoin,"[behind, bitcoin, math]",Oct-19-2014,eric rykwalder
+432,review: bitcoin 'vault' trezor lives up to its name,"[name, review, bitcoin, live, vault, trezor]",Oct-18-2014,nermin hajdarbegovic
+433,robocoin customers report trail of late deliveries after reddit exposé,"[customer, late, reddit, delivery, trail, expo, report, robocoin]",Oct-17-2014,joon ian wong
+434,the blacklist debate: when is it ok to meddle with bitcoin's code?,"[code, ok, bitcoin, meddle, blacklist, debate]",Oct-17-2014,danny bradbury
+435,australian police seize bitcoin atm in $2.6 million drug bust,"[million, police, seize, atm, bitcoin, drug, bust, australian]",Oct-17-2014,nermin hajdarbegovic
+436,open-source tool identifies weak bitcoin wallet signatures,"[open-source, tool, weak, bitcoin, wallet, signature, identifies]",Oct-16-2014,nermin hajdarbegovic
+437,california attorney investigating potential class action against kncminer,"[attorney, investigate, potential, california, action, kncminer, class]",Oct-15-2014,stan higgins
+438,how bitcoin's block chain could stop history being rewritten,"[chain, rewrite, could, stop, bitcoin, block, history]",Oct-15-2014,nozomi hayase
+439,practical sessions and in-depth talks mark final day of hashers united,"[united, hashers, in-depth, mark, practical, day, session, final, talk]",Oct-14-2014,stan higgins
+440,imf and world bank annual meetings explore block chain's potential,"[chain, imf, annual, explore, potential, block, world, meeting, bank]",Oct-14-2014,nermin hajdarbegovic
+441,new bitcoin wallet app targets philippines remittance market,"[target, app, bitcoin, wallet, remittance, new, philippines, market]",Oct-13-2014,jon southurst
+442,bitcoin miners debate risks and rewards at las vegas convention,"[risk, miner, bitcoin, vega, convention, reward, debate, las]",Oct-11-2014,stan higgins
+443,over 800 payment terminals in romania now sell bitcoin,"[terminal, sell, romania, payment, bitcoin]",Oct-10-2014,joon ian wong
+444,bitfury raises $20 million to power new asic chip development,"[development, raise, power, chip, million, asic, bitfury, new]",Oct-09-2014,pete rizzo
+445,"mining roundup: pen-and-paper mining, roi uncertainty and the latest on butterfly labs","[roundup, pen-and-paper, mining, butterfly, roi, uncertainty, mine, lab, late]",Oct-07-2014,stan higgins
+446,"airbitz's touchless bitcoin wallet targets novices, evangelists alike","[evangelist, target, novices, bitcoin, wallet, airbitz, alike, touchless]",Oct-07-2014,daniel cawrey
+447,blockchain to grow further after closing $30.5 million funding round,"[funding, million, blockchain, round, close, grow]",Oct-07-2014,jon southurst
+448,russia seizes bitcoin mining equipment in incident at china border,"[mining, seize, bitcoin, equipment, incident, china, border, russia]",Oct-06-2014,pete rizzo
+449,portuguese manufacturer bitcoin já launches new bitcoin atm,"[portuguese, atm, launch, j, bitcoin, new, manufacturer]",Oct-06-2014,nermin hajdarbegovic
+450,butterfly labs to resume limited business operations,"[butterfly, limited, business, resume, lab, operation]",Oct-03-2014,pete rizzo
+451,ex-verifone exec: bitcoin isn't just another crazy payments idea,"[crazy, exec, ex-verifone, bitcoin, idea, another, payment]",Oct-01-2014,pete rizzo
+452,butterfly labs seeks government approval to reopen business,"[butterfly, business, government, lab, reopen, approval, seeks]",Oct-01-2014,stan higgins
+453,digitaltangible expands crypto 2.0 gold trading platform to asia,"[gold, crypto, asia, platform, digitaltangible, trading, expands]",Oct-01-2014,daniel palmer
+454,"irish pub abandons bitcoin, cites legal concerns","[irish, bitcoin, legal, pub, abandon, cite, concern]",Oct-01-2014,nermin hajdarbegovic
+455,robocoin launches custom bitcoin wallet targeting underbanked,"[underbanked, target, launch, bitcoin, custom, wallet, robocoin]",Sep-30-2014,pete rizzo
+456,"coincorner launches mobile wallet, pos solution and payment gateway","[coincorner, launch, mobile, solution, payment, wallet, gateway, po]",Sep-30-2014,nermin hajdarbegovic
+457,aegis wallet brings bitcoin to android smartwatches,"[smartwatches, bring, bitcoin, wallet, aegis, android]",Sep-30-2014,nermin hajdarbegovic
+458,early bitcoin adopter calls for multi-sig solutions after 750 btc theft,"[theft, multi-sig, bitcoin, solution, early, call, btc, adopter]",Sep-30-2014,jon southurst
+459,ftc: butterfly labs held back shipments for illicit mining,"[butterfly, mining, back, labs, illicit, ftc, shipment, hold]",Sep-29-2014,pete rizzo
+460,alpha technology viper scrypt miner shipments slip to october,"[october, slip, miner, viper, shipment, scrypt, alpha, technology]",Sep-29-2014,nermin hajdarbegovic
+461,12 ways to measure the bitcoin network's health,"[network, health, bitcoin, way, measure]",Sep-27-2014,jon matonis
+462,diamond circle launches first cashless bitcoin atm,"[cashless, diamond, launch, atm, bitcoin, circle, first]",Sep-26-2014,nermin hajdarbegovic
+463,mit students challenge new jersey state in tidbit legal case,"[case, tidbit, challenge, legal, state, student, new, mit, jersey]",Sep-26-2014,danny bradbury
+464,ftc: butterfly labs case not part of 'war on bitcoin',"[butterfly, case, bitcoin, lab, ftc, part, war]",Sep-24-2014,stan higgins
+465,us government shuts down embattled mining firm butterfly labs,"[firm, butterfly, shut, government, embattle, mining, lab, u]",Sep-23-2014,stan higgins
+466,vietnam exchange adds bitcoin wallet with off-chain transactions,"[transaction, exchange, add, bitcoin, wallet, off-chain, vietnam]",Sep-23-2014,jon southurst
+467,"mining roundup: litecoin's milestone, lab rat's lawsuit and bitfury's board boost","[roundup, mining, litecoin, boost, bitfury, lab, rat, board, milestone, lawsuit]",Sep-22-2014,stan higgins
+468,bitocean releases two-way bitcoin atm to compete with market leaders,"[atm, two-way, bitocean, bitcoin, compete, release, leader, market]",Sep-21-2014,jon southurst
+469,cryptocurrency miners turn to exotic cooling systems as competition heats up,"[exotic, miner, system, competition, cryptocurrency, turn, heat, cool]",Sep-20-2014,joon ian wong
+470,how discus fish became china's largest bitcoin mining pool,"[mining, discus, fish, bitcoin, large, china, become, pool]",Sep-19-2014,stan higgins
+471,cointerra opens pre-orders for first 16nm bitcoin asic,"[nm, asic, bitcoin, pre-orders, cointerra, open, first]",Sep-18-2014,nermin hajdarbegovic
+472,"coinbase launches toshi, a free bitcoin api for developers","[launch, bitcoin, free, api, toshi, coinbase, developer]",Sep-17-2014,pete rizzo
+473,digitalbtc partners with cryptsy for mining platform launch,"[launch, mine, digitalbtc, platform, partner, cryptsy]",Sep-17-2014,stan higgins
+474,"plan to launch 1,000 us bitcoin atms collapses amid alleged misconduct","[collapse, launch, amid, bitcoin, atms, u, plan, alleged, misconduct]",Sep-15-2014,pete rizzo
+475,europe's top 5 countries for bitcoin atms,"[europe, country, top, atm, bitcoin]",Sep-14-2014,tom sharkey
+476,why bitcoin mining can no longer ignore moore’s law,"[mining, moore, bitcoin, ignore, law, longer]",Sep-14-2014,nermin hajdarbegovic
+477,the top 5 us states for bitcoin atms,"[top, atm, u, state, bitcoin]",Sep-13-2014,tom sharkey
+478,ios users get first 'decentralized' bitcoin wallet with breadwallet,"[decentralize, get, bitcoin, wallet, user, io, breadwallet, first]",Sep-13-2014,jon southurst
+479,rushwallet adds instant bitcoin fundraising feature,"[rushwallet, instant, fundraising, feature, bitcoin, add]",Sep-12-2014,jon southurst
+480,dogecoin community celebrates as merge mining with litecoin begins,"[mining, litecoin, begin, community, merge, dogecoin, celebrate]",Sep-11-2014,stan higgins
+481,uk bitcoin atm grosses £38k in last month,"[gross, last, k, atm, bitcoin, month, uk]",Sep-11-2014,joon ian wong
+482,api developer gem aims to streamline bitcoin app development,"[development, app, bitcoin, aim, api, streamline, gem, developer]",Sep-09-2014,nermin hajdarbegovic
+483,btchip launches multi-signature usb bitcoin wallet,"[usb, launch, multi-signature, bitcoin, wallet, btchip]",Sep-09-2014,nermin hajdarbegovic
+484,it's time for bitcoin companies to give back,"[back, company, give, bitcoin, time]",Sep-07-2014,danny bradbury
+485,mining roundup: new viper tests and bitmain's debut cloud mining service,"[roundup, mining, service, debut, mine, viper, bitmain, test, new, cloud]",Sep-07-2014,stan higgins
+486,why a faster bitcoin network would keep fees low,"[fee, network, would, bitcoin, keep, low, faster]",Sep-06-2014,jonathan levin
+487,gallery: inside a top bitcoin mine in china,"[bitcoin, inside, mine, gallery, china, top]",Sep-05-2014,grace caffyn
+488,safello announces social media-inspired bitcoin wallet,"[safello, announces, social, bitcoin, wallet, media-inspired]",Sep-05-2014,pete rizzo
+489,atm industry group: bitcoin atm sector needs more oversight,"[sector, group, industry, atm, bitcoin, need, oversight]",Sep-04-2014,pete rizzo
